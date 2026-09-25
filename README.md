@@ -2,15 +2,15 @@
 
 # 🎨 Design Style Atlas
 
-**140 copy-paste visual directions for AI coding agents.** Pick a style, hand its `DESIGN.md` to your agent, get coherent UI.
+**170 copy-paste visual directions for AI coding agents.** Pick a style, hand its `DESIGN.md` to your agent, get coherent UI.
 
 [![MIT](https://img.shields.io/badge/license-MIT-green)](#-license)
-![Styles](https://img.shields.io/badge/styles-140-blue)
+![Styles](https://img.shields.io/badge/styles-170-blue)
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js)
 ![MCP ready](https://img.shields.io/badge/MCP-ready-purple)
 ![Node](https://img.shields.io/badge/node-%3E%3D20.9.0-339933?logo=node.js)
 
-🌐 Live demo — https://design-styles.dev · [📖 Browse styles](#-browse-the-140-styles) · [🤝 Contribute](CONTRIBUTING.md)
+🌐 Live demo — https://design-styles.dev · [📖 Browse styles](#-browse-the-170-styles) · [🤝 Contribute](CONTRIBUTING.md)
 
 </div>
 
@@ -38,7 +38,7 @@ Browse the index: https://design-styles.dev · machine index: https://design-sty
 
 ---
 
-## 📖 Browse the 140 styles
+## 📖 Browse the 170 styles
 
 Every name links to its agent-ready spec. Most used first (same order as the site):
 
@@ -77,7 +77,7 @@ Order follows `frontend/app/lib/popularity.json`, the same ranking the site uses
 - [Eco / Sustainable](designs/eco-sustainable/DESIGN.md) — Planet-first design: recycled textures, impact counters and honest green.
 - [Wabi-Sabi](designs/wabi-sabi/DESIGN.md) — Perfect imperfection: asymmetry, cracks and weathered beauty, honored.
 - [E-Ink Paper](designs/e-ink-paper/DESIGN.md) — Warm paper grounds, book serif, and distraction-free reading calm.
-- [Papercut](designs/papercut/DESIGN.md) — Dimensional physical paper craft: stacked textured cardstock silhouettes with soft cast drop shadows.
+- [Papercut](designs/papercut/DESIGN.md) — Layered cardstock contours and cut silhouettes create tactile depth across an interface.
 
 </details>
 
@@ -141,7 +141,7 @@ Order follows `frontend/app/lib/popularity.json`, the same ranking the site uses
 - [Oversized Typography](designs/oversized-typography/DESIGN.md) — Scale as spectacle: viewport-filling headlines that carry whole pages.
 - [Variable Fonts](designs/variable-fonts/DESIGN.md) — Living letterforms: weight, width and optical size reacting to context.
 - [Illustration-Led](designs/illustration-led/DESIGN.md) — Drawn worlds first: spot illustrations, scenes and characters carrying pages.
-- [Hand-Drawn](designs/hand-drawn/DESIGN.md) — Wobbly human lines: marker strokes, doodles and imperfect warmth.
+- [Hand-Drawn](designs/hand-drawn/DESIGN.md) — Whiteboard-style interface annotations use marker arrows, circles, and wobbly frames.
 - [Corporate Memphis](designs/corporate-memphis/DESIGN.md) — Flat friendly vector people: big tech's geometric humanism, polished.
 - [Collage](designs/collage/DESIGN.md) — Cut-and-paste energy: torn edges, tape and layered fragments with intent.
 - [Grain / Noise](designs/grain-noise/DESIGN.md) — Analog warmth over digital: film grain, texture overlays and tactile depth.
@@ -242,6 +242,43 @@ Order follows `frontend/app/lib/popularity.json`, the same ranking the site uses
 - [Spatial Computing](designs/spatial-computing/DESIGN.md) — Volumetric frosted glass, 3D z-depth layering, eye-tracking glow, and floating optical surfaces.
 - [Blueprint](designs/blueprint/DESIGN.md) — Architectural cyanotype precision: crisp white drafting schematics on deep Prussian blue grids.
 - [Racing Telemetry](designs/racing-telemetry/DESIGN.md) — High-g cockpit telemetry: carbon fiber weave, digital tachometer rev-counter redline, and lap split telemetry.
+
+</details>
+
+
+<details>
+<summary><strong>Material, Print & Drawing (30)</strong></summary>
+
+- [Paper Cut Diorama](designs/paper-cut-diorama/DESIGN.md) — A framed paper scene with separated foreground, middle ground, and background planes.
+- [Origami Geometry](designs/origami-geometry/DESIGN.md) — Folded polygonal forms that show crease logic and planar light.
+- [Kirigami Pop-Up](designs/kirigami-pop-up/DESIGN.md) — Cut-and-fold paper structures rise from a flat base.
+- [Paper Quilling](designs/paper-quilling/DESIGN.md) — Rolled paper strips form coils, scrolls, and raised linework.
+- [Paper Marbling](designs/paper-marbling/DESIGN.md) — Fluid combed pigments make nonrepeating veins on paper.
+- [Felt Appliqué](designs/felt-applique/DESIGN.md) — Cut felt shapes sit on a soft ground with visible stitched attachment.
+- [Embroidered Illustration](designs/embroidered-illustration/DESIGN.md) — Thread stitches draw pictures across a woven fabric ground.
+- [Quilted Patchwork](designs/quilted-patchwork/DESIGN.md) — Pieced fabric blocks join into a rhythmic sewn composition.
+- [Marquetry](designs/marquetry/DESIGN.md) — Fitted wood veneers create a precise picture from grain and tone.
+- [Mosaic](designs/mosaic/DESIGN.md) — Small irregular tesserae form images through color and grout.
+- [Linocut Print](designs/linocut-print/DESIGN.md) — Carved relief marks produce bold black-and-color impressions.
+- [Cyanotype](designs/cyanotype/DESIGN.md) — Botanical silhouettes appear as pale photograms on Prussian blue.
+- [Letterpress](designs/letterpress/DESIGN.md) — Type and simple ornaments print with pressure and imperfect ink.
+- [Etching](designs/etching/DESIGN.md) — Fine bitten lines and crosshatching build tonal printed scenes.
+- [Ukiyo-e Woodblock](designs/ukiyo-e-woodblock/DESIGN.md) — Flat color blocks and a dark keyline form an asymmetric print scene.
+- [Stained Glass](designs/stained-glass/DESIGN.md) — Colored translucent panes glow inside heavy lead cames.
+- [Sumi-e Ink Wash](designs/sumi-e-ink-wash/DESIGN.md) — Expressive black ink washes leave most paper untouched.
+- [Op Art](designs/op-art/DESIGN.md) — Repeated geometry creates controlled optical tension without animation.
+- [Isometric Illustration](designs/isometric-illustration/DESIGN.md) — Parallel 30-degree axes show a small world without perspective convergence.
+- [Low-Poly Facets](designs/low-poly-facets/DESIGN.md) — Large flat-shaded triangles model a faceted object.
+- [Pencil Sketch](designs/pencil-sketch/DESIGN.md) — Graphite outlines reveal construction, hatching, and erased light.
+- [Doodle Art](designs/doodle-art/DESIGN.md) — Repeated freehand mini motifs fill a lively patterned field.
+- [Charcoal Gesture](designs/charcoal-gesture/DESIGN.md) — Broad black strokes and smudged tone capture movement.
+- [Watercolor Wash](designs/watercolor-wash/DESIGN.md) — Transparent color layers overlap while paper white stays visible.
+- [Gouache Illustration](designs/gouache-illustration/DESIGN.md) — Opaque matte color planes keep visible brush edges.
+- [Chalk Pastel](designs/chalk-pastel/DESIGN.md) — Soft pigment dust blends across toothy colored paper.
+- [Wax Crayon](designs/wax-crayon/DESIGN.md) — Broken wax marks make pressure-driven color fills.
+- [Continuous Line](designs/continuous-line/DESIGN.md) — One uninterrupted line defines a sparse subject.
+- [Architectural Sketchbook](designs/architectural-sketchbook/DESIGN.md) — Loose perspective studies include working lines, revisions, and margin notes.
+- [Ink Stippling](designs/ink-stippling/DESIGN.md) — Hand-placed dot density builds shape and tone.
 
 </details>
 

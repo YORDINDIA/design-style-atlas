@@ -1,10 +1,10 @@
 ---
 slug: hand-drawn
 name: "Hand-Drawn"
-description: "Wobbly human lines: marker strokes, doodles and imperfect warmth."
+description: "Whiteboard-style interface annotations use marker arrows, circles, and wobbly frames."
 category: Handmade & Texture
-tags: [hand-drawn, doodle, human]
-related: [risograph, halftone, grain-noise]
+tags: [hand-drawn, annotation, whiteboard]
+related: [pencil-sketch, doodle-art, illustration-led]
 preview:
   bg: "#FFFDF5"
   surface: "#FFFFFF"
@@ -22,7 +22,7 @@ preview:
 
 ## 1. Overall aesthetic
 
-A whiteboard that shipped: wobbly dividers, hand-circled prices, arrow doodles pointing at features, one handwritten font for emphasis over a legible body face. Human, funny, and clear. For education, nonprofits, kids, and friendly SaaS.
+A whiteboard that shipped: wobbly dividers, hand-circled prices, and marker arrows that point to interface features. The marks explain the content. Pencil Sketch studies form with graphite; Doodle Art builds a dense repeated motif field. Keep those uses separate from these UI annotations. Human, funny, and clear. For education, nonprofits, kids, and friendly SaaS.
 
 **Three principles:**
 
@@ -89,11 +89,11 @@ Notebook bar: doodle logo, hand-underlined links, circled CTA.
 
 ## 12. Imagery
 
-Doodles, diagrams, stick-figure explainers, annotated screenshots with marker circles.
+Annotated screenshots, simple explainer diagrams, and marker circles that identify a feature.
 
 ## 13. Icons
 
-Doodle icons: wobbly stroke, round caps, inconsistent (charmingly) — one artist's set.
+Marker icons: wobbly stroke and round caps, made as one coherent set.
 
 ## 14. Textures / Patterns
 
@@ -133,7 +133,7 @@ Durations: micro 150–250ms, standard 400–600ms draw-on strokes. Easings: han
 - Perfect geometric shapes (wobble them)
 - Handwritten body copy (legibility!)
 - Corporate stock photography
-- Over-doodling until content drowns
+- Dense repeated motif fields; use Doodle Art for those
 
 ## 20. Quick-start snippet
 

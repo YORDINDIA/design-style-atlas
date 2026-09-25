@@ -497,6 +497,51 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+  "architectural-sketchbook": {
+    "slug": "architectural-sketchbook",
+    "name": "Architectural Sketchbook",
+    "category": "Handmade & Texture",
+    "description": "Loose perspective studies include working lines, revisions, and margin notes.",
+    "tags": [
+      "architecture",
+      "sketch",
+      "perspective"
+    ],
+    "preview": {
+      "bg": "#F3F0E8",
+      "surface": "#FFFDF8",
+      "ink": "#2B3135",
+      "muted": "#626B6D",
+      "accent": "#9B5E48",
+      "accent2": "#56757A",
+      "display": "IBM Plex Sans, Arial, sans-serif",
+      "body": "Inter, Arial, sans-serif"
+    },
+    "cardBorder": "1px solid #2B313522",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "16px",
+    "btnRadius": "9999px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Architectural Sketchbook",
+    "subhead": "Loose perspective studies include working lines, revisions, and margin notes.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
   "art-deco": {
     "slug": "art-deco",
     "name": "Art Deco",
@@ -1044,6 +1089,51 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+  "chalk-pastel": {
+    "slug": "chalk-pastel",
+    "name": "Chalk Pastel",
+    "category": "Handmade & Texture",
+    "description": "Soft pigment dust blends across toothy colored paper.",
+    "tags": [
+      "pastel",
+      "powder",
+      "blend"
+    ],
+    "preview": {
+      "bg": "#F1ECE7",
+      "surface": "#FFFBF5",
+      "ink": "#332E33",
+      "muted": "#6C646C",
+      "accent": "#AA6A78",
+      "accent2": "#657E8C",
+      "display": "Fraunces, Georgia, serif",
+      "body": "Inter, Arial, sans-serif"
+    },
+    "cardBorder": "1px solid #332E3322",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "16px",
+    "btnRadius": "9999px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Chalk Pastel",
+    "subhead": "Soft pigment dust blends across toothy colored paper.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
   "chaos-design": {
     "slug": "chaos-design",
     "name": "Chaos Design",
@@ -1073,6 +1163,51 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
     "eyebrow": "01 / SPECIMEN",
     "headline": "Chaos Design",
     "subhead": "Controlled demolition: overlapping, rotated, colliding elements that still convert.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+  "charcoal-gesture": {
+    "slug": "charcoal-gesture",
+    "name": "Charcoal Gesture",
+    "category": "Handmade & Texture",
+    "description": "Broad black strokes and smudged tone capture movement.",
+    "tags": [
+      "charcoal",
+      "gesture",
+      "smudge"
+    ],
+    "preview": {
+      "bg": "#EDEBE6",
+      "surface": "#FAF8F3",
+      "ink": "#242424",
+      "muted": "#60605D",
+      "accent": "#776C63",
+      "accent2": "#8B8175",
+      "display": "Bodoni Moda, Georgia, serif",
+      "body": "Inter, Arial, sans-serif"
+    },
+    "cardBorder": "1px solid #24242422",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "16px",
+    "btnRadius": "9999px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Charcoal Gesture",
+    "subhead": "Broad black strokes and smudged tone capture movement.",
     "navCta": "Get Started",
     "primaryCta": "Explore Specimen",
     "secondaryCta": "Read Spec",
@@ -1360,6 +1495,51 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+  "continuous-line": {
+    "slug": "continuous-line",
+    "name": "Continuous Line",
+    "category": "Handmade & Texture",
+    "description": "One uninterrupted line defines a sparse subject.",
+    "tags": [
+      "contour",
+      "monoline",
+      "minimal"
+    ],
+    "preview": {
+      "bg": "#F7F4ED",
+      "surface": "#FFFFFF",
+      "ink": "#292D2E",
+      "muted": "#666C6D",
+      "accent": "#87614E",
+      "accent2": "#587779",
+      "display": "Instrument Serif, Georgia, serif",
+      "body": "Inter, Arial, sans-serif"
+    },
+    "cardBorder": "2.5px solid #292D2E",
+    "cardShadow": "none",
+    "cardRadius": "16px",
+    "btnRadius": "9999px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Continuous Line",
+    "subhead": "One uninterrupted line defines a sparse subject.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
   "corporate-brutalism": {
     "slug": "corporate-brutalism",
     "name": "Corporate Brutalism",
@@ -1524,6 +1704,51 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
     "eyebrow": "01 / SPECIMEN",
     "headline": "Cottagecore",
     "subhead": "Gingham warmth, wildflower palettes, and slow romantic rural craft.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+  "cyanotype": {
+    "slug": "cyanotype",
+    "name": "Cyanotype",
+    "category": "Editorial & Print",
+    "description": "Botanical silhouettes appear as pale photograms on Prussian blue.",
+    "tags": [
+      "photogram",
+      "blue",
+      "botanical"
+    ],
+    "preview": {
+      "bg": "#0D3048",
+      "surface": "#17445E",
+      "ink": "#F9F5E9",
+      "muted": "#C9D6D9",
+      "accent": "#78A9B6",
+      "accent2": "#E7D29D",
+      "display": "Cormorant Garamond, Georgia, serif",
+      "body": "Inter, Arial, sans-serif"
+    },
+    "cardBorder": "1px solid #F9F5E922",
+    "cardShadow": "none",
+    "cardRadius": "16px",
+    "btnRadius": "9999px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Cyanotype",
+    "subhead": "Botanical silhouettes appear as pale photograms on Prussian blue.",
     "navCta": "Get Started",
     "primaryCta": "Explore Specimen",
     "secondaryCta": "Read Spec",
@@ -1842,6 +2067,51 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
     "eyebrow": "01 / SPECIMEN",
     "headline": "Digital Maximalism",
     "subhead": "Internet-native excess: gradients, glass, stickers, cursors and widgets everywhere.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+  "doodle-art": {
+    "slug": "doodle-art",
+    "name": "Doodle Art",
+    "category": "Handmade & Texture",
+    "description": "Repeated freehand mini motifs fill a lively patterned field.",
+    "tags": [
+      "doodle",
+      "motif",
+      "repeat"
+    ],
+    "preview": {
+      "bg": "#FFF8ED",
+      "surface": "#FFFFFF",
+      "ink": "#2E2A2E",
+      "muted": "#6C666D",
+      "accent": "#AE5B53",
+      "accent2": "#527785",
+      "display": "Kalam, Comic Sans MS, sans-serif",
+      "body": "Inter, Arial, sans-serif"
+    },
+    "cardBorder": "1px solid #2E2A2E22",
+    "cardShadow": "none",
+    "cardRadius": "16px",
+    "btnRadius": "9999px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Doodle Art",
+    "subhead": "Repeated freehand mini motifs fill a lively patterned field.",
     "navCta": "Get Started",
     "primaryCta": "Explore Specimen",
     "secondaryCta": "Read Spec",
@@ -2220,6 +2490,96 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+  "embroidered-illustration": {
+    "slug": "embroidered-illustration",
+    "name": "Embroidered Illustration",
+    "category": "Handmade & Texture",
+    "description": "Thread stitches draw pictures across a woven fabric ground.",
+    "tags": [
+      "thread",
+      "stitch",
+      "illustration"
+    ],
+    "preview": {
+      "bg": "#F3EFE6",
+      "surface": "#FFFCF7",
+      "ink": "#302F32",
+      "muted": "#69656A",
+      "accent": "#A34F4E",
+      "accent2": "#4D6D75",
+      "display": "EB Garamond, Georgia, serif",
+      "body": "Inter, Arial, sans-serif"
+    },
+    "cardBorder": "1px solid #302F3222",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "16px",
+    "btnRadius": "9999px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Embroidered Illustration",
+    "subhead": "Thread stitches draw pictures across a woven fabric ground.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+  "etching": {
+    "slug": "etching",
+    "name": "Etching",
+    "category": "Editorial & Print",
+    "description": "Fine bitten lines and crosshatching build tonal printed scenes.",
+    "tags": [
+      "print",
+      "incised",
+      "crosshatch"
+    ],
+    "preview": {
+      "bg": "#F5F1E9",
+      "surface": "#FFFDF8",
+      "ink": "#302D29",
+      "muted": "#706960",
+      "accent": "#795E50",
+      "accent2": "#526C68",
+      "display": "EB Garamond, Georgia, serif",
+      "body": "Inter, Arial, sans-serif"
+    },
+    "cardBorder": "1px solid #302D2922",
+    "cardShadow": "none",
+    "cardRadius": "16px",
+    "btnRadius": "9999px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Etching",
+    "subhead": "Fine bitten lines and crosshatching build tonal printed scenes.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
   "fashion-editorial": {
     "slug": "fashion-editorial",
     "name": "Fashion Editorial",
@@ -2263,6 +2623,51 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "High-contrast Didot serifs",
       "Ultra-thin 1px hairline dividers",
       "Generous editorial whitespace"
+    ]
+  },
+  "felt-applique": {
+    "slug": "felt-applique",
+    "name": "Felt Appliqué",
+    "category": "Handmade & Texture",
+    "description": "Cut felt shapes sit on a soft ground with visible stitched attachment.",
+    "tags": [
+      "felt",
+      "applique",
+      "textile"
+    ],
+    "preview": {
+      "bg": "#F5F0E7",
+      "surface": "#FFFCF6",
+      "ink": "#332E2B",
+      "muted": "#6F655E",
+      "accent": "#B5654A",
+      "accent2": "#547B68",
+      "display": "Nunito, Arial, sans-serif",
+      "body": "Inter, Arial, sans-serif"
+    },
+    "cardBorder": "1px solid #332E2B22",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "16px",
+    "btnRadius": "9999px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Felt Appliqué",
+    "subhead": "Cut felt shapes sit on a soft ground with visible stitched attachment.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
     ]
   },
   "fintech-neobank": {
@@ -2854,6 +3259,51 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+  "gouache-illustration": {
+    "slug": "gouache-illustration",
+    "name": "Gouache Illustration",
+    "category": "Handmade & Texture",
+    "description": "Opaque matte color planes keep visible brush edges.",
+    "tags": [
+      "gouache",
+      "opaque",
+      "painting"
+    ],
+    "preview": {
+      "bg": "#F6EFE4",
+      "surface": "#FFF9F0",
+      "ink": "#2D2C32",
+      "muted": "#69656B",
+      "accent": "#BB644D",
+      "accent2": "#477D73",
+      "display": "DM Sans, Arial, sans-serif",
+      "body": "Inter, Arial, sans-serif"
+    },
+    "cardBorder": "1px solid #2D2C3222",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "16px",
+    "btnRadius": "9999px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Gouache Illustration",
+    "subhead": "Opaque matte color planes keep visible brush edges.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
   "gradient-design": {
     "slug": "gradient-design",
     "name": "Gradient Design",
@@ -3128,11 +3578,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
     "slug": "hand-drawn",
     "name": "Hand-Drawn",
     "category": "Handmade & Texture",
-    "description": "Wobbly human lines: marker strokes, doodles and imperfect warmth.",
+    "description": "Whiteboard-style interface annotations use marker arrows, circles, and wobbly frames.",
     "tags": [
       "hand-drawn",
-      "doodle",
-      "human"
+      "annotation",
+      "whiteboard"
     ],
     "preview": {
       "bg": "#FFFDF5",
@@ -3152,7 +3602,7 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
     "signatureType": "bento",
     "eyebrow": "01 / SPECIMEN",
     "headline": "Hand-Drawn",
-    "subhead": "Wobbly human lines: marker strokes, doodles and imperfect warmth.",
+    "subhead": "Whiteboard-style interface annotations use marker arrows, circles, and wobbly frames.",
     "navCta": "Get Started",
     "primaryCta": "Explore Specimen",
     "secondaryCta": "Read Spec",
@@ -3396,6 +3846,96 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+  "ink-stippling": {
+    "slug": "ink-stippling",
+    "name": "Ink Stippling",
+    "category": "Handmade & Texture",
+    "description": "Hand-placed dot density builds shape and tone.",
+    "tags": [
+      "ink",
+      "dots",
+      "tonal"
+    ],
+    "preview": {
+      "bg": "#F5F1E7",
+      "surface": "#FFFCF5",
+      "ink": "#292B2A",
+      "muted": "#626764",
+      "accent": "#8B6052",
+      "accent2": "#5B7774",
+      "display": "EB Garamond, Georgia, serif",
+      "body": "Inter, Arial, sans-serif"
+    },
+    "cardBorder": "2px solid #292B2A",
+    "cardShadow": "none",
+    "cardRadius": "16px",
+    "btnRadius": "9999px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Ink Stippling",
+    "subhead": "Hand-placed dot density builds shape and tone.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+  "isometric-illustration": {
+    "slug": "isometric-illustration",
+    "name": "Isometric Illustration",
+    "category": "Experimental",
+    "description": "Parallel 30-degree axes show a small world without perspective convergence.",
+    "tags": [
+      "isometric",
+      "parallel",
+      "diagram"
+    ],
+    "preview": {
+      "bg": "#F2F3EF",
+      "surface": "#FFFFFF",
+      "ink": "#25313A",
+      "muted": "#626D73",
+      "accent": "#BD6946",
+      "accent2": "#477A87",
+      "display": "IBM Plex Sans, Arial, sans-serif",
+      "body": "Inter, Arial, sans-serif"
+    },
+    "cardBorder": "1px solid #25313A22",
+    "cardShadow": "none",
+    "cardRadius": "8px",
+    "btnRadius": "6px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Isometric Illustration",
+    "subhead": "Parallel 30-degree axes show a small world without perspective convergence.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
   "japandi": {
     "slug": "japandi",
     "name": "Japandi",
@@ -3576,6 +4116,96 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+  "kirigami-pop-up": {
+    "slug": "kirigami-pop-up",
+    "name": "Kirigami Pop-Up",
+    "category": "Handmade & Texture",
+    "description": "Cut-and-fold paper structures rise from a flat base.",
+    "tags": [
+      "paper",
+      "cut",
+      "fold"
+    ],
+    "preview": {
+      "bg": "#F7F1E8",
+      "surface": "#FFFDF9",
+      "ink": "#2D2B31",
+      "muted": "#6D6670",
+      "accent": "#B45F76",
+      "accent2": "#547F83",
+      "display": "Space Grotesk, Arial, sans-serif",
+      "body": "Inter, Arial, sans-serif"
+    },
+    "cardBorder": "1px solid #2D2B3122",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "16px",
+    "btnRadius": "9999px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Kirigami Pop-Up",
+    "subhead": "Cut-and-fold paper structures rise from a flat base.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+  "letterpress": {
+    "slug": "letterpress",
+    "name": "Letterpress",
+    "category": "Editorial & Print",
+    "description": "Type and simple ornaments print with pressure and imperfect ink.",
+    "tags": [
+      "type",
+      "print",
+      "impression"
+    ],
+    "preview": {
+      "bg": "#F5EFE4",
+      "surface": "#FFFDF6",
+      "ink": "#2F2A27",
+      "muted": "#69615C",
+      "accent": "#A4543F",
+      "accent2": "#536D6B",
+      "display": "Bodoni Moda, Georgia, serif",
+      "body": "Inter, Arial, sans-serif"
+    },
+    "cardBorder": "1px solid #2F2A2722",
+    "cardShadow": "none",
+    "cardRadius": "16px",
+    "btnRadius": "9999px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Letterpress",
+    "subhead": "Type and simple ornaments print with pressure and imperfect ink.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
   "liminal-weirdcore": {
     "slug": "liminal-weirdcore",
     "name": "Liminal / Weirdcore",
@@ -3666,6 +4296,51 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Cycle roadmaps & issue tracking"
     ]
   },
+  "linocut-print": {
+    "slug": "linocut-print",
+    "name": "Linocut Print",
+    "category": "Editorial & Print",
+    "description": "Carved relief marks produce bold black-and-color impressions.",
+    "tags": [
+      "relief",
+      "print",
+      "carving"
+    ],
+    "preview": {
+      "bg": "#F3EDE2",
+      "surface": "#FFF9EF",
+      "ink": "#292722",
+      "muted": "#655F58",
+      "accent": "#B64C39",
+      "accent2": "#667D55",
+      "display": "Oswald, Impact, sans-serif",
+      "body": "Inter, Arial, sans-serif"
+    },
+    "cardBorder": "1px solid #29272222",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "16px",
+    "btnRadius": "9999px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Linocut Print",
+    "subhead": "Carved relief marks produce bold black-and-color impressions.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
   "liquid-chrome": {
     "slug": "liquid-chrome",
     "name": "Liquid Chrome",
@@ -3695,6 +4370,51 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
     "eyebrow": "01 / SPECIMEN",
     "headline": "Liquid Chrome",
     "subhead": "Molten metal interfaces: flowing silver, mirror reflections and Y2K luxury.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+  "low-poly-facets": {
+    "slug": "low-poly-facets",
+    "name": "Low-Poly Facets",
+    "category": "Soft & Dimensional",
+    "description": "Large flat-shaded triangles model a faceted object.",
+    "tags": [
+      "polygon",
+      "facet",
+      "shading"
+    ],
+    "preview": {
+      "bg": "#F2EFEA",
+      "surface": "#FFFDF8",
+      "ink": "#292D32",
+      "muted": "#63686C",
+      "accent": "#B86655",
+      "accent2": "#577584",
+      "display": "Space Grotesk, Arial, sans-serif",
+      "body": "Inter, Arial, sans-serif"
+    },
+    "cardBorder": "1px solid #292D3222",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "8px",
+    "btnRadius": "6px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Low-Poly Facets",
+    "subhead": "Large flat-shaded triangles model a faceted object.",
     "navCta": "Get Started",
     "primaryCta": "Explore Specimen",
     "secondaryCta": "Read Spec",
@@ -3844,6 +4564,51 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Red/Yellow/Green window lights",
       "Brushed metal and pin stripes",
       "Aqua drop reflection"
+    ]
+  },
+  "marquetry": {
+    "slug": "marquetry",
+    "name": "Marquetry",
+    "category": "Handmade & Texture",
+    "description": "Fitted wood veneers create a precise picture from grain and tone.",
+    "tags": [
+      "wood",
+      "veneer",
+      "inlay"
+    ],
+    "preview": {
+      "bg": "#EEE7DA",
+      "surface": "#FBF8F0",
+      "ink": "#302B26",
+      "muted": "#685F57",
+      "accent": "#986643",
+      "accent2": "#60715A",
+      "display": "Cormorant Garamond, Georgia, serif",
+      "body": "Inter, Arial, sans-serif"
+    },
+    "cardBorder": "1px solid #302B2622",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "8px",
+    "btnRadius": "6px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Marquetry",
+    "subhead": "Fitted wood veneers create a precise picture from grain and tone.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
     ]
   },
   "material-expressive": {
@@ -4206,6 +4971,51 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+  "mosaic": {
+    "slug": "mosaic",
+    "name": "Mosaic",
+    "category": "Handmade & Texture",
+    "description": "Small irregular tesserae form images through color and grout.",
+    "tags": [
+      "tile",
+      "tesserae",
+      "grout"
+    ],
+    "preview": {
+      "bg": "#F3EEE3",
+      "surface": "#FFFCF5",
+      "ink": "#302D29",
+      "muted": "#6A645E",
+      "accent": "#B26443",
+      "accent2": "#4E6F77",
+      "display": "Marcellus, Georgia, serif",
+      "body": "Inter, Arial, sans-serif"
+    },
+    "cardBorder": "2.5px solid #302D29",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "8px",
+    "btnRadius": "6px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Mosaic",
+    "subhead": "Small irregular tesserae form images through color and grout.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
   "neo-brutalism": {
     "slug": "neo-brutalism",
     "name": "Neo-Brutalism",
@@ -4386,6 +5196,51 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Clean database table grids"
     ]
   },
+  "op-art": {
+    "slug": "op-art",
+    "name": "Op Art",
+    "category": "Experimental",
+    "description": "Repeated geometry creates controlled optical tension without animation.",
+    "tags": [
+      "optical",
+      "geometry",
+      "contrast"
+    ],
+    "preview": {
+      "bg": "#F6F3EB",
+      "surface": "#FFFFFF",
+      "ink": "#202329",
+      "muted": "#62666B",
+      "accent": "#AD433B",
+      "accent2": "#426B75",
+      "display": "Helvetica Neue, Arial, sans-serif",
+      "body": "Inter, Arial, sans-serif"
+    },
+    "cardBorder": "1px solid #20232922",
+    "cardShadow": "none",
+    "cardRadius": "8px",
+    "btnRadius": "6px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Op Art",
+    "subhead": "Repeated geometry creates controlled optical tension without animation.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
   "organic-biophilic": {
     "slug": "organic-biophilic",
     "name": "Organic / Biophilic",
@@ -4415,6 +5270,51 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
     "eyebrow": "01 / SPECIMEN",
     "headline": "Organic / Biophilic",
     "subhead": "Nature-shaped interfaces: leaf curves, earth tones and breathing whitespace.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+  "origami-geometry": {
+    "slug": "origami-geometry",
+    "name": "Origami Geometry",
+    "category": "Handmade & Texture",
+    "description": "Folded polygonal forms that show crease logic and planar light.",
+    "tags": [
+      "paper",
+      "fold",
+      "geometry"
+    ],
+    "preview": {
+      "bg": "#F3F0EA",
+      "surface": "#FFFFFF",
+      "ink": "#242D35",
+      "muted": "#626970",
+      "accent": "#C76B51",
+      "accent2": "#466C8A",
+      "display": "DM Sans, Arial, sans-serif",
+      "body": "Inter, Arial, sans-serif"
+    },
+    "cardBorder": "1px solid #242D3522",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "8px",
+    "btnRadius": "6px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Origami Geometry",
+    "subhead": "Folded polygonal forms that show crease logic and planar light.",
     "navCta": "Get Started",
     "primaryCta": "Explore Specimen",
     "secondaryCta": "Read Spec",
@@ -4476,11 +5376,146 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+  "paper-cut-diorama": {
+    "slug": "paper-cut-diorama",
+    "name": "Paper Cut Diorama",
+    "category": "Handmade & Texture",
+    "description": "A framed paper scene with separated foreground, middle ground, and background planes.",
+    "tags": [
+      "paper-cut",
+      "diorama",
+      "shadow-box"
+    ],
+    "preview": {
+      "bg": "#F5F0E7",
+      "surface": "#FFFDF8",
+      "ink": "#302B27",
+      "muted": "#6B625A",
+      "accent": "#B66A43",
+      "accent2": "#507367",
+      "display": "Fraunces, Georgia, serif",
+      "body": "Inter, Arial, sans-serif"
+    },
+    "cardBorder": "1px solid #302B2722",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "16px",
+    "btnRadius": "9999px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Paper Cut Diorama",
+    "subhead": "A framed paper scene with separated foreground, middle ground, and background planes.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+  "paper-marbling": {
+    "slug": "paper-marbling",
+    "name": "Paper Marbling",
+    "category": "Handmade & Texture",
+    "description": "Fluid combed pigments make nonrepeating veins on paper.",
+    "tags": [
+      "paper",
+      "marbling",
+      "fluid"
+    ],
+    "preview": {
+      "bg": "#F7F1E9",
+      "surface": "#FFFDF8",
+      "ink": "#302D38",
+      "muted": "#6D6770",
+      "accent": "#A86578",
+      "accent2": "#4A7778",
+      "display": "Instrument Serif, Georgia, serif",
+      "body": "Inter, Arial, sans-serif"
+    },
+    "cardBorder": "1px solid #302D3822",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "16px",
+    "btnRadius": "9999px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Paper Marbling",
+    "subhead": "Fluid combed pigments make nonrepeating veins on paper.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+  "paper-quilling": {
+    "slug": "paper-quilling",
+    "name": "Paper Quilling",
+    "category": "Handmade & Texture",
+    "description": "Rolled paper strips form coils, scrolls, and raised linework.",
+    "tags": [
+      "paper",
+      "coil",
+      "ornament"
+    ],
+    "preview": {
+      "bg": "#F8F4ED",
+      "surface": "#FFFFFF",
+      "ink": "#332C2D",
+      "muted": "#70656A",
+      "accent": "#A54E65",
+      "accent2": "#587880",
+      "display": "Cormorant Garamond, Georgia, serif",
+      "body": "Inter, Arial, sans-serif"
+    },
+    "cardBorder": "1px solid #332C2D22",
+    "cardShadow": "none",
+    "cardRadius": "16px",
+    "btnRadius": "9999px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Paper Quilling",
+    "subhead": "Rolled paper strips form coils, scrolls, and raised linework.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
   "papercut": {
     "slug": "papercut",
     "name": "Papercut",
     "category": "Handmade & Texture",
-    "description": "Dimensional physical paper craft: stacked textured cardstock silhouettes with soft cast drop shadows.",
+    "description": "Layered cardstock contours and cut silhouettes create tactile depth across an interface.",
     "tags": [
       "paper",
       "craft",
@@ -4506,7 +5541,7 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
     "signatureType": "claymorphism",
     "eyebrow": "01 / SPECIMEN",
     "headline": "Papercut",
-    "subhead": "Dimensional physical paper craft: stacked textured cardstock silhouettes with soft cast drop shadows.",
+    "subhead": "Layered cardstock contours and cut silhouettes create tactile depth across an interface.",
     "navCta": "Get Started",
     "primaryCta": "Explore Specimen",
     "secondaryCta": "Read Spec",
@@ -4552,6 +5587,51 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
     "eyebrow": "01 / SPECIMEN",
     "headline": "Parallax",
     "subhead": "Layered depth scrolling: foreground, midground and skies drifting apart.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+  "pencil-sketch": {
+    "slug": "pencil-sketch",
+    "name": "Pencil Sketch",
+    "category": "Handmade & Texture",
+    "description": "Graphite outlines reveal construction, hatching, and erased light.",
+    "tags": [
+      "graphite",
+      "sketch",
+      "hatching"
+    ],
+    "preview": {
+      "bg": "#F4F1E9",
+      "surface": "#FFFDF8",
+      "ink": "#2B2B2A",
+      "muted": "#65645F",
+      "accent": "#6D6860",
+      "accent2": "#7B685C",
+      "display": "Libre Baskerville, Georgia, serif",
+      "body": "Inter, Arial, sans-serif"
+    },
+    "cardBorder": "1px solid #2B2B2A22",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "16px",
+    "btnRadius": "9999px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Pencil Sketch",
+    "subhead": "Graphite outlines reveal construction, hatching, and erased light.",
     "navCta": "Get Started",
     "primaryCta": "Explore Specimen",
     "secondaryCta": "Read Spec",
@@ -5004,6 +6084,51 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
     "eyebrow": "01 / SPECIMEN",
     "headline": "Quiet Luxury",
     "subhead": "Restrained serif typography and whitespace for understated wealth.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+  "quilted-patchwork": {
+    "slug": "quilted-patchwork",
+    "name": "Quilted Patchwork",
+    "category": "Handmade & Texture",
+    "description": "Pieced fabric blocks join into a rhythmic sewn composition.",
+    "tags": [
+      "quilt",
+      "textile",
+      "patchwork"
+    ],
+    "preview": {
+      "bg": "#F6F0E7",
+      "surface": "#FFFDF8",
+      "ink": "#332C2B",
+      "muted": "#6C635F",
+      "accent": "#A65B4D",
+      "accent2": "#456E7C",
+      "display": "Libre Baskerville, Georgia, serif",
+      "body": "Inter, Arial, sans-serif"
+    },
+    "cardBorder": "1px solid #332C2B22",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "16px",
+    "btnRadius": "9999px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Quilted Patchwork",
+    "subhead": "Pieced fabric blocks join into a rhythmic sewn composition.",
     "navCta": "Get Started",
     "primaryCta": "Explore Specimen",
     "secondaryCta": "Read Spec",
@@ -5566,6 +6691,51 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+  "stained-glass": {
+    "slug": "stained-glass",
+    "name": "Stained Glass",
+    "category": "Handmade & Texture",
+    "description": "Colored translucent panes glow inside heavy lead cames.",
+    "tags": [
+      "glass",
+      "lead",
+      "light"
+    ],
+    "preview": {
+      "bg": "#202B34",
+      "surface": "#34414A",
+      "ink": "#FFF6DE",
+      "muted": "#D5D9D1",
+      "accent": "#DDA463",
+      "accent2": "#5D95A1",
+      "display": "Cinzel, Georgia, serif",
+      "body": "Inter, Arial, sans-serif"
+    },
+    "cardBorder": "1px solid #FFF6DE22",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "8px",
+    "btnRadius": "6px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Stained Glass",
+    "subhead": "Colored translucent panes glow inside heavy lead cames.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
   "steampunk": {
     "slug": "steampunk",
     "name": "Steampunk",
@@ -5642,6 +6812,51 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
     "eyebrow": "01 / SPECIMEN",
     "headline": "Stripe-Inspired",
     "subhead": "Gradient precision: airy pastels, developer clarity and weight-300 elegance.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+  "sumi-e-ink-wash": {
+    "slug": "sumi-e-ink-wash",
+    "name": "Sumi-e Ink Wash",
+    "category": "Cultural",
+    "description": "Expressive black ink washes leave most paper untouched.",
+    "tags": [
+      "ink",
+      "brush",
+      "negative-space"
+    ],
+    "preview": {
+      "bg": "#F4F1EA",
+      "surface": "#FFFEFA",
+      "ink": "#282B2B",
+      "muted": "#646B68",
+      "accent": "#56615D",
+      "accent2": "#9A7258",
+      "display": "Noto Serif, Georgia, serif",
+      "body": "Inter, Arial, sans-serif"
+    },
+    "cardBorder": "1px solid #282B2B22",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "16px",
+    "btnRadius": "9999px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Sumi-e Ink Wash",
+    "subhead": "Expressive black ink washes leave most paper untouched.",
     "navCta": "Get Started",
     "primaryCta": "Explore Specimen",
     "secondaryCta": "Read Spec",
@@ -5973,6 +7188,51 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+  "ukiyo-e-woodblock": {
+    "slug": "ukiyo-e-woodblock",
+    "name": "Ukiyo-e Woodblock",
+    "category": "Cultural",
+    "description": "Flat color blocks and a dark keyline form an asymmetric print scene.",
+    "tags": [
+      "woodblock",
+      "keyline",
+      "flat-color"
+    ],
+    "preview": {
+      "bg": "#F5EFE3",
+      "surface": "#FFFCF3",
+      "ink": "#262D34",
+      "muted": "#616A6E",
+      "accent": "#B65742",
+      "accent2": "#477383",
+      "display": "Noto Serif, Georgia, serif",
+      "body": "Inter, Arial, sans-serif"
+    },
+    "cardBorder": "1px solid #262D3422",
+    "cardShadow": "none",
+    "cardRadius": "16px",
+    "btnRadius": "9999px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Ukiyo-e Woodblock",
+    "subhead": "Flat color blocks and a dark keyline form an asymmetric print scene.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
   "ultra-minimalism": {
     "slug": "ultra-minimalism",
     "name": "Ultra-Minimalism",
@@ -6137,6 +7397,96 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
     "eyebrow": "01 / SPECIMEN",
     "headline": "Wabi-Sabi",
     "subhead": "Perfect imperfection: asymmetry, cracks and weathered beauty, honored.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+  "watercolor-wash": {
+    "slug": "watercolor-wash",
+    "name": "Watercolor Wash",
+    "category": "Handmade & Texture",
+    "description": "Transparent color layers overlap while paper white stays visible.",
+    "tags": [
+      "watercolor",
+      "transparent",
+      "wash"
+    ],
+    "preview": {
+      "bg": "#F7F4EB",
+      "surface": "#FFFEFA",
+      "ink": "#30323A",
+      "muted": "#676B71",
+      "accent": "#B45E71",
+      "accent2": "#4F7B88",
+      "display": "Cormorant Garamond, Georgia, serif",
+      "body": "Inter, Arial, sans-serif"
+    },
+    "cardBorder": "1px solid #30323A22",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "16px",
+    "btnRadius": "9999px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Watercolor Wash",
+    "subhead": "Transparent color layers overlap while paper white stays visible.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+  "wax-crayon": {
+    "slug": "wax-crayon",
+    "name": "Wax Crayon",
+    "category": "Handmade & Texture",
+    "description": "Broken wax marks make pressure-driven color fills.",
+    "tags": [
+      "crayon",
+      "wax",
+      "pressure"
+    ],
+    "preview": {
+      "bg": "#FFF6E8",
+      "surface": "#FFFDF7",
+      "ink": "#302D2B",
+      "muted": "#6A635E",
+      "accent": "#B85F47",
+      "accent2": "#4E7D77",
+      "display": "Nunito, Arial, sans-serif",
+      "body": "Inter, Arial, sans-serif"
+    },
+    "cardBorder": "1px solid #302D2B22",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "16px",
+    "btnRadius": "9999px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Wax Crayon",
+    "subhead": "Broken wax marks make pressure-driven color fills.",
     "navCta": "Get Started",
     "primaryCta": "Explore Specimen",
     "secondaryCta": "Read Spec",

@@ -1,10 +1,10 @@
 ---
 slug: papercut
 name: "Papercut"
-description: "Dimensional physical paper craft: stacked textured cardstock silhouettes with soft cast drop shadows."
+description: "Layered cardstock contours and cut silhouettes create tactile depth across an interface."
 category: Handmade & Texture
 tags: [paper, craft, layered, shadows, tactile]
-related: [claymorphism, hand-drawn, organic-biophilic]
+related: [paper-cut-diorama, kirigami-pop-up, organic-biophilic]
 preview:
   bg: "#F7F3EB"
   surface: "#FFFFFF"
@@ -22,7 +22,7 @@ preview:
 
 ## 1. Overall aesthetic
 
-Papercut transforms web layouts into tactile layered paper dioramas. Clean silhouette sheets of heavy cardstock appear stacked in dimensional physical space, separated by soft, realistic directional drop shadows. Flowing topographic contour curves, rich matte earthy swatches (terracotta, sage, cream), and fibrous textures create deep handcrafted warmth.
+Papercut transforms interface sections into tactile stacks of cut cardstock. Broad contour sheets and silhouette edges organize content across the page; unlike Paper Cut Diorama, it does not frame one staged scene. Clean sheets appear separated by directional cast shadows. Flowing topographic contour curves, rich matte earthy swatches (terracotta, sage, cream), and fibrous textures create deep handcrafted warmth.
 
 **Three principles:**
 
@@ -87,7 +87,7 @@ Top paper ribbon with gentle curved bottom edge; clean serif logo; quiet text li
 
 ## 12. Imagery
 
-Layered vector paper silhouettes, botanical paper cuts, origami birds, tactile lifestyle photography.
+Layered vector cardstock silhouettes and topographic cut bands. Use Paper Cut Diorama for framed foreground, middle-ground, and background scenery.
 
 ## 13. Icons
 
@@ -130,6 +130,7 @@ Gentle physical parallax: background paper sheets drift slower than foreground; 
 - Harsh 1px solid black wireframe borders
 - Flat design with zero shadow depth
 - Aggressive rapid glitch or strobe animations
+- A framed shadow-box scene with a fixed horizon; that is Paper Cut Diorama
 
 ## 20. Quick-start snippet
 

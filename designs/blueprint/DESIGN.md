@@ -9,7 +9,7 @@ preview:
   bg: "#0A2540"
   surface: "#0F3356"
   ink: "#FFFFFF"
-  muted: "#7FA8CC"
+  muted: "#fdfdfd"
   accent: "#00E5FF"
   accent2: "#64FFDA"
   display: "Space Mono, Courier New, monospace"
@@ -111,6 +111,10 @@ Durations: micro 150–250ms / standard 350–500ms stroke reveals. Easings: lin
 - Loading: skeletons or spinners matching the style's texture.
 
 ## 17. Responsive behavior
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
 - Mobile (360–767px): single column, 16–20px page margins, 44px+ tap targets, preserved visual essence.
 - Tablet (768–1099px): 2-column layouts, condensed navigation, proportional display type.

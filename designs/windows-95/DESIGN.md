@@ -9,7 +9,7 @@ preview:
   bg: "#0A8F8F"
   surface: "#C3C7CB"
   ink: "#000000"
-  muted: "#111919"
+  muted: "#101010"
   accent: "#000080"
   accent2: "#FF0000"
   display: "Pixelated MS Sans Serif, Tahoma, sans-serif"
@@ -113,6 +113,10 @@ Durations: instant–150ms bevel-pressed snaps. Easings: none (steps welcome); s
 - Loading: segmented navy block progress bar (like the preview's 42% bar) plus hourglass cursor; no skeleton shimmer, no spinner.
 
 ## 17. Responsive behavior
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
 - Mobile (360–767px): single dialog column, 16–20px page margins, taskbar with Start + clock preserved; enlarge chrome to 44px only under `(pointer: coarse)`, never a sticky bottom CTA.
 - Tablet (768–1099px): 2-column grids, condensed nav, preserved section order.

@@ -9,7 +9,7 @@ preview:
   bg: "#0E1A2B"
   surface: "#16273D"
   ink: "#F0F6FF"
-  muted: "#7E96B3"
+  muted: "#fdfdfd"
   accent: "#FFC24B"
   accent2: "#4DD8FF"
   display: "Sora, Outfit, sans-serif"
@@ -113,6 +113,10 @@ Durations: scroll-linked multi-speed drifts; micro 150ms layer ticks. Easings: l
 - Loading: skeletons matching the surface style; spinners only for indeterminate waits under 3s.
 
 ## 17. Responsive behavior
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
 - Mobile (360–767px): single column, 16–20px page margins, 44px+ tap targets, sticky bottom CTA where conversion matters.
 - Tablet (768–1099px): 2-column grids, condensed nav, preserved section order.

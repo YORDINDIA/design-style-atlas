@@ -9,7 +9,7 @@ preview:
   bg: "#0F0F1B"
   surface: "#1B1B2E"
   ink: "#F2F0FF"
-  muted: "#8E8AB0"
+  muted: "#fdfdfd"
   accent: "#7DF9FF"
   accent2: "#FFD802"
   display: "Press Start 2P, VT323, monospace"
@@ -113,6 +113,10 @@ Durations: instant–200ms frame flips. Easings: steps(2–4) frame animation; s
 - Loading: skeletons matching the surface style; spinners only for indeterminate waits under 3s.
 
 ## 17. Responsive behavior
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
 - Mobile (360–767px): single column, 16–20px page margins, 44px+ tap targets, sticky bottom CTA where conversion matters.
 - Tablet (768–1099px): 2-column grids, condensed nav, preserved section order.

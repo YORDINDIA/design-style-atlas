@@ -9,7 +9,7 @@ preview:
   bg: "#E8E8E8"
   surface: "#F2F2F2"
   ink: "#000000"
-  muted: "#555555"
+  muted: "#616161"
   accent: "#0000EE"
   accent2: "#FF0000"
   display: "Times New Roman, serif"
@@ -113,6 +113,10 @@ Durations: none or jarring instant swaps; marquees and blinks encouraged. Blinki
 - Loading: no skeletons or spinners — use "UNDER CONSTRUCTION" GIFs, hit counters, and blunt "wait..." text.
 
 ## 17. Responsive behavior
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
 - Mobile (360–767px): single column that still misbehaves — edge-to-edge text, overlapping blocks, abrupt type shifts. Keep primary content and controls reachable at 360px: allow horizontal overflow only where the content intrinsically needs it, and never on nav or actions.
 - Tablet (768–1099px): colliding columns persist; nav stays a raw link list, never condensed into a tidy hamburger.

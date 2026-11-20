@@ -9,7 +9,7 @@ preview:
   bg: "#F5F0E6"
   surface: "#FFFFFF"
   ink: "#141414"
-  muted: "#6E675C"
+  muted: "#676767"
   accent: "#E30613"
   accent2: "#FFD802"
   display: "Bangers, Archivo Black, sans-serif"
@@ -113,6 +113,10 @@ Durations: instant–250ms POW slams with shake. Easings: springy slam cubic-bez
 - Loading: skeletons matching the surface style; spinners only for indeterminate waits under 3s.
 
 ## 17. Responsive behavior
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
 - Mobile (360–767px): single column, 16–20px page margins, 44px+ tap targets, sticky bottom CTA where conversion matters.
 - Tablet (768–1099px): 2-column grids, condensed nav, preserved section order.

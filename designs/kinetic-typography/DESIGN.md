@@ -9,7 +9,7 @@ preview:
   bg: "#0E0E0E"
   surface: "#161616"
   ink: "#F4F1EA"
-  muted: "#8F8B82"
+  muted: "#fdfdfd"
   accent: "#D6FF3F"
   accent2: "#FF5C00"
   display: "Archivo Black, Anton, sans-serif"
@@ -113,6 +113,10 @@ Durations: marquee loops 15–25s linear infinite, scramble decodes 600–900ms,
 - Loading: skeletons matching the surface style; spinners only for indeterminate waits under 3s.
 
 ## 17. Responsive behavior
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
 - Mobile (360–767px): single column, 16–20px page margins, 44px+ tap targets, sticky bottom CTA where conversion matters.
 - Tablet (768–1099px): 2-column grids, condensed nav, preserved section order.

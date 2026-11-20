@@ -9,7 +9,7 @@ preview:
   bg: "#F4F2ED"
   surface: "#FFFFFF"
   ink: "#141414"
-  muted: "#6E6A61"
+  muted: "#686868"
   accent: "#E30613"
   accent2: "#1D4ED8"
   display: "Inter Variable, Fraunces Variable, sans-serif"
@@ -113,6 +113,10 @@ Durations: live axis interpolation 200–500ms; micro 100–200ms. Easings: smoo
 - Loading: skeletons matching the surface style; spinners only for indeterminate waits under 3s.
 
 ## 17. Responsive behavior
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
 - Mobile (360–767px): single column, 16–20px page margins, 44px+ tap targets, sticky bottom CTA where conversion matters.
 - Tablet (768–1099px): 2-column grids, condensed nav, preserved section order.

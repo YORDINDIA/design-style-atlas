@@ -9,7 +9,7 @@ preview:
   bg: "#FFFFFF"
   surface: "#F4F6FB"
   ink: "#1E2A3B"
-  muted: "#627288"
+  muted: "#6b6b6b"
   accent: "#2962FE"
   accent2: "#FF6B9D"
   display: "Inter, Plus Jakarta Sans, sans-serif"
@@ -113,6 +113,10 @@ Durations: micro 150–250ms, standard 350–500ms UI transitions with gentle ea
 - Loading: skeletons matching the surface style; spinners only for indeterminate waits under 3s.
 
 ## 17. Responsive behavior
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
 - Mobile (360–767px): single column, 16–20px page margins, 44px+ tap targets, sticky bottom CTA where conversion matters.
 - Tablet (768–1099px): 2-column grids, condensed nav, preserved section order.

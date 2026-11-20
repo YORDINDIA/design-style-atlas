@@ -9,7 +9,7 @@ preview:
   bg: "#08090A"
   surface: "#101214"
   ink: "#F7F8F8"
-  muted: "#8A8F98"
+  muted: "#fdfdfd"
   accent: "#5E6AD2"
   accent2: "#8E8AFF"
   display: "Inter, SF Pro Display, sans-serif"
@@ -113,6 +113,10 @@ Durations: micro 100–200ms ⌘K snaps, standard 300ms glow reveals. Easings: c
 - Loading: skeletons matching the surface style; spinners only for indeterminate waits under 3s.
 
 ## 17. Responsive behavior
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
 - Mobile (360–767px): single column, 16–20px page margins, 44px+ tap targets, sticky bottom CTA where conversion matters.
 - Tablet (768–1099px): 2-column grids, condensed nav, preserved section order.

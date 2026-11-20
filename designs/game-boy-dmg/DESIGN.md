@@ -9,7 +9,7 @@ preview:
   bg: "#8BAC0F"
   surface: "#9BBC0F"
   ink: "#0F380F"
-  muted: "#0F380F"
+  muted: "#333333"
   accent: "#0F380F"
   accent2: "#306230"
   display: "Press Start 2P, Courier, monospace"
@@ -109,6 +109,10 @@ Step-based 8-frame animations; LCD pixel ghosting trail on rapid scrolling; scre
 - Loading: skeletons or spinners matching the style's texture.
 
 ## 17. Responsive behavior
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
 - Mobile (360–767px): single column, 16–20px page margins, 44px+ tap targets, preserved visual essence.
 - Tablet (768–1099px): 2-column layouts, condensed navigation, proportional display type.

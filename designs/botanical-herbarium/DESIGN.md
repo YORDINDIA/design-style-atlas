@@ -9,7 +9,7 @@ preview:
   bg: "#F5EFE1"
   surface: "#EFE8D6"
   ink: "#1F3024"
-  muted: "#5C6B5C"
+  muted: "#626262"
   accent: "#A0522D"
   accent2: "#556B2F"
   display: "Cormorant Garamond, Playfair Display, serif"
@@ -109,6 +109,10 @@ Gentle historical reveals: smooth 350ms opacity fades like turning the fragile p
 - Loading: skeletons or spinners matching the style's texture.
 
 ## 17. Responsive behavior
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
 - Mobile (360–767px): single column, 16–20px page margins, 44px+ tap targets, preserved visual essence.
 - Tablet (768–1099px): 2-column layouts, condensed navigation, proportional display type.

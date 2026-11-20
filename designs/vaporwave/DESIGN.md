@@ -9,7 +9,7 @@ preview:
   bg: "#17102E"
   surface: "#241545"
   ink: "#F5EDFF"
-  muted: "#B3A1D6"
+  muted: "#fdfdfd"
   accent: "#FF71CE"
   accent2: "#7DF9FF"
   display: "Times New Roman, serif"
@@ -113,6 +113,10 @@ Durations: micro 200–300ms, standard 500–900ms slow VHS drifts. Easings: haz
 - Loading: skeletons matching the surface style; spinners only for indeterminate waits under 3s.
 
 ## 17. Responsive behavior
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
 - Mobile (360–767px): single column, 16–20px page margins, 44px+ tap targets, sticky bottom CTA where conversion matters.
 - Tablet (768–1099px): 2-column grids, condensed nav, preserved section order.

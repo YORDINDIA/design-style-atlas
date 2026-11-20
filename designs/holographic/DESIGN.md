@@ -9,7 +9,7 @@ preview:
   bg: "#0D0D14"
   surface: "#15151F"
   ink: "#F2F0FF"
-  muted: "#8E8AB0"
+  muted: "#fdfdfd"
   accent: "#7DF9FF"
   accent2: "#FF7AD9"
   display: "Unbounded, Outfit, sans-serif"
@@ -113,6 +113,10 @@ Durations: micro 150–250ms tilt shimmers, standard 400–700ms foil shifts. Ea
 - Loading: skeletons matching the surface style; spinners only for indeterminate waits under 3s.
 
 ## 17. Responsive behavior
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
 - Mobile (360–767px): single column, 16–20px page margins, 44px+ tap targets, sticky bottom CTA where conversion matters.
 - Tablet (768–1099px): 2-column grids, condensed nav, preserved section order.

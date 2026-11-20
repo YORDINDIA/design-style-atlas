@@ -9,7 +9,7 @@ preview:
   bg: "#F4F1EC"
   surface: "#FFFFFF"
   ink: "#1C1B1A"
-  muted: "#6B655D"
+  muted: "#686868"
   accent: "#1C1B1A"
   accent2: "#8C2F1B"
   display: "Didot, Bodoni Moda, Cormorant Garamond, serif"
@@ -113,6 +113,10 @@ Durations: micro 200–300ms, standard 500–700ms runway fades, ceremonial 1000
 - Loading: skeletons matching the surface style; spinners only for indeterminate waits under 3s.
 
 ## 17. Responsive behavior
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
 - Mobile (360–767px): single column, 16–20px page margins, 44px+ tap targets, sticky bottom CTA where conversion matters.
 - Tablet (768–1099px): single-column stacked look chapters (fashion exception — no 2-column grids), condensed nav, preserved section order.

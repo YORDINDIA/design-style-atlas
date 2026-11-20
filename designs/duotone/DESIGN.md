@@ -9,7 +9,7 @@ preview:
   bg: "#0C1B33"
   surface: "#14294E"
   ink: "#FFFFFF"
-  muted: "#A5B8D8"
+  muted: "#fdfdfd"
   accent: "#FF4F7C"
   accent2: "#00F5D4"
   display: "Montserrat, Syne, -apple-system, sans-serif"
@@ -109,6 +109,10 @@ Punchy kinetic hover reveals: color inversion crossfades (180ms), scale lift (1.
 - Loading: skeletons or spinners matching the style's texture.
 
 ## 17. Responsive behavior
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
 - Mobile (360–767px): single column, 16–20px page margins, 44px+ tap targets, preserved visual essence.
 - Tablet (768–1099px): 2-column layouts, condensed navigation, proportional display type.

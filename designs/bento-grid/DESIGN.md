@@ -9,7 +9,7 @@ preview:
   bg: "#F5F5F4"
   surface: "#FFFFFF"
   ink: "#1C1917"
-  muted: "#766F6A"
+  muted: "#6a6a6a"
   accent: "#2962FE"
   accent2: "#FF6B9D"
   display: "Inter, SF Pro Display, sans-serif"
@@ -113,6 +113,10 @@ Durations: micro 100–200ms tile hovers, standard 300ms tile lifts. Easings: cr
 - Loading: skeletons matching the surface style; spinners only for indeterminate waits under 3s.
 
 ## 17. Responsive behavior
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
 - Mobile (360–767px): single column, 16–20px page margins, 44px+ tap targets, sticky bottom CTA where conversion matters.
 - Tablet (768–1099px): 2-column grids, condensed nav, preserved section order.

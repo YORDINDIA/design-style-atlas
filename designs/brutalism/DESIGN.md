@@ -9,7 +9,7 @@ preview:
   bg: "#D6D3CD"
   surface: "#E8E6E1"
   ink: "#1A1A1A"
-  muted: "#5C5A55"
+  muted: "#535353"
   accent: "#0000EE"
   accent2: "#B30000"
   display: "Times New Roman, Times, serif"
@@ -111,6 +111,10 @@ Durations: effectively none — instant hover states up to 100ms; no ceremonial 
 - Loading: skeletons matching the surface style; spinners only for indeterminate waits under 3s.
 
 ## 17. Responsive behavior
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
 - Mobile (360–767px): single column, 16–20px page margins, 44px+ tap targets, sticky bottom CTA where conversion matters.
 - Tablet (768–1099px): 2-column grids, condensed nav, preserved section order.

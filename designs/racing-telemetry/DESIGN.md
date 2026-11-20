@@ -9,7 +9,7 @@ preview:
   bg: "#0A0B0E"
   surface: "#13161C"
   ink: "#F1F3F7"
-  muted: "#848E9D"
+  muted: "#fdfdfd"
   accent: "#FF1801"
   accent2: "#FFD32A"
   display: "Chakra Petch, Rajdhani, -apple-system, sans-serif"
@@ -109,6 +109,10 @@ Rapid responsive needle sweeps: tachometer rev-up with RPM bounce; flashing sequ
 - Loading: skeletons or spinners matching the style's texture.
 
 ## 17. Responsive behavior
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
 - Mobile (360–767px): single column, 16–20px page margins, 44px+ tap targets, preserved visual essence.
 - Tablet (768–1099px): 2-column layouts, condensed navigation, proportional display type.

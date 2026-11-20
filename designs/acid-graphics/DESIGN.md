@@ -9,7 +9,7 @@ preview:
   bg: "#08080A"
   surface: "#141419"
   ink: "#FFFFFF"
-  muted: "#8E8E9F"
+  muted: "#fdfdfd"
   accent: "#B6FF00"
   accent2: "#FF0055"
   display: "Syne, Impact, -apple-system, sans-serif"
@@ -111,6 +111,10 @@ Durations: micro 150–250ms / standard 350–500ms for glow, distortion, and gl
 - Loading: skeletons or spinners matching the style's texture.
 
 ## 17. Responsive behavior
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
 - Mobile (360–767px): single column, 16–20px page margins, 44px+ tap targets, preserved visual essence.
 - Tablet (768–1099px): 2-column layouts, condensed navigation, proportional display type.

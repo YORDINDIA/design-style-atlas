@@ -9,7 +9,7 @@ preview:
   bg: "#FFF8DC"
   surface: "#FFFFFF"
   ink: "#222222"
-  muted: "#77705F"
+  muted: "#6c6c6c"
   accent: "#0000EE"
   accent2: "#FF0000"
   display: "Times New Roman, Georgia, serif"
@@ -113,6 +113,10 @@ Durations: instant–200ms; marquees and blinking GIFs encouraged. Easings: none
 - Loading: skeletons matching the surface style; spinners only for indeterminate waits under 3s.
 
 ## 17. Responsive behavior
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
 - Mobile (360–767px): single column, 16–20px page margins, 44px+ tap targets, sticky bottom CTA where conversion matters.
 - Tablet (768–1099px): 2-column grids, condensed nav, preserved section order.

@@ -9,7 +9,7 @@ preview:
   bg: "#FFE8F0"
   surface: "#FFF5F8"
   ink: "#4A3F55"
-  muted: "#726781"
+  muted: "#656565"
   accent: "#FF6B9D"
   accent2: "#7C5CFF"
   display: "Nunito, Quicksand, Baloo 2, sans-serif"
@@ -113,6 +113,10 @@ Easings: soft spring cubic-bezier(0.34,1.56,0.64,1) for clay wobble; harsh linea
 - Loading: skeletons matching the surface style; spinners only for indeterminate waits under 3s.
 
 ## 17. Responsive behavior
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
 - Mobile (360–767px): single column, 16–20px page margins, 44px+ tap targets, sticky bottom CTA where conversion matters.
 - Tablet (768–1099px): 2-column grids, condensed nav, preserved section order.

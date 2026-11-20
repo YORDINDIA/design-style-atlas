@@ -9,7 +9,7 @@ preview:
   bg: "#F3E9D2"
   surface: "#FFF8EA"
   ink: "#3B2E23"
-  muted: "#746756"
+  muted: "#626262"
   accent: "#A4501D"
   accent2: "#7A8450"
   display: "Cooper Black, Shrikhand, serif"
@@ -117,6 +117,10 @@ Durations: micro 150–250ms, standard 400–600ms wavy groove loops. Easings: l
 - Loading: skeletons matching the surface style; spinners only for indeterminate waits under 3s.
 
 ## 17. Responsive behavior
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
 - Mobile (360–767px): single column, 16–20px page margins, 44px+ tap targets, sticky bottom CTA where conversion matters.
 - Tablet (768–1099px): 2-column grids, condensed nav, preserved section order.

@@ -9,7 +9,7 @@ preview:
   bg: "#FFFFFF"
   surface: "#F7F7F5"
   ink: "#37352F"
-  muted: "#73716D"
+  muted: "#6b6b6b"
   accent: "#2383E2"
   accent2: "#D9730D"
   display: "Georgia, Lyon Text, serif"
@@ -113,6 +113,10 @@ Durations: micro 100–200ms toggle opens, standard 250ms. Easings: plain ease-o
 - Loading: skeletons matching the surface style; spinners only for indeterminate waits under 3s.
 
 ## 17. Responsive behavior
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
 - Mobile (360–767px): single column, 16–20px page margins, 44px+ tap targets; sidebar becomes drawer, no sticky CTA.
 - Tablet (768–1099px): 2-column grids, condensed nav, preserved section order.

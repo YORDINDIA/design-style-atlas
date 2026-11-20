@@ -9,7 +9,7 @@ preview:
   bg: "#0C0C0C"
   surface: "#141414"
   ink: "#33FF66"
-  muted: "#6A9955"
+  muted: "#fdfdfd"
   accent: "#4DD8FF"
   accent2: "#FFB000"
   display: "JetBrains Mono, SF Mono, Menlo, monospace"
@@ -113,6 +113,10 @@ Durations: micro instant–100ms, standard 100–200ms, no ceremonial long fades
 - Loading: skeletons matching the surface style; spinners only for indeterminate waits under 3s.
 
 ## 17. Responsive behavior
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
 - Mobile (360–767px): single column, 16–20px page margins, 44px+ tap targets, sticky bottom CTA where conversion matters.
 - Tablet (768–1099px): 2-column grids, condensed nav, preserved section order.

@@ -9,7 +9,7 @@ preview:
   bg: "#FFF9F0"
   surface: "#FFFFFF"
   ink: "#222222"
-  muted: "#797269"
+  muted: "#6d6d6d"
   accent: "#FF4FA3"
   accent2: "#00B3FF"
   display: "Baloo 2, Fredoka, Arial Rounded MT Bold, sans-serif"
@@ -113,6 +113,10 @@ Durations: 150–350ms sticker pops. Easings: snappy cubic-bezier(0.34,1.56,0.64
 - Loading: skeletons matching the surface style; spinners only for indeterminate waits under 3s.
 
 ## 17. Responsive behavior
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
 - Mobile (360–767px): single column, 16–20px page margins, 44px+ tap targets, sticky bottom CTA where conversion matters.
 - Tablet (768–1099px): 2-column grids, condensed nav, preserved section order.

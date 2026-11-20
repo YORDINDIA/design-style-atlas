@@ -9,7 +9,7 @@ preview:
   bg: "#FFFFFF"
   surface: "#F0F0F0"
   ink: "#000000"
-  muted: "#555555"
+  muted: "#676767"
   accent: "#0000EE"
   accent2: "#551A8B"
   display: "Times New Roman, Times, serif"
@@ -109,6 +109,10 @@ Instantaneous state changes; 0ms transitions; browser-native focus rings.
 - Loading: skeletons or spinners matching the style's texture.
 
 ## 17. Responsive behavior
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
 - Mobile (360–767px): single column, 16–20px page margins, 44px+ tap targets, preserved visual essence.
 - Tablet (768–1099px): 2-column layouts, condensed navigation, proportional display type.

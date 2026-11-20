@@ -9,7 +9,7 @@ preview:
   bg: "#050505"
   surface: "#0D0F0D"
   ink: "#00FF41"
-  muted: "#4E8865"
+  muted: "#fdfdfd"
   accent: "#00FF41"
   accent2: "#FF003C"
   display: "Share Tech Mono, JetBrains Mono, monospace"
@@ -114,6 +114,10 @@ Durations: micro instant–150ms, standard 200ms log-stream ticks. Easings: line
 - Flash safety: max 2 flashes, max 3/s, never fullscreen — 300ms glitch bursts only, killed under reduced-motion.
 
 ## 17. Responsive behavior
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
 - Mobile (360–767px): single column, 16–20px page margins, 44px+ tap targets, sticky bottom CTA where conversion matters.
 - Tablet (768–1099px): 2-column grids, condensed nav, preserved section order.

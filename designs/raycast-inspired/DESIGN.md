@@ -9,7 +9,7 @@ preview:
   bg: "#0B0D0E"
   surface: "#16191B"
   ink: "#EDEDED"
-  muted: "#8B949E"
+  muted: "#fdfdfd"
   accent: "#FF6363"
   accent2: "#FF9F43"
   display: "Inter, SF Pro Display, -apple-system, sans-serif"
@@ -109,6 +109,10 @@ Snappy 100–150ms ease-out transitions; instant keyboard navigation with 0ms de
 - Loading: skeletons or spinners matching the style's texture.
 
 ## 17. Responsive behavior
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
 - Mobile (360–767px): single column, 16–20px page margins, 44px+ tap targets, preserved visual essence.
 - Tablet (768–1099px): 2-column layouts, condensed navigation, proportional display type.

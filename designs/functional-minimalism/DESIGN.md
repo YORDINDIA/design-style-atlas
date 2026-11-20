@@ -9,7 +9,7 @@ preview:
   bg: "#FFFFFF"
   surface: "#F4F4F5"
   ink: "#18181B"
-  muted: "#6F6F77"
+  muted: "#696969"
   accent: "#2563EB"
   accent2: "#047857"
   display: "system-ui, -apple-system, Segoe UI, sans-serif"
@@ -113,6 +113,10 @@ Durations: micro 100ms, standard 150ms max. Easings: linear or ease-out; no spri
 - Loading: skeletons matching the surface style; spinners only for indeterminate waits under 3s.
 
 ## 17. Responsive behavior
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
 - Mobile (360–767px): single column, 16–20px page margins, 44px tap targets, sticky action bar only for the primary task action.
 - Tablet (768–1099px): 2-column grids, condensed nav, preserved section order.

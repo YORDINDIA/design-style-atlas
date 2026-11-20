@@ -9,7 +9,7 @@ preview:
   bg: "#0B0E14"
   surface: "#12161F"
   ink: "#EDEFF5"
-  muted: "#7C8698"
+  muted: "#fdfdfd"
   accent: "#00E5FF"
   accent2: "#FFD802"
   display: "Rajdhani, Chakra Petch, sans-serif"
@@ -113,6 +113,10 @@ Durations: micro 100–200ms hit-markers, standard 300–500ms level-up bursts. 
 - Loading: skeletons matching the surface style; spinners only for indeterminate waits under 3s.
 
 ## 17. Responsive behavior
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
 - Mobile (360–767px): single column, 16–20px page margins, 44px+ tap targets, sticky bottom CTA where conversion matters.
 - Tablet (768–1099px): 2-column grids, condensed nav, preserved section order.

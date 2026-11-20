@@ -9,7 +9,7 @@ preview:
   bg: "#0B0E14"
   surface: "#1C2331"
   ink: "#F8FAFC"
-  muted: "#94A3B8"
+  muted: "#fdfdfd"
   accent: "#38BDF8"
   accent2: "#818CF8"
   display: "SF Pro Display, Inter, system-ui, sans-serif"
@@ -109,6 +109,10 @@ Fluid physics springs: stiffness 240, damping 26; floating windows have gentle a
 - Loading: skeletons or spinners matching the style's texture.
 
 ## 17. Responsive behavior
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
 - Mobile (360–767px): single column, 16–20px page margins, 44px+ tap targets, preserved visual essence.
 - Tablet (768–1099px): 2-column layouts, condensed navigation, proportional display type.

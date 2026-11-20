@@ -9,7 +9,7 @@ preview:
   bg: "#030712"
   surface: "#0A1128"
   ink: "#F3F4F6"
-  muted: "#768BA3"
+  muted: "#fdfdfd"
   accent: "#00F5D4"
   accent2: "#A855F7"
   display: "Plus Jakarta Sans, Outfit, sans-serif"
@@ -109,6 +109,10 @@ Slow undulating breathing pulses: 3s to 5s infinite gentle breathing animations;
 - Loading: skeletons or spinners matching the style's texture.
 
 ## 17. Responsive behavior
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
 - Mobile (360–767px): single column, 16–20px page margins, 44px+ tap targets, preserved visual essence.
 - Tablet (768–1099px): 2-column layouts, condensed navigation, proportional display type.

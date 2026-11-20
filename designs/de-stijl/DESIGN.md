@@ -9,7 +9,7 @@ preview:
   bg: "#F7F7F7"
   surface: "#FFFFFF"
   ink: "#111111"
-  muted: "#717171"
+  muted: "#6b6b6b"
   accent: "#E52521"
   accent2: "#0045A5"
   display: "Futura, Trebuchet MS, sans-serif"
@@ -109,6 +109,10 @@ Instantaneous or mechanical sliding along orthogonal axes; no rotation, no easin
 - Loading: skeletons or square/stepped loaders matching the style's texture — no circular spinners (no-curves rule).
 
 ## 17. Responsive behavior
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
 - Mobile (360–767px): single column, 16–20px page margins, 44px+ tap targets, preserved visual essence.
 - Tablet (768–1099px): 2-column layouts, condensed navigation, proportional display type.

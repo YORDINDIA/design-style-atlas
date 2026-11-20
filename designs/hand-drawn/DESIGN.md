@@ -1,15 +1,26 @@
 ---
 slug: hand-drawn
 name: "Hand-Drawn"
+<<<<<<< HEAD
 description: "Wobbly human lines: marker strokes, doodles and imperfect warmth."
 category: Handmade & Texture
 tags: [hand-drawn, doodle, human]
 related: [risograph, halftone, grain-noise]
+=======
+description: "Whiteboard-style interface annotations use marker arrows, circles, and wobbly frames."
+category: Handmade & Texture
+tags: [hand-drawn, annotation, whiteboard]
+related: [pencil-sketch, doodle-art, illustration-led]
+>>>>>>> origin/main
 preview:
   bg: "#FFFDF5"
   surface: "#FFFFFF"
   ink: "#2E2A26"
+<<<<<<< HEAD
   muted: "#6f6f6f"
+=======
+  muted: "#7C736B"
+>>>>>>> origin/main
   accent: "#E4572E"
   accent2: "#1F6B8A"
   display: "Caveat, Kalam, Comic Sans MS, sans-serif"
@@ -22,7 +33,11 @@ preview:
 
 ## 1. Overall aesthetic
 
+<<<<<<< HEAD
 A whiteboard that shipped: wobbly dividers, hand-circled prices, arrow doodles pointing at features, one handwritten font for emphasis over a legible body face. Human, funny, and clear. For education, nonprofits, kids, and friendly SaaS.
+=======
+A whiteboard that shipped: wobbly dividers, hand-circled prices, and marker arrows that point to interface features. The marks explain the content. Pencil Sketch studies form with graphite; Doodle Art builds a dense repeated motif field. Keep those uses separate from these UI annotations. Human, funny, and clear. For education, nonprofits, kids, and friendly SaaS.
+>>>>>>> origin/main
 
 **Three principles:**
 
@@ -89,11 +104,19 @@ Notebook bar: doodle logo, hand-underlined links, circled CTA.
 
 ## 12. Imagery
 
+<<<<<<< HEAD
 Doodles, diagrams, stick-figure explainers, annotated screenshots with marker circles.
 
 ## 13. Icons
 
 Doodle icons: wobbly stroke, round caps, inconsistent (charmingly) — one artist's set.
+=======
+Annotated screenshots, simple explainer diagrams, and marker circles that identify a feature.
+
+## 13. Icons
+
+Marker icons: wobbly stroke and round caps, made as one coherent set.
+>>>>>>> origin/main
 
 ## 14. Textures / Patterns
 
@@ -114,10 +137,13 @@ Durations: micro 150–250ms, standard 400–600ms draw-on strokes. Easings: han
 
 ## 17. Responsive behavior
 
+<<<<<<< HEAD
 All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
 All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
+=======
+>>>>>>> origin/main
 - Mobile (360–767px): single column, 16–20px page margins, 44px+ tap targets, sticky bottom CTA where conversion matters.
 - Tablet (768–1099px): 2-column grids, condensed nav, preserved section order.
 - Desktop (1100px+): full grid expression, max-width per Layout section; type scale per §2 Typography.
@@ -137,7 +163,11 @@ All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 - Perfect geometric shapes (wobble them)
 - Handwritten body copy (legibility!)
 - Corporate stock photography
+<<<<<<< HEAD
 - Over-doodling until content drowns
+=======
+- Dense repeated motif fields; use Doodle Art for those
+>>>>>>> origin/main
 
 ## 20. Quick-start snippet
 

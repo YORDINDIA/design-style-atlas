@@ -9,7 +9,11 @@ preview:
   bg: "#0B0D0E"
   surface: "#16191B"
   ink: "#EDEDED"
+<<<<<<< HEAD
   muted: "#fdfdfd"
+=======
+  muted: "#8B949E"
+>>>>>>> origin/main
   accent: "#FF6363"
   accent2: "#FF9F43"
   display: "Inter, SF Pro Display, -apple-system, sans-serif"
@@ -110,10 +114,13 @@ Snappy 100–150ms ease-out transitions; instant keyboard navigation with 0ms de
 
 ## 17. Responsive behavior
 
+<<<<<<< HEAD
 All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
 All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
+=======
+>>>>>>> origin/main
 - Mobile (360–767px): single column, 16–20px page margins, 44px+ tap targets, preserved visual essence.
 - Tablet (768–1099px): 2-column layouts, condensed navigation, proportional display type.
 - Desktop (1100px+): full grid expression, max-width per layout section; type scale per §2 Typography.

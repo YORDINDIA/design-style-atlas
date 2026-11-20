@@ -9,7 +9,11 @@ preview:
   bg: "#0B0B18"
   surface: "#15152B"
   ink: "#F2F0FF"
+<<<<<<< HEAD
   muted: "#fdfdfd"
+=======
+  muted: "#8E8AB0"
+>>>>>>> origin/main
   accent: "#00E5FF"
   accent2: "#FF4FD8"
   display: "Unbounded, Bungee, Impact, sans-serif"
@@ -114,10 +118,13 @@ Durations: micro 100–200ms widget pops, standard 300–500ms glow pulses, cere
 
 ## 17. Responsive behavior
 
+<<<<<<< HEAD
 All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
 All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
+=======
+>>>>>>> origin/main
 - Mobile (360–767px): single column, 16–20px page margins, 44px+ tap targets, sticky bottom CTA where conversion matters.
 - Tablet (768–1099px): 2-column grids, condensed nav, preserved section order.
 - Desktop (1100px+): full grid expression, max-width per Layout section; type scale per §2 Typography.

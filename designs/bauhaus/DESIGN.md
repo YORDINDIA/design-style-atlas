@@ -9,7 +9,11 @@ preview:
   bg: "#F2EDE3"
   surface: "#FFFFFF"
   ink: "#1A1A1A"
+<<<<<<< HEAD
   muted: "#656565"
+=======
+  muted: "#6E675C"
+>>>>>>> origin/main
   accent: "#E30613"
   accent2: "#0B3D91"
   display: "ITC Bauhaus, Poppins, Futura, sans-serif"
@@ -116,10 +120,13 @@ Durations: micro 150–250ms, standard 300–450ms geometric slides. Easings: cr
 
 ## 17. Responsive behavior
 
+<<<<<<< HEAD
 All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
 All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
+=======
+>>>>>>> origin/main
 - Mobile (360–767px): single column, 16–20px page margins, 44px+ tap targets, sticky bottom CTA where conversion matters.
 - Tablet (768–1099px): 2-column grids, condensed nav, preserved section order.
 - Desktop (1100px+): full grid expression, max-width per Layout section; type scale per §2 Typography.

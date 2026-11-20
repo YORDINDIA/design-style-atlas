@@ -142,6 +142,7 @@
     "botanical-herbarium",
     "cottagecore",
     "gothic-victorian",
+<<<<<<< HEAD
     "sore-rock-lighthouse",
     "ice-core",
     "impossible-minerals",
@@ -192,4 +193,38 @@
     "imaginary-moths"
   ],
   "updated": "2026-11-20"
+=======
+    "paper-cut-diorama",
+    "origami-geometry",
+    "kirigami-pop-up",
+    "paper-quilling",
+    "paper-marbling",
+    "felt-applique",
+    "embroidered-illustration",
+    "quilted-patchwork",
+    "marquetry",
+    "mosaic",
+    "linocut-print",
+    "cyanotype",
+    "letterpress",
+    "etching",
+    "ukiyo-e-woodblock",
+    "stained-glass",
+    "sumi-e-ink-wash",
+    "op-art",
+    "isometric-illustration",
+    "low-poly-facets",
+    "pencil-sketch",
+    "doodle-art",
+    "charcoal-gesture",
+    "watercolor-wash",
+    "gouache-illustration",
+    "chalk-pastel",
+    "wax-crayon",
+    "continuous-line",
+    "architectural-sketchbook",
+    "ink-stippling"
+  ],
+  "updated": "2026-09-25"
+>>>>>>> origin/main
 }

@@ -9,7 +9,11 @@ preview:
   bg: "#0A0E14"
   surface: "#11161F"
   ink: "#E6E9EF"
+<<<<<<< HEAD
   muted: "#fdfdfd"
+=======
+  muted: "#8A93A6"
+>>>>>>> origin/main
   accent: "#FF9F0A"
   accent2: "#30D158"
   display: "JetBrains Mono, SF Mono, Menlo, monospace"
@@ -114,10 +118,13 @@ Durations: 80–150ms updates; alerts pulse 1s ×3 then settle. Easings: ease-ou
 
 ## 17. Responsive behavior
 
+<<<<<<< HEAD
 All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
 All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
+=======
+>>>>>>> origin/main
 - Mobile (360–767px): single column, 16–20px page margins, 44px+ tap targets, sticky bottom CTA where conversion matters.
 - Tablet (768–1099px): 2-column grids, condensed nav, preserved section order.
 - Desktop (1100px+): full grid expression, max-width per Layout section; type scale per §2 Typography.

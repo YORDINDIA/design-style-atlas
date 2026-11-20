@@ -9,7 +9,11 @@ preview:
   bg: "#0A8F8F"
   surface: "#C3C7CB"
   ink: "#000000"
+<<<<<<< HEAD
   muted: "#101010"
+=======
+  muted: "#111919"
+>>>>>>> origin/main
   accent: "#000080"
   accent2: "#FF0000"
   display: "Pixelated MS Sans Serif, Tahoma, sans-serif"
@@ -114,10 +118,13 @@ Durations: instant–150ms bevel-pressed snaps. Easings: none (steps welcome); s
 
 ## 17. Responsive behavior
 
+<<<<<<< HEAD
 All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
 All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
+=======
+>>>>>>> origin/main
 - Mobile (360–767px): single dialog column, 16–20px page margins, taskbar with Start + clock preserved; enlarge chrome to 44px only under `(pointer: coarse)`, never a sticky bottom CTA.
 - Tablet (768–1099px): 2-column grids, condensed nav, preserved section order.
 - Desktop (1100px+): full window stack per Layout section, hero capped at 28–40px per Typography.

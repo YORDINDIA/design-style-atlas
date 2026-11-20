@@ -9,7 +9,11 @@ preview:
   bg: "#8BAC0F"
   surface: "#9BBC0F"
   ink: "#0F380F"
+<<<<<<< HEAD
   muted: "#333333"
+=======
+  muted: "#0F380F"
+>>>>>>> origin/main
   accent: "#0F380F"
   accent2: "#306230"
   display: "Press Start 2P, Courier, monospace"
@@ -110,10 +114,13 @@ Step-based 8-frame animations; LCD pixel ghosting trail on rapid scrolling; scre
 
 ## 17. Responsive behavior
 
+<<<<<<< HEAD
 All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
 All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
+=======
+>>>>>>> origin/main
 - Mobile (360–767px): single column, 16–20px page margins, 44px+ tap targets, preserved visual essence.
 - Tablet (768–1099px): 2-column layouts, condensed navigation, proportional display type.
 - Desktop (1100px+): full grid expression, max-width per layout section; type scale per §2 Typography.

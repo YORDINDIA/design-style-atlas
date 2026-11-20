@@ -1,15 +1,26 @@
 ---
 slug: papercut
 name: "Papercut"
+<<<<<<< HEAD
 description: "Dimensional physical paper craft: stacked textured cardstock silhouettes with soft cast drop shadows."
 category: Handmade & Texture
 tags: [paper, craft, layered, shadows, tactile]
 related: [claymorphism, hand-drawn, organic-biophilic]
+=======
+description: "Layered cardstock contours and cut silhouettes create tactile depth across an interface."
+category: Handmade & Texture
+tags: [paper, craft, layered, shadows, tactile]
+related: [paper-cut-diorama, kirigami-pop-up, organic-biophilic]
+>>>>>>> origin/main
 preview:
   bg: "#F7F3EB"
   surface: "#FFFFFF"
   ink: "#2D2823"
+<<<<<<< HEAD
   muted: "#696969"
+=======
+  muted: "#766D64"
+>>>>>>> origin/main
   accent: "#D96B43"
   accent2: "#4E6E58"
   display: "Recoleta, Playfair Display, serif"
@@ -22,7 +33,11 @@ preview:
 
 ## 1. Overall aesthetic
 
+<<<<<<< HEAD
 Papercut transforms web layouts into tactile layered paper dioramas. Clean silhouette sheets of heavy cardstock appear stacked in dimensional physical space, separated by soft, realistic directional drop shadows. Flowing topographic contour curves, rich matte earthy swatches (terracotta, sage, cream), and fibrous textures create deep handcrafted warmth.
+=======
+Papercut transforms interface sections into tactile stacks of cut cardstock. Broad contour sheets and silhouette edges organize content across the page; unlike Paper Cut Diorama, it does not frame one staged scene. Clean sheets appear separated by directional cast shadows. Flowing topographic contour curves, rich matte earthy swatches (terracotta, sage, cream), and fibrous textures create deep handcrafted warmth.
+>>>>>>> origin/main
 
 **Three principles:**
 
@@ -87,7 +102,11 @@ Top paper ribbon with gentle curved bottom edge; clean serif logo; quiet text li
 
 ## 12. Imagery
 
+<<<<<<< HEAD
 Layered vector paper silhouettes, botanical paper cuts, origami birds, tactile lifestyle photography.
+=======
+Layered vector cardstock silhouettes and topographic cut bands. Use Paper Cut Diorama for framed foreground, middle-ground, and background scenery.
+>>>>>>> origin/main
 
 ## 13. Icons
 
@@ -110,10 +129,13 @@ Gentle physical parallax: background paper sheets drift slower than foreground; 
 
 ## 17. Responsive behavior
 
+<<<<<<< HEAD
 All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
 All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
+=======
+>>>>>>> origin/main
 - Mobile (360–767px): single column, 16–20px page margins, 44px+ tap targets, preserved visual essence.
 - Tablet (768–1099px): 2-column layouts, condensed navigation, proportional display type.
 - Desktop (1100px+): full grid expression, max-width per layout section; type scale per §2 Typography.
@@ -134,6 +156,10 @@ All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 - Harsh 1px solid black wireframe borders
 - Flat design with zero shadow depth
 - Aggressive rapid glitch or strobe animations
+<<<<<<< HEAD
+=======
+- A framed shadow-box scene with a fixed horizon; that is Paper Cut Diorama
+>>>>>>> origin/main
 
 ## 20. Quick-start snippet
 

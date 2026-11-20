@@ -9,7 +9,11 @@ preview:
   bg: "#141619"
   surface: "#20242A"
   ink: "#E6E9EE"
+<<<<<<< HEAD
   muted: "#fdfdfd"
+=======
+  muted: "#8B95A5"
+>>>>>>> origin/main
   accent: "#FF2A55"
   accent2: "#4E5868"
   display: "Monument Extended, Space Grotesk, sans-serif"
@@ -110,10 +114,13 @@ Aggressive geometric plane shifts: elements slide along 15-degree vector angles;
 
 ## 17. Responsive behavior
 
+<<<<<<< HEAD
 All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
 All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
+=======
+>>>>>>> origin/main
 - Mobile (360–767px): single column, 16–20px page margins, 44px+ tap targets, preserved visual essence.
 - Tablet (768–1099px): 2-column layouts, condensed navigation, proportional display type.
 - Desktop (1100px+): full grid expression, max-width per layout section; type scale per §2 Typography.

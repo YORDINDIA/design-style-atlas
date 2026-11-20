@@ -34,7 +34,11 @@ export function HandDrawnPreview({ meta, large }: { meta: StyleMeta; large?: boo
           }}
         >
           <span style={{ fontFamily: display, fontWeight: 700, fontSize: large ? 17 : 10, transform: "rotate(-2deg)" }}>
+<<<<<<< HEAD
             doodle<span style={{ color: accent }}>*</span>co
+=======
+            notes<span style={{ color: accent }}>*</span>co
+>>>>>>> origin/main
           </span>
           <span style={{ display: "flex", alignItems: "center", gap: large ? 12 : 7 }}>
             <span style={{ position: "relative", fontSize: large ? 9.5 : 6, fontWeight: 700 }}>
@@ -81,7 +85,11 @@ export function HandDrawnPreview({ meta, large }: { meta: StyleMeta; large?: boo
               background: surface,
               border: `2.5px solid ${ink}`,
               borderRadius: "12px 14px 11px 15px",
+<<<<<<< HEAD
               boxShadow: "0 6px 18px rgba(46,42,38,0.15)",
+=======
+              boxShadow: `0 6px 18px ${ink}26`,
+>>>>>>> origin/main
               padding: large ? "16px 20px" : "9px 12px",
               maxWidth: large ? 340 : 220,
               transform: "rotate(-1.5deg)",
@@ -96,16 +104,27 @@ export function HandDrawnPreview({ meta, large }: { meta: StyleMeta; large?: boo
                 width: large ? 64 : 40,
                 height: large ? 14 : 9,
                 transform: "translateX(-50%) rotate(2deg)",
+<<<<<<< HEAD
                 background: "rgba(46,134,171,0.22)",
+=======
+                background: `${accent2}38`,
+>>>>>>> origin/main
                 borderLeft: `1.5px dashed ${accent2}`,
                 borderRight: `1.5px dashed ${accent2}`,
               }}
               aria-hidden="true"
             />
+<<<<<<< HEAD
             <div style={{ fontSize: large ? 8 : 5, fontWeight: 800, letterSpacing: "0.08em", color: muted }}>CHAPTER 01 — WOBBLY DEPT.</div>
             <div style={{ fontSize: large ? 22 : 13, fontWeight: 700, lineHeight: 1.1, marginTop: 4 }}>
               Ship it{" "}
               <span style={{ position: "relative", fontFamily: display, fontSize: large ? 26 : 15, background: "linear-gradient(transparent 58%, rgba(228,87,46,0.28) 58%)", padding: "0 4px" }}>
+=======
+            <div style={{ fontSize: large ? 8 : 5, fontWeight: 800, letterSpacing: "0.08em", color: muted }}>CHAPTER 01 — WHITEBOARD</div>
+            <div style={{ fontSize: large ? 22 : 13, fontWeight: 700, lineHeight: 1.1, marginTop: 4 }}>
+              Ship it{" "}
+              <span style={{ position: "relative", fontFamily: display, fontSize: large ? 26 : 15, background: `linear-gradient(transparent 58%, ${accent}47 58%)`, padding: "0 4px" }}>
+>>>>>>> origin/main
                 human
                 <svg viewBox="0 0 120 14" style={{ position: "absolute", left: 0, right: 0, bottom: -9, width: "100%" }} aria-hidden="true">
                   <path d="M4 9 Q30 3, 60 8 T116 6" fill="none" stroke={accent} strokeWidth="3.5" strokeLinecap="round" />
@@ -113,7 +132,11 @@ export function HandDrawnPreview({ meta, large }: { meta: StyleMeta; large?: boo
               </span>
             </div>
             <div style={{ fontSize: large ? 10.5 : 6.5, color: ink, marginTop: large ? 12 : 8, lineHeight: 1.45 }}>
+<<<<<<< HEAD
               Marker strokes, circled prices &amp; arrow doodles that point the way.
+=======
+              Marker circles and arrows that explain the interface.
+>>>>>>> origin/main
             </div>
             <div style={{ display: "flex", alignItems: "center", gap: 8, marginTop: large ? 12 : 8 }}>
               <span
@@ -130,7 +153,11 @@ export function HandDrawnPreview({ meta, large }: { meta: StyleMeta; large?: boo
               >
                 Get started →
               </span>
+<<<<<<< HEAD
               <span style={{ fontFamily: display, fontSize: large ? 12 : 7.5, color: accent2 }}>free doodles!</span>
+=======
+              <span style={{ fontFamily: display, fontSize: large ? 12 : 7.5, color: accent2 }}>notes included</span>
+>>>>>>> origin/main
             </div>
           </div>
         </div>

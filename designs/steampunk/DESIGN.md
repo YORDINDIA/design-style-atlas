@@ -9,7 +9,11 @@ preview:
   bg: "#1C1510"
   surface: "#2A2018"
   ink: "#F5E8D3"
+<<<<<<< HEAD
   muted: "#fdfdfd"
+=======
+  muted: "#A89582"
+>>>>>>> origin/main
   accent: "#D4A017"
   accent2: "#C86D3B"
   display: "Playfair Display, Georgia, serif"
@@ -110,10 +114,13 @@ Clockwork mechanical motion: ticking second-hand jumps (step easing), rotating g
 
 ## 17. Responsive behavior
 
+<<<<<<< HEAD
 All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
 All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
 
+=======
+>>>>>>> origin/main
 - Mobile (360–767px): single column, 16–20px page margins, 44px+ tap targets, preserved visual essence.
 - Tablet (768–1099px): 2-column layouts, condensed navigation, proportional display type.
 - Desktop (1100px+): full grid expression, max-width per layout section; type scale per §2 Typography.

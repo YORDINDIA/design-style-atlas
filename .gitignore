@@ -8,3 +8,6 @@ frontend/public/llms.txt
 frontend/public/llms-full.txt
 .DS_Store
 *.tsbuildinfo
+.claude/settings.local.json*
+trajector-doctor-*.tar.gz
+trajector-doctor-*/

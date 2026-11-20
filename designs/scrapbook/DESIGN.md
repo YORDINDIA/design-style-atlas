@@ -9,7 +9,11 @@ preview:
   bg: "#F3EDE2"
   surface: "#FFFDF6"
   ink: "#3B362E"
+<<<<<<< HEAD
+  muted: "#656565"
+=======
   muted: "#6F675E"
+>>>>>>> origin/main
   accent: "#B3541E"
   accent2: "#5B7E6B"
   display: "Caveat, Georgia, serif"
@@ -114,6 +118,13 @@ Durations: micro 150–250ms, standard 400–600ms sticker-peel entrances. Easin
 
 ## 17. Responsive behavior
 
+<<<<<<< HEAD
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+=======
+>>>>>>> origin/main
 - Mobile (360–767px): single column, 16–20px page margins, 44px+ tap targets, sticky bottom CTA where conversion matters.
 - Tablet (768–1099px): 2-column grids, condensed nav, preserved section order.
 - Desktop (1100px+): full grid expression, max-width per Layout section; type scale per §2 Typography.

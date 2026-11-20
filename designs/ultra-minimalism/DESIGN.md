@@ -9,7 +9,11 @@ preview:
   bg: "#FFFFFF"
   surface: "#FFFFFF"
   ink: "#111111"
+<<<<<<< HEAD
+  muted: "#707070"
+=======
   muted: "#767676"
+>>>>>>> origin/main
   accent: "#111111"
   accent2: "#0000EE"
   display: "Helvetica Neue, Inter, Arial, sans-serif"
@@ -114,6 +118,13 @@ Durations: 200ms opacity fades at most; content feels printed, not animated. Eas
 
 ## 17. Responsive behavior
 
+<<<<<<< HEAD
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+=======
+>>>>>>> origin/main
 - Mobile (360–767px): single column, 16–20px page margins, 44px+ tap targets.
 - Tablet (768–1099px): same single narrow column, condensed nav, preserved section order — no grids.
 - Desktop (1100px+): same single narrow column (640–760px), generous whitespace — no grids, no oversized type.

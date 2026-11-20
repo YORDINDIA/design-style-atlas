@@ -9,7 +9,11 @@ preview:
   bg: "#F2F0EB"
   surface: "#FFFFFF"
   ink: "#111111"
+<<<<<<< HEAD
+  muted: "#676767"
+=======
   muted: "#5C5A55"
+>>>>>>> origin/main
   accent: "#D92300"
   accent2: "#FFEB00"
   display: "Impact, Arial Black, sans-serif"
@@ -114,6 +118,13 @@ Durations: instant–250ms Xerox slams. Easings: none or steps(2); smooth premiu
 
 ## 17. Responsive behavior
 
+<<<<<<< HEAD
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+=======
+>>>>>>> origin/main
 - Mobile (360–767px): single column, 16–20px page margins, 44px+ tap targets, sticky bottom CTA where conversion matters.
 - Tablet (768–1099px): 2-column grids, condensed nav, preserved section order.
 - Desktop (1100px+): full grid expression, max-width per Layout section; type scale per §2 Typography.

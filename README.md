@@ -2,15 +2,26 @@
 
 # 🎨 Design Style Atlas
 
+<<<<<<< HEAD
+**140 copy-paste visual directions for AI coding agents.** Pick a style, hand its `DESIGN.md` to your agent, get coherent UI.
+
+[![MIT](https://img.shields.io/badge/license-MIT-green)](#-license)
+![Styles](https://img.shields.io/badge/styles-140-blue)
+=======
 **170 copy-paste visual directions for AI coding agents.** Pick a style, hand its `DESIGN.md` to your agent, get coherent UI.
 
 [![MIT](https://img.shields.io/badge/license-MIT-green)](#-license)
 ![Styles](https://img.shields.io/badge/styles-170-blue)
+>>>>>>> origin/main
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js)
 ![MCP ready](https://img.shields.io/badge/MCP-ready-purple)
 ![Node](https://img.shields.io/badge/node-%3E%3D20.9.0-339933?logo=node.js)
 
+<<<<<<< HEAD
+🌐 Live demo — https://design-styles.dev · [📖 Browse styles](#-browse-the-140-styles) · [🤝 Contribute](CONTRIBUTING.md)
+=======
 🌐 Live demo — https://design-styles.dev · [📖 Browse styles](#-browse-the-170-styles) · [🤝 Contribute](CONTRIBUTING.md)
+>>>>>>> origin/main
 
 </div>
 
@@ -38,7 +49,11 @@ Browse the index: https://design-styles.dev · machine index: https://design-sty
 
 ---
 
+<<<<<<< HEAD
+## 📖 Browse the 140 styles
+=======
 ## 📖 Browse the 170 styles
+>>>>>>> origin/main
 
 Every name links to its agent-ready spec. Most used first (same order as the site):
 
@@ -77,7 +92,11 @@ Order follows `frontend/app/lib/popularity.json`, the same ranking the site uses
 - [Eco / Sustainable](designs/eco-sustainable/DESIGN.md) — Planet-first design: recycled textures, impact counters and honest green.
 - [Wabi-Sabi](designs/wabi-sabi/DESIGN.md) — Perfect imperfection: asymmetry, cracks and weathered beauty, honored.
 - [E-Ink Paper](designs/e-ink-paper/DESIGN.md) — Warm paper grounds, book serif, and distraction-free reading calm.
+<<<<<<< HEAD
+- [Papercut](designs/papercut/DESIGN.md) — Dimensional physical paper craft: stacked textured cardstock silhouettes with soft cast drop shadows.
+=======
 - [Papercut](designs/papercut/DESIGN.md) — Layered cardstock contours and cut silhouettes create tactile depth across an interface.
+>>>>>>> origin/main
 
 </details>
 
@@ -141,7 +160,11 @@ Order follows `frontend/app/lib/popularity.json`, the same ranking the site uses
 - [Oversized Typography](designs/oversized-typography/DESIGN.md) — Scale as spectacle: viewport-filling headlines that carry whole pages.
 - [Variable Fonts](designs/variable-fonts/DESIGN.md) — Living letterforms: weight, width and optical size reacting to context.
 - [Illustration-Led](designs/illustration-led/DESIGN.md) — Drawn worlds first: spot illustrations, scenes and characters carrying pages.
+<<<<<<< HEAD
+- [Hand-Drawn](designs/hand-drawn/DESIGN.md) — Wobbly human lines: marker strokes, doodles and imperfect warmth.
+=======
 - [Hand-Drawn](designs/hand-drawn/DESIGN.md) — Whiteboard-style interface annotations use marker arrows, circles, and wobbly frames.
+>>>>>>> origin/main
 - [Corporate Memphis](designs/corporate-memphis/DESIGN.md) — Flat friendly vector people: big tech's geometric humanism, polished.
 - [Collage](designs/collage/DESIGN.md) — Cut-and-paste energy: torn edges, tape and layered fragments with intent.
 - [Grain / Noise](designs/grain-noise/DESIGN.md) — Analog warmth over digital: film grain, texture overlays and tactile depth.
@@ -245,6 +268,8 @@ Order follows `frontend/app/lib/popularity.json`, the same ranking the site uses
 
 </details>
 
+<<<<<<< HEAD
+=======
 
 <details>
 <summary><strong>Material, Print & Drawing (30)</strong></summary>
@@ -282,6 +307,7 @@ Order follows `frontend/app/lib/popularity.json`, the same ranking the site uses
 
 </details>
 
+>>>>>>> origin/main
 <!-- STYLES:END -->
 
 ---

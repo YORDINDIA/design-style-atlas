@@ -9,7 +9,11 @@ preview:
   bg: "#0B0C10"
   surface: "#1F2833"
   ink: "#66FCF1"
+<<<<<<< HEAD
+  muted: "#fdfdfd"
+=======
   muted: "#8B9BAE"
+>>>>>>> origin/main
   accent: "#FF0055"
   accent2: "#00FFFF"
   display: "VT323, Share Tech Mono, monospace"
@@ -110,6 +114,13 @@ Sudden jitter displacement: keyframe clip-path horizontal slices jumping every 2
 
 ## 17. Responsive behavior
 
+<<<<<<< HEAD
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+=======
+>>>>>>> origin/main
 - Mobile (360–767px): single column, 16–20px page margins, 44px+ tap targets, preserved visual essence.
 - Tablet (768–1099px): 2-column layouts, condensed navigation, proportional display type.
 - Desktop (1100px+): full grid expression, max-width per layout section; type scale per §2 Typography.

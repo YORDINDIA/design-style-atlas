@@ -9,7 +9,11 @@ preview:
   bg: "#F3EFE6"
   surface: "#FFFFFF"
   ink: "#2D2B28"
+<<<<<<< HEAD
+  muted: "#666666"
+=======
   muted: "#706C64"
+>>>>>>> origin/main
   accent: "#FF5E3A"
   accent2: "#38B6FF"
   display: "Fredoka, Nunito, -apple-system, sans-serif"
@@ -110,6 +114,13 @@ Squishy clay physics: springy overshoot on hover (scale 1.05); tactile squash-an
 
 ## 17. Responsive behavior
 
+<<<<<<< HEAD
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+=======
+>>>>>>> origin/main
 - Mobile (360–767px): single column, 16–20px page margins, 44px+ tap targets, preserved visual essence.
 - Tablet (768–1099px): 2-column layouts, condensed navigation, proportional display type.
 - Desktop (1100px+): full grid expression, max-width per layout section; type scale per §2 Typography.

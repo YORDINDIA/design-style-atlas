@@ -9,7 +9,11 @@ preview:
   bg: "#030712"
   surface: "#0A1128"
   ink: "#F3F4F6"
+<<<<<<< HEAD
+  muted: "#fdfdfd"
+=======
   muted: "#768BA3"
+>>>>>>> origin/main
   accent: "#00F5D4"
   accent2: "#A855F7"
   display: "Plus Jakarta Sans, Outfit, sans-serif"
@@ -110,6 +114,13 @@ Slow undulating breathing pulses: 3s to 5s infinite gentle breathing animations;
 
 ## 17. Responsive behavior
 
+<<<<<<< HEAD
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+=======
+>>>>>>> origin/main
 - Mobile (360–767px): single column, 16–20px page margins, 44px+ tap targets, preserved visual essence.
 - Tablet (768–1099px): 2-column layouts, condensed navigation, proportional display type.
 - Desktop (1100px+): full grid expression, max-width per layout section; type scale per §2 Typography.

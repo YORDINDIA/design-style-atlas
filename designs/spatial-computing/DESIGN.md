@@ -9,7 +9,11 @@ preview:
   bg: "#0B0E14"
   surface: "#1C2331"
   ink: "#F8FAFC"
+<<<<<<< HEAD
+  muted: "#fdfdfd"
+=======
   muted: "#94A3B8"
+>>>>>>> origin/main
   accent: "#38BDF8"
   accent2: "#818CF8"
   display: "SF Pro Display, Inter, system-ui, sans-serif"
@@ -110,6 +114,13 @@ Fluid physics springs: stiffness 240, damping 26; floating windows have gentle a
 
 ## 17. Responsive behavior
 
+<<<<<<< HEAD
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+=======
+>>>>>>> origin/main
 - Mobile (360–767px): single column, 16–20px page margins, 44px+ tap targets, preserved visual essence.
 - Tablet (768–1099px): 2-column layouts, condensed navigation, proportional display type.
 - Desktop (1100px+): full grid expression, max-width per layout section; type scale per §2 Typography.

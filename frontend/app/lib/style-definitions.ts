@@ -57,7 +57,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#0B0B12",
       "surface": "#14141D",
       "ink": "#F2F0FF",
+<<<<<<< HEAD
+      "muted": "#808080",
+=======
       "muted": "#8E8AB0",
+>>>>>>> origin/main
       "accent": "#8466FF",
       "accent2": "#00E5FF",
       "display": "Space Grotesk, Sora, sans-serif",
@@ -102,7 +106,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#F3E9D2",
       "surface": "#FFF8EA",
       "ink": "#3B2E23",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#746756",
+>>>>>>> origin/main
       "accent": "#A4501D",
       "accent2": "#7A8450",
       "display": "Cooper Black, Shrikhand, serif",
@@ -147,7 +155,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#0D0221",
       "surface": "#1A0B2E",
       "ink": "#F5EDFF",
+<<<<<<< HEAD
+      "muted": "#818181",
+=======
       "muted": "#9A86C7",
+>>>>>>> origin/main
       "accent": "#FF2E88",
       "accent2": "#00E5FF",
       "display": "Monoton, Orbitron, Impact, sans-serif",
@@ -192,7 +204,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#FFF6E5",
       "surface": "#FFFFFF",
       "ink": "#222222",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#767067",
+>>>>>>> origin/main
       "accent": "#704DFF",
       "accent2": "#007B7B",
       "display": "Archivo Black, Shrikhand, sans-serif",
@@ -239,7 +255,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#08080A",
       "surface": "#141419",
       "ink": "#FFFFFF",
+<<<<<<< HEAD
+      "muted": "#7f7f7f",
+=======
       "muted": "#8E8E9F",
+>>>>>>> origin/main
       "accent": "#B6FF00",
       "accent2": "#FF0055",
       "display": "Syne, Impact, -apple-system, sans-serif",
@@ -284,7 +304,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#120D1E",
       "surface": "#1E1533",
       "ink": "#F5EDD8",
+<<<<<<< HEAD
+      "muted": "#818181",
+=======
       "muted": "#A89BC0",
+>>>>>>> origin/main
       "accent": "#E8B33D",
       "accent2": "#00C2A8",
       "display": "Marcellus, Georgia, serif",
@@ -329,7 +353,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#FAF9F5",
       "surface": "#FFFFFF",
       "ink": "#1F1E1D",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#6F6E69",
+>>>>>>> origin/main
       "accent": "#BE4F2B",
       "accent2": "#4F7793",
       "display": "Georgia, Times New Roman, serif",
@@ -376,7 +404,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#1E1F22",
       "surface": "#2A2C31",
       "ink": "#F0F2F5",
+<<<<<<< HEAD
+      "muted": "#818181",
+=======
       "muted": "#959CA6",
+>>>>>>> origin/main
       "accent": "#FF9E1B",
       "accent2": "#4ADE80",
       "display": "Helvetica Neue, Inter, sans-serif",
@@ -421,7 +453,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#E8E8E8",
       "surface": "#F2F2F2",
       "ink": "#000000",
+<<<<<<< HEAD
+      "muted": "#818181",
+=======
       "muted": "#555555",
+>>>>>>> origin/main
       "accent": "#0000EE",
       "accent2": "#FF0000",
       "display": "Times New Roman, serif",
@@ -452,6 +488,58 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+<<<<<<< HEAD
+  "apiary-no-9": {
+    "slug": "apiary-no-9",
+    "name": "Apiary No. 9",
+    "category": "Playful",
+    "description": "A sunlit, nearly monochrome amber landing page for a nine-hive honey producer: the honeycomb fills outward from a dipper, bees patrol the walls, and the waggle dance tells you where the flowers are.",
+    "tags": [
+      "apiary",
+      "honey",
+      "bees",
+      "waggle",
+      "amber",
+      "landing",
+      "hexagon"
+    ],
+    "preview": {
+      "bg": "#F7F3E3",
+      "surface": "#FFFFFF",
+      "ink": "#3E3528",
+      "muted": "#838383",
+      "accent": "#E0B060",
+      "accent2": "#2F6E5B",
+      "display": "Playfair Display, Georgia, serif",
+      "body": "Inter, sans-serif"
+    },
+    "cardBorder": "1px solid #3E35281a",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "8px",
+    "btnRadius": "6px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Apiary No. 9",
+    "subhead": "A sunlit, nearly monochrome amber landing page for a nine-hive honey producer: the honeycomb fills outward from a dipper, bees patrol the walls, and the waggle dance tells you where the flowers are.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+=======
+>>>>>>> origin/main
   "apple-liquid-glass": {
     "slug": "apple-liquid-glass",
     "name": "Apple Liquid Glass",
@@ -466,7 +554,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#F5F7FA",
       "surface": "#FFFFFF",
       "ink": "#1D1D1F",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#6E6E73",
+>>>>>>> origin/main
       "accent": "#006EDE",
       "accent2": "#913AFF",
       "display": "SF Pro Display, Inter, Helvetica Neue, sans-serif",
@@ -497,6 +589,40 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+<<<<<<< HEAD
+  "ariadne-thread": {
+    "slug": "ariadne-thread",
+    "name": "Ariadne's Thread",
+    "category": "Playful",
+    "description": "Walk the labyrinth; hold to keep walking; swipe or tap the corridor ahead; thread out with a counter, water-clock, and labyrinth map.",
+    "tags": [
+      "mythology",
+      "labyrinth",
+      "maze",
+      "minotaur",
+      "playful",
+      "interactive"
+    ],
+    "preview": {
+      "bg": "#EFE8D8",
+      "surface": "#FFFFFF",
+      "ink": "#3E3528",
+      "muted": "#838383",
+      "accent": "#B85D2C",
+      "accent2": "#5D5D53",
+      "display": "Playfair Display, Georgia, serif",
+      "body": "Cormorant Garamond, Georgia, serif"
+    },
+    "cardBorder": "1px solid #3E352822",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "8px",
+    "btnRadius": "6px",
+    "badgeRadius": "6px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Ariadne's Thread",
+    "subhead": "Walk the labyrinth; hold to keep walking; swipe or tap the corridor ahead; thread out with a counter, water-clock, and labyrinth map.",
+=======
   "architectural-sketchbook": {
     "slug": "architectural-sketchbook",
     "name": "Architectural Sketchbook",
@@ -526,6 +652,7 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
     "eyebrow": "01 / SPECIMEN",
     "headline": "Architectural Sketchbook",
     "subhead": "Loose perspective studies include working lines, revisions, and margin notes.",
+>>>>>>> origin/main
     "navCta": "Get Started",
     "primaryCta": "Explore Specimen",
     "secondaryCta": "Read Spec",
@@ -556,7 +683,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#0E0E12",
       "surface": "#16161C",
       "ink": "#EFE6D0",
+<<<<<<< HEAD
+      "muted": "#818181",
+=======
       "muted": "#8E8574",
+>>>>>>> origin/main
       "accent": "#D4AF37",
       "accent2": "#0E7C7B",
       "display": "Cinzel, Marcellus, serif",
@@ -601,7 +732,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#F5EFE2",
       "surface": "#FFFDF6",
       "ink": "#3B3128",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#756B5F",
+>>>>>>> origin/main
       "accent": "#687144",
       "accent2": "#B3541E",
       "display": "Cormorant Garamond, Playfair Display, serif",
@@ -632,6 +767,57 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+<<<<<<< HEAD
+  "astrolabe": {
+    "slug": "astrolabe",
+    "name": "The Astrolabe",
+    "category": "Historical",
+    "description": "A planispheric astrolabe that stands in a museum: drag the rete, drag the rule, four plates, and star pointers that arc across the sky.",
+    "tags": [
+      "astrolabe",
+      "astronomy",
+      "instrument",
+      "18th century",
+      "museum",
+      "planisphere"
+    ],
+    "preview": {
+      "bg": "#E8E0D2",
+      "surface": "#FFFFFF",
+      "ink": "#2E261C",
+      "muted": "#838383",
+      "accent": "#B8925A",
+      "accent2": "#4A3A28",
+      "display": "Playfair Display, Georgia, serif",
+      "body": "EB Garamond, Georgia, serif"
+    },
+    "cardBorder": "1px solid #2E261C1a",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "8px",
+    "btnRadius": "6px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "The Astrolabe",
+    "subhead": "A planispheric astrolabe that stands in a museum: drag the rete, drag the rule, four plates, and star pointers that arc across the sky.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+=======
+>>>>>>> origin/main
   "aurora-glow": {
     "slug": "aurora-glow",
     "name": "Aurora / Glow",
@@ -646,7 +832,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#050914",
       "surface": "#0A1220",
       "ink": "#E8F1FF",
+<<<<<<< HEAD
+      "muted": "#808080",
+=======
       "muted": "#6E86A3",
+>>>>>>> origin/main
       "accent": "#00E5A0",
       "accent2": "#7C5CFF",
       "display": "Outfit, Sora, sans-serif",
@@ -691,7 +881,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#F2EDE3",
       "surface": "#FFFFFF",
       "ink": "#1A1A1A",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#6E675C",
+>>>>>>> origin/main
       "accent": "#E30613",
       "accent2": "#0B3D91",
       "display": "ITC Bauhaus, Poppins, Futura, sans-serif",
@@ -736,7 +930,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#F5F5F4",
       "surface": "#FFFFFF",
       "ink": "#1C1917",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#766F6A",
+>>>>>>> origin/main
       "accent": "#2962FE",
       "accent2": "#FF6B9D",
       "display": "Inter, SF Pro Display, sans-serif",
@@ -783,7 +981,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#030712",
       "surface": "#0A1128",
       "ink": "#F3F4F6",
+<<<<<<< HEAD
+      "muted": "#808080",
+=======
       "muted": "#768BA3",
+>>>>>>> origin/main
       "accent": "#00F5D4",
       "accent2": "#A855F7",
       "display": "Plus Jakarta Sans, Outfit, sans-serif",
@@ -830,7 +1032,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#0A2540",
       "surface": "#0F3356",
       "ink": "#FFFFFF",
+<<<<<<< HEAD
+      "muted": "#818181",
+=======
       "muted": "#7FA8CC",
+>>>>>>> origin/main
       "accent": "#00E5FF",
       "accent2": "#64FFDA",
       "display": "Space Mono, Courier New, monospace",
@@ -877,7 +1083,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#F5EFE1",
       "surface": "#EFE8D6",
       "ink": "#1F3024",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#5C6B5C",
+>>>>>>> origin/main
       "accent": "#A0522D",
       "accent2": "#556B2F",
       "display": "Cormorant Garamond, Playfair Display, serif",
@@ -922,7 +1132,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#D6D3CD",
       "surface": "#E8E6E1",
       "ink": "#1A1A1A",
+<<<<<<< HEAD
+      "muted": "#818181",
+=======
       "muted": "#5C5A55",
+>>>>>>> origin/main
       "accent": "#0000EE",
       "accent2": "#B30000",
       "display": "Times New Roman, Times, serif",
@@ -953,6 +1167,58 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+<<<<<<< HEAD
+  "calligrams": {
+    "slug": "calligrams",
+    "name": "Five Calligrams",
+    "category": "Historical",
+    "description": "Five ink poems where the script writes what it says; arrow keys turn the pages, press title to read plainly.",
+    "tags": [
+      "calligraphy",
+      "poetry",
+      "ink",
+      "scroll",
+      "hands",
+      "poem",
+      "letter"
+    ],
+    "preview": {
+      "bg": "#FBFAF5",
+      "surface": "#FFFFFF",
+      "ink": "#14213D",
+      "muted": "#838383",
+      "accent": "#C1121F",
+      "accent2": "#5F7F86",
+      "display": "Baskerville, Trebuchet MS, serif",
+      "body": "Baskerville, Georgia, serif"
+    },
+    "cardBorder": "1px solid #14213D1a",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "8px",
+    "btnRadius": "6px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Five Calligrams",
+    "subhead": "Five ink poems where the script writes what it says; arrow keys turn the pages, press title to read plainly.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+=======
+>>>>>>> origin/main
   "carbon-enterprise": {
     "slug": "carbon-enterprise",
     "name": "Carbon Enterprise",
@@ -967,7 +1233,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#FFFFFF",
       "surface": "#F4F4F4",
       "ink": "#161616",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#525252",
+>>>>>>> origin/main
       "accent": "#0F62FE",
       "accent2": "#002D9C",
       "display": "IBM Plex Sans, Inter, Helvetica Neue, sans-serif",
@@ -1012,7 +1282,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#F1F5F9",
       "surface": "#FFFFFF",
       "ink": "#0F172A",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#617187",
+>>>>>>> origin/main
       "accent": "#2563EB",
       "accent2": "#7C3AED",
       "display": "Inter, system-ui, sans-serif",
@@ -1058,7 +1332,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#E4DCBE",
       "surface": "#D6CEAF",
       "ink": "#1A1A18",
+<<<<<<< HEAD
+      "muted": "#808080",
+=======
       "muted": "#5A564A",
+>>>>>>> origin/main
       "accent": "#E05A2B",
       "accent2": "#3C887E",
       "display": "DIN Alternate, Space Mono, monospace",
@@ -1089,6 +1367,8 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+<<<<<<< HEAD
+=======
   "chalk-pastel": {
     "slug": "chalk-pastel",
     "name": "Chalk Pastel",
@@ -1134,6 +1414,7 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+>>>>>>> origin/main
   "chaos-design": {
     "slug": "chaos-design",
     "name": "Chaos Design",
@@ -1148,7 +1429,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#F4EFE6",
       "surface": "#FFFFFF",
       "ink": "#141414",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#6E675C",
+>>>>>>> origin/main
       "accent": "#FF3D00",
       "accent2": "#1E40FF",
       "display": "Archivo Black, Arial Black, sans-serif",
@@ -1179,6 +1464,8 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+<<<<<<< HEAD
+=======
   "charcoal-gesture": {
     "slug": "charcoal-gesture",
     "name": "Charcoal Gesture",
@@ -1224,6 +1511,7 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+>>>>>>> origin/main
   "claymorphism": {
     "slug": "claymorphism",
     "name": "Claymorphism",
@@ -1238,7 +1526,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#FFE8F0",
       "surface": "#FFF5F8",
       "ink": "#4A3F55",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#726781",
+>>>>>>> origin/main
       "accent": "#FF6B9D",
       "accent2": "#7C5CFF",
       "display": "Nunito, Quicksand, Baloo 2, sans-serif",
@@ -1283,7 +1575,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#EFE9DC",
       "surface": "#FFFFFF",
       "ink": "#1C1B1A",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#6E675C",
+>>>>>>> origin/main
       "accent": "#C81E1E",
       "accent2": "#0F4C81",
       "display": "Archivo Black, Georgia, serif",
@@ -1328,7 +1624,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#FFD802",
       "surface": "#FFFFFF",
       "ink": "#161616",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#675E54",
+>>>>>>> origin/main
       "accent": "#FF2E88",
       "accent2": "#2B4EFF",
       "display": "Archivo Black, Inter Tight, sans-serif",
@@ -1373,7 +1673,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#7C5CFF",
       "surface": "#FFFFFF",
       "ink": "#000000",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#0C0B0F",
+>>>>>>> origin/main
       "accent": "#FFD802",
       "accent2": "#FF4FA3",
       "display": "Archivo Black, Arial Black, sans-serif",
@@ -1404,6 +1708,56 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Raw high-impact UI"
     ]
   },
+<<<<<<< HEAD
+  "combination-safe": {
+    "slug": "combination-safe",
+    "name": "Holloway and Stern No. 4417 — The Combination",
+    "category": "Historical",
+    "description": "A classic three-wheel combination safe: drag the dial, roll the wheels over it, and crack the gate by feeling the drags — the safe cracks open on the right setting, swings the door open.",
+    "tags": [
+      "safe",
+      "combination",
+      "vintage",
+      "mechanism",
+      "browning-safe"
+    ],
+    "preview": {
+      "bg": "#E8E2CC",
+      "surface": "#FFFFFF",
+      "ink": "#2E2A22",
+      "muted": "#838383",
+      "accent": "#2F6E5B",
+      "accent2": "#B88E5C",
+      "display": "Georgia, serif",
+      "body": "Helvetica Neue, Arial, sans-serif"
+    },
+    "cardBorder": "1px solid #2E2A2222",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "0px",
+    "btnRadius": "0px",
+    "badgeRadius": "0px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Holloway and Stern No. 4417 — The Combination",
+    "subhead": "A classic three-wheel combination safe: drag the dial, roll the wheels over it, and crack the gate by feeling the drags — the safe cracks open on the right setting, swings the door open.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+=======
+>>>>>>> origin/main
   "comic-pop-art": {
     "slug": "comic-pop-art",
     "name": "Comic / Pop Art",
@@ -1418,7 +1772,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#F5F0E6",
       "surface": "#FFFFFF",
       "ink": "#141414",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#6E675C",
+>>>>>>> origin/main
       "accent": "#E30613",
       "accent2": "#FFD802",
       "display": "Bangers, Archivo Black, sans-serif",
@@ -1449,6 +1807,106 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+<<<<<<< HEAD
+  "computed-shells": {
+    "slug": "computed-shells",
+    "name": "A Cabinet of Computed Shells",
+    "category": "Data",
+    "description": "A sunlit natural-history gallery: porcelain-white shells grow out of the apex of a brass and linen drum in eight brass-labelled drawers; the growth equation is visible.",
+    "tags": [
+      "shells",
+      "cabinet",
+      "natural-history",
+      "geometry",
+      "museum",
+      "touch"
+    ],
+    "preview": {
+      "bg": "#F5F2E8",
+      "surface": "#FFFFFF",
+      "ink": "#1F3024",
+      "muted": "#838383",
+      "accent": "#A0522D",
+      "accent2": "#556B2F",
+      "display": "Cormorant Garamond, Playfair Display, serif",
+      "body": "Eczar, Garamond, Georgia, serif"
+    },
+    "cardBorder": "1px solid #1F302422",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "8px",
+    "btnRadius": "6px",
+    "badgeRadius": "6px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "A Cabinet of Computed Shells",
+    "subhead": "A sunlit natural-history gallery: porcelain-white shells grow out of the apex of a brass and linen drum in eight brass-labelled drawers; the growth equation is visible.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+  "conservas-mare-alta": {
+    "slug": "conservas-mare-alta",
+    "name": "Conservas Maré Alta — Tinned Fish Since 1923",
+    "category": "Heritage Luxury",
+    "description": "A proud, mid-century tinned-fish landing page built entirely of tin packaging: sun-yellow, sea-teal, tomato-red, and navy inks with halftones and off-register outlines; the tin opens by dragging the key.",
+    "tags": [
+      "tin",
+      "fish",
+      "cannery",
+      "packaging",
+      "portuguese",
+      "conservation",
+      "history"
+    ],
+    "preview": {
+      "bg": "#F6EAD0",
+      "surface": "#FFFFFF",
+      "ink": "#1B2D3A",
+      "muted": "#838383",
+      "accent": "#D7372F",
+      "accent2": "#0F6E78",
+      "display": "Impact, Arial Narrow, Franklin Gothic Condensed, Roboto Condensed, Gill Sans, Georgia, Palatino",
+      "body": "Georgia, Palatino, sans-serif"
+    },
+    "cardBorder": "1px solid #1B2D3A1a",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "8px",
+    "btnRadius": "6px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Conservas Maré Alta — Tinned Fish Since 1923",
+    "subhead": "A proud, mid-century tinned-fish landing page built entirely of tin packaging: sun-yellow, sea-teal, tomato-red, and navy inks with halftones and off-register outlines; the tin opens by dragging the key.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+=======
+>>>>>>> origin/main
   "constructivism": {
     "slug": "constructivism",
     "name": "Constructivism",
@@ -1464,7 +1922,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#F0EADE",
       "surface": "#E2DAC9",
       "ink": "#121212",
+<<<<<<< HEAD
+      "muted": "#7f7f7f",
+=======
       "muted": "#635D54",
+>>>>>>> origin/main
       "accent": "#D32F2F",
       "accent2": "#1A1A1A",
       "display": "Impact, Anton, Arial Black, sans-serif",
@@ -1495,6 +1957,8 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+<<<<<<< HEAD
+=======
   "continuous-line": {
     "slug": "continuous-line",
     "name": "Continuous Line",
@@ -1540,6 +2004,7 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+>>>>>>> origin/main
   "corporate-brutalism": {
     "slug": "corporate-brutalism",
     "name": "Corporate Brutalism",
@@ -1554,7 +2019,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#EFEFEA",
       "surface": "#FFFFFF",
       "ink": "#141414",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#62625C",
+>>>>>>> origin/main
       "accent": "#0033AA",
       "accent2": "#141414",
       "display": "Helvetica Neue, Arial, sans-serif",
@@ -1599,7 +2068,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#FFFFFF",
       "surface": "#F4F6FB",
       "ink": "#1E2A3B",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#627288",
+>>>>>>> origin/main
       "accent": "#2962FE",
       "accent2": "#FF6B9D",
       "display": "Inter, Plus Jakarta Sans, sans-serif",
@@ -1644,7 +2117,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#FFFFFF",
       "surface": "#F8FAFC",
       "ink": "#0F172A",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#64748B",
+>>>>>>> origin/main
       "accent": "#2563EB",
       "accent2": "#7C3AED",
       "display": "Inter, Plus Jakarta Sans, sans-serif",
@@ -1689,7 +2166,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#FAF6EE",
       "surface": "#FFFFFF",
       "ink": "#3E3A2E",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#776F62",
+>>>>>>> origin/main
       "accent": "#AA5A3A",
       "accent2": "#5D7852",
       "display": "Cormorant Garamond, Georgia, serif",
@@ -1720,6 +2201,41 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+<<<<<<< HEAD
+  "cross-stitch-studio": {
+    "slug": "cross-stitch-studio",
+    "name": "Cross-Stitch Studio",
+    "category": "Playful",
+    "description": "A sunlit sewing table: beech hoop, brass screw, cream aida cloth; the viewer stitches a sampler that grows stitch by stitch; buy bobbin cards, spread patterns, warg",
+    "tags": [
+      "cross-stitch",
+      "stitching",
+      "hoop",
+      "bobbin",
+      "floss",
+      "sampler",
+      "museum"
+    ],
+    "preview": {
+      "bg": "#E7DCCB",
+      "surface": "#FFFFFF",
+      "ink": "#2E2A26",
+      "muted": "#838383",
+      "accent": "#E4572E",
+      "accent2": "#17BEBB",
+      "display": "Gill Sans, Optima, Hoefler Text, sans-serif",
+      "body": "Candara, Hoefler Text, sans-serif"
+    },
+    "cardBorder": "1px solid #2E2A261a",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "8px",
+    "btnRadius": "6px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Cross-Stitch Studio",
+    "subhead": "A sunlit sewing table: beech hoop, brass screw, cream aida cloth; the viewer stitches a sampler that grows stitch by stitch; buy bobbin cards, spread patterns, warg",
+=======
   "cyanotype": {
     "slug": "cyanotype",
     "name": "Cyanotype",
@@ -1749,6 +2265,7 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
     "eyebrow": "01 / SPECIMEN",
     "headline": "Cyanotype",
     "subhead": "Botanical silhouettes appear as pale photograms on Prussian blue.",
+>>>>>>> origin/main
     "navCta": "Get Started",
     "primaryCta": "Explore Specimen",
     "secondaryCta": "Read Spec",
@@ -1779,7 +2296,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#0A0A12",
       "surface": "#131320",
       "ink": "#EDEDF5",
+<<<<<<< HEAD
+      "muted": "#808080",
+=======
       "muted": "#7C7C9C",
+>>>>>>> origin/main
       "accent": "#FCEE0A",
       "accent2": "#00F0FF",
       "display": "Rajdhani, Orbitron, Impact, sans-serif",
@@ -1810,6 +2331,57 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Audio frequency visualizer"
     ]
   },
+<<<<<<< HEAD
+  "dance-of-venus": {
+    "slug": "dance-of-venus",
+    "name": "Dance of Venus",
+    "category": "Data",
+    "description": "Join Earth and Venus with a line over 8 years; watch the five-petal rose traced. Knob controls pace from decades to the sky's leisure.",
+    "tags": [
+      "astronomy",
+      "geometry",
+      "math",
+      "instrument",
+      "orbit",
+      "music"
+    ],
+    "preview": {
+      "bg": "#F7FBFD",
+      "surface": "#FFFFFF",
+      "ink": "#1F2937",
+      "muted": "#838383",
+      "accent": "#FF3B00",
+      "accent2": "#D8D8D2",
+      "display": "Helvetica Neue, Arial, sans-serif",
+      "body": "Menlo, Courier New, monospace"
+    },
+    "cardBorder": "1px solid #1F29371a",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "8px",
+    "btnRadius": "6px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Dance of Venus",
+    "subhead": "Join Earth and Venus with a line over 8 years; watch the five-petal rose traced. Knob controls pace from decades to the sky's leisure.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+=======
+>>>>>>> origin/main
   "dark-academia": {
     "slug": "dark-academia",
     "name": "Dark Academia",
@@ -1824,7 +2396,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#1E1A16",
       "surface": "#2A241E",
       "ink": "#EDE6D6",
+<<<<<<< HEAD
+      "muted": "#818181",
+=======
       "muted": "#A89C86",
+>>>>>>> origin/main
       "accent": "#B08D57",
       "accent2": "#7A1F2B",
       "display": "EB Garamond, Georgia, Times New Roman, serif",
@@ -1869,7 +2445,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#0A0E14",
       "surface": "#11161F",
       "ink": "#E6E9EF",
+<<<<<<< HEAD
+      "muted": "#808080",
+=======
       "muted": "#8A93A6",
+>>>>>>> origin/main
       "accent": "#FF9F0A",
       "accent2": "#30D158",
       "display": "JetBrains Mono, SF Mono, Menlo, monospace",
@@ -1915,7 +2495,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#F7F7F7",
       "surface": "#FFFFFF",
       "ink": "#111111",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#717171",
+>>>>>>> origin/main
       "accent": "#E52521",
       "accent2": "#0045A5",
       "display": "Futura, Trebuchet MS, sans-serif",
@@ -1962,7 +2546,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#141619",
       "surface": "#20242A",
       "ink": "#E6E9EE",
+<<<<<<< HEAD
+      "muted": "#7e7e7e",
+=======
       "muted": "#8B95A5",
+>>>>>>> origin/main
       "accent": "#FF2A55",
       "accent2": "#4E5868",
       "display": "Monument Extended, Space Grotesk, sans-serif",
@@ -2007,7 +2595,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#0A8F8F",
       "surface": "#C0C0C0",
       "ink": "#111111",
+<<<<<<< HEAD
+      "muted": "#808080",
+=======
       "muted": "#111919",
+>>>>>>> origin/main
       "accent": "#000080",
       "accent2": "#1084D0",
       "display": "Tahoma, Verdana, sans-serif",
@@ -2052,7 +2644,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#0B0B18",
       "surface": "#15152B",
       "ink": "#F2F0FF",
+<<<<<<< HEAD
+      "muted": "#808080",
+=======
       "muted": "#8E8AB0",
+>>>>>>> origin/main
       "accent": "#00E5FF",
       "accent2": "#FF4FD8",
       "display": "Unbounded, Bungee, Impact, sans-serif",
@@ -2083,6 +2679,39 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+<<<<<<< HEAD
+  "drawloom": {
+    "slug": "drawloom",
+    "name": "The Drawloom — Cloth from a Diagram",
+    "category": "Historical",
+    "description": "A weaver's draft is a program in three small grids; the Drawloom shows how the pattern grows from threading, treadling and tie-up grids.",
+    "tags": [
+      "weaving",
+      "loom",
+      "weave",
+      "draft",
+      "textile",
+      "interactive",
+      "mechanical"
+    ],
+    "preview": {
+      "bg": "#F8F4EA",
+      "surface": "#FFFFFF",
+      "ink": "#3B3228",
+      "muted": "#838383",
+      "accent": "#2B6E5D? | dark green",
+      "accent2": "#6A4A28"
+    },
+    "cardBorder": "1px solid #3B32281a",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "8px",
+    "btnRadius": "6px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "The Drawloom — Cloth from a Diagram",
+    "subhead": "A weaver's draft is a program in three small grids; the Drawloom shows how the pattern grows from threading, treadling and tie-up grids.",
+=======
   "doodle-art": {
     "slug": "doodle-art",
     "name": "Doodle Art",
@@ -2112,6 +2741,7 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
     "eyebrow": "01 / SPECIMEN",
     "headline": "Doodle Art",
     "subhead": "Repeated freehand mini motifs fill a lively patterned field.",
+>>>>>>> origin/main
     "navCta": "Get Started",
     "primaryCta": "Explore Specimen",
     "secondaryCta": "Read Spec",
@@ -2142,7 +2772,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#E8E4D8",
       "surface": "#F2EEE2",
       "ink": "#3B3830",
+<<<<<<< HEAD
+      "muted": "#818181",
+=======
       "muted": "#6A655A",
+>>>>>>> origin/main
       "accent": "#5B8DD9",
       "accent2": "#E8A0BF",
       "display": "Georgia, Times New Roman, serif",
@@ -2189,7 +2823,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#0C1B33",
       "surface": "#14294E",
       "ink": "#FFFFFF",
+<<<<<<< HEAD
+      "muted": "#808080",
+=======
       "muted": "#A5B8D8",
+>>>>>>> origin/main
       "accent": "#FF4F7C",
       "accent2": "#00F5D4",
       "display": "Montserrat, Syne, -apple-system, sans-serif",
@@ -2234,7 +2872,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#F4F1EA",
       "surface": "#FBFAF7",
       "ink": "#1A1A18",
+<<<<<<< HEAD
+      "muted": "#828282",
+=======
       "muted": "#6B675E",
+>>>>>>> origin/main
       "accent": "#8C3B1B",
       "accent2": "#2F5D50",
       "display": "Charter, Georgia, Times New Roman, serif",
@@ -2279,7 +2921,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#F4F5EF",
       "surface": "#FFFFFF",
       "ink": "#22301F",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#556B53",
+>>>>>>> origin/main
       "accent": "#2E7D32",
       "accent2": "#F2B705",
       "display": "Fraunces, Inter Tight, sans-serif",
@@ -2324,7 +2970,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#F2EFE9",
       "surface": "#FFFFFF",
       "ink": "#111111",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#6F6A60",
+>>>>>>> origin/main
       "accent": "#D42200",
       "accent2": "#111111",
       "display": "Arial Black, Archivo Black, Helvetica Neue, sans-serif",
@@ -2369,7 +3019,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#FFFFFF",
       "surface": "#F7F4EE",
       "ink": "#191817",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#746E68",
+>>>>>>> origin/main
       "accent": "#B3001B",
       "accent2": "#8C6A2B",
       "display": "Playfair Display, Georgia, serif",
@@ -2414,7 +3068,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#F6F1E7",
       "surface": "#FFFFFF",
       "ink": "#141414",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#6E675C",
+>>>>>>> origin/main
       "accent": "#C81E1E",
       "accent2": "#0F4C81",
       "display": "Playfair Display, Didot, Georgia, serif",
@@ -2459,7 +3117,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#FBFAF7",
       "surface": "#FFFFFF",
       "ink": "#1C1B1A",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#76726E",
+>>>>>>> origin/main
       "accent": "#8C2F1B",
       "accent2": "#1C1B1A",
       "display": "Georgia, Playfair Display, Times New Roman, serif",
@@ -2490,6 +3152,8 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+<<<<<<< HEAD
+=======
   "embroidered-illustration": {
     "slug": "embroidered-illustration",
     "name": "Embroidered Illustration",
@@ -2580,6 +3244,7 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+>>>>>>> origin/main
   "fashion-editorial": {
     "slug": "fashion-editorial",
     "name": "Fashion Editorial",
@@ -2594,7 +3259,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#F4F1EC",
       "surface": "#FFFFFF",
       "ink": "#1C1B1A",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#6B655D",
+>>>>>>> origin/main
       "accent": "#1C1B1A",
       "accent2": "#8C2F1B",
       "display": "Didot, Bodoni Moda, Cormorant Garamond, serif",
@@ -2625,6 +3294,8 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Generous editorial whitespace"
     ]
   },
+<<<<<<< HEAD
+=======
   "felt-applique": {
     "slug": "felt-applique",
     "name": "Felt Appliqué",
@@ -2670,6 +3341,7 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+>>>>>>> origin/main
   "fintech-neobank": {
     "slug": "fintech-neobank",
     "name": "Neobank Fintech",
@@ -2684,7 +3356,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#0B0D0E",
       "surface": "#15181A",
       "ink": "#EDEFF0",
+<<<<<<< HEAD
+      "muted": "#808080",
+=======
       "muted": "#9BA1A6",
+>>>>>>> origin/main
       "accent": "#D4FF4F",
       "accent2": "#7C5CFF",
       "display": "Inter Tight, Inter, Helvetica Neue, sans-serif",
@@ -2729,7 +3405,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#FFFFFF",
       "surface": "#F5F5F5",
       "ink": "#2D2D2D",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#707070",
+>>>>>>> origin/main
       "accent": "#1F74AE",
       "accent2": "#D62C1A",
       "display": "Open Sans, Helvetica Neue, Arial, sans-serif",
@@ -2774,7 +3454,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#F3F2F1",
       "surface": "#FFFFFF",
       "ink": "#201F1E",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#605E5C",
+>>>>>>> origin/main
       "accent": "#0078D4",
       "accent2": "#8764B8",
       "display": "Segoe UI, Inter, Helvetica Neue, sans-serif",
@@ -2805,6 +3489,107 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+<<<<<<< HEAD
+  "formicarium": {
+    "slug": "formicarium",
+    "name": "Formicarium — Notes on a Colony",
+    "category": "Organic & Calm",
+    "description": "A field notebook turned live ant farm: you tap to add sugar, draw graphite walls, rub out roads, drop water, and watch green home-scent roads grow and thicken.",
+    "tags": [
+      "ant",
+      "formicarium",
+      "colony",
+      "green",
+      "field-notes",
+      "laboratory",
+      "touch"
+    ],
+    "preview": {
+      "bg": "#F4F1E9",
+      "surface": "#FBF7ED",
+      "ink": "#2F2A22",
+      "muted": "#828282",
+      "accent": "#2F6E5B",
+      "accent2": "#D8C06F",
+      "display": "Cormorant Garamond, Georgia, serif",
+      "body": "Cormorant Garamond, Georgia, serif"
+    },
+    "cardBorder": "1px solid #2F2A221a",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "8px",
+    "btnRadius": "6px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Formicarium — Notes on a Colony",
+    "subhead": "A field notebook turned live ant farm: you tap to add sugar, draw graphite walls, rub out roads, drop water, and watch green home-scent roads grow and thicken.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+  "frost-on-window": {
+    "slug": "frost-on-window",
+    "name": "Frost on the Window",
+    "category": "Organic & Calm",
+    "description": "A cold room at 2 a.m. on one full-bleed window: four glass panes, a sodium-lit street dissolve, and frost growing in real time; press and hold to breathe.",
+    "tags": [
+      "frost",
+      "ice",
+      "glass",
+      "winter",
+      "breath",
+      "lamp",
+      "hand"
+    ],
+    "preview": {
+      "bg": "#0A1522",
+      "surface": "#16304A",
+      "ink": "#CFE8F5",
+      "muted": "#808080",
+      "accent": "#F2B56B",
+      "accent2": "#FFFFFF",
+      "display": "Gill Sans, Century Gothic, Trebuchet MS, system-ui",
+      "body": "Trebuchet MS, system-ui"
+    },
+    "cardBorder": "1px solid #CFE8F51a",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "8px",
+    "btnRadius": "6px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Frost on the Window",
+    "subhead": "A cold room at 2 a.m. on one full-bleed window: four glass panes, a sodium-lit street dissolve, and frost growing in real time; press and hold to breathe.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+=======
+>>>>>>> origin/main
   "frutiger-aero": {
     "slug": "frutiger-aero",
     "name": "Frutiger Aero",
@@ -2819,7 +3604,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#E8F7F1",
       "surface": "#FFFFFF",
       "ink": "#0B3B39",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#4A6B68",
+>>>>>>> origin/main
       "accent": "#00A67E",
       "accent2": "#2D9CDB",
       "display": "Frutiger, Segoe UI, Helvetica Neue, sans-serif",
@@ -2864,7 +3653,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#FFFFFF",
       "surface": "#F4F4F5",
       "ink": "#18181B",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#6F6F77",
+>>>>>>> origin/main
       "accent": "#2563EB",
       "accent2": "#047857",
       "display": "system-ui, -apple-system, Segoe UI, sans-serif",
@@ -2909,7 +3702,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#F4F1EA",
       "surface": "#FFFFFF",
       "ink": "#141414",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#6E675C",
+>>>>>>> origin/main
       "accent": "#E30613",
       "accent2": "#0B3D91",
       "display": "Futura, ITC Avant Garde, sans-serif",
@@ -2956,7 +3753,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#8BAC0F",
       "surface": "#9BBC0F",
       "ink": "#0F380F",
+<<<<<<< HEAD
+      "muted": "#818181",
+=======
       "muted": "#0F380F",
+>>>>>>> origin/main
       "accent": "#0F380F",
       "accent2": "#306230",
       "display": "Press Start 2P, Courier, monospace",
@@ -3001,7 +3802,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#0B0E14",
       "surface": "#12161F",
       "ink": "#EDEFF5",
+<<<<<<< HEAD
+      "muted": "#808080",
+=======
       "muted": "#7C8698",
+>>>>>>> origin/main
       "accent": "#00E5FF",
       "accent2": "#FFD802",
       "display": "Rajdhani, Chakra Petch, sans-serif",
@@ -3046,7 +3851,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#FFFFFF",
       "surface": "#FAFAFA",
       "ink": "#171717",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#666666",
+>>>>>>> origin/main
       "accent": "#006EEE",
       "accent2": "#7928CA",
       "display": "Geist Sans, Inter, Helvetica Neue, sans-serif",
@@ -3077,6 +3886,58 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+<<<<<<< HEAD
+  "gelastia-belmonte": {
+    "slug": "gelastia-belmonte",
+    "name": "Gelastia Belmonte",
+    "category": "Playful",
+    "description": "A waffle cone stands in a mint holder; a striped spoon swings overhead. Each tap drops a soft scoop that squashes, ripples, sticks, and the whole tower leans, sways and overcorrects.",
+    "tags": [
+      "ice-cream",
+      "gelato",
+      "squish",
+      "scoops",
+      "game",
+      "confectionery",
+      "mohave"
+    ],
+    "preview": {
+      "bg": "#F5F0E4",
+      "surface": "#FFFFFF",
+      "ink": "#5C2D52",
+      "muted": "#838383",
+      "accent": "#FF6FB5",
+      "accent2": "#FFD700",
+      "display": "Baloo 2, Candara, sans-serif",
+      "body": "Quicksand, Bradley Hand"
+    },
+    "cardBorder": "1px solid #5C2D5222",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "8px",
+    "btnRadius": "6px",
+    "badgeRadius": "6px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Gelastia Belmonte",
+    "subhead": "A waffle cone stands in a mint holder; a striped spoon swings overhead. Each tap drops a soft scoop that squashes, ripples, sticks, and the whole tower leans, sways and overcorrects.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+=======
+>>>>>>> origin/main
   "generative-algorithmic": {
     "slug": "generative-algorithmic",
     "name": "Generative / Algorithmic",
@@ -3091,7 +3952,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#0A0A0B",
       "surface": "#131316",
       "ink": "#F2F0EA",
+<<<<<<< HEAD
+      "muted": "#808080",
+=======
       "muted": "#8A877E",
+>>>>>>> origin/main
       "accent": "#D6FF3F",
       "accent2": "#7C5CFF",
       "display": "Space Grotesk, IBM Plex Mono, sans-serif",
@@ -3136,7 +4001,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#6350DE",
       "surface": "#4A3AC8",
       "ink": "#FFFFFF",
+<<<<<<< HEAD
+      "muted": "#808080",
+=======
       "muted": "#F5F2FD",
+>>>>>>> origin/main
       "accent": "#FFFFFF",
       "accent2": "#00E5FF",
       "display": "Inter, SF Pro Display, sans-serif",
@@ -3183,7 +4052,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#0B0C10",
       "surface": "#1F2833",
       "ink": "#66FCF1",
+<<<<<<< HEAD
+      "muted": "#818181",
+=======
       "muted": "#8B9BAE",
+>>>>>>> origin/main
       "accent": "#FF0055",
       "accent2": "#00FFFF",
       "display": "VT323, Share Tech Mono, monospace",
@@ -3228,7 +4101,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#0F0D12",
       "surface": "#17141C",
       "ink": "#E8E0D0",
+<<<<<<< HEAD
+      "muted": "#818181",
+=======
       "muted": "#97889B",
+>>>>>>> origin/main
       "accent": "#8E1E2F",
       "accent2": "#C9A227",
       "display": "Cinzel Decorative, Georgia, serif",
@@ -3259,6 +4136,8 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+<<<<<<< HEAD
+=======
   "gouache-illustration": {
     "slug": "gouache-illustration",
     "name": "Gouache Illustration",
@@ -3304,6 +4183,7 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+>>>>>>> origin/main
   "gradient-design": {
     "slug": "gradient-design",
     "name": "Gradient Design",
@@ -3318,7 +4198,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#0B0620",
       "surface": "#2A1B5E",
       "ink": "#F4F1FF",
+<<<<<<< HEAD
+      "muted": "#808080",
+=======
       "muted": "#9A90C0",
+>>>>>>> origin/main
       "accent": "#7C5CFF",
       "accent2": "#00E5FF",
       "display": "Outfit, Inter, sans-serif",
@@ -3363,7 +4247,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#111111",
       "surface": "#1A1A1A",
       "ink": "#F5F2EA",
+<<<<<<< HEAD
+      "muted": "#808080",
+=======
       "muted": "#8A877E",
+>>>>>>> origin/main
       "accent": "#D6FF3F",
       "accent2": "#FF4D00",
       "display": "Permanent Marker, Archivo Black, sans-serif",
@@ -3408,7 +4296,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#131311",
       "surface": "#1C1C1A",
       "ink": "#EDEAE2",
+<<<<<<< HEAD
+      "muted": "#808080",
+=======
       "muted": "#8A867C",
+>>>>>>> origin/main
       "accent": "#E8FF47",
       "accent2": "#FF6B4A",
       "display": "Inter Tight, Helvetica Neue, sans-serif",
@@ -3453,7 +4345,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#F5F2EA",
       "surface": "#FFFFFF",
       "ink": "#101010",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#6E675C",
+>>>>>>> origin/main
       "accent": "#E30613",
       "accent2": "#0B3D91",
       "display": "Archivo Black, Anton, sans-serif",
@@ -3484,6 +4380,57 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+<<<<<<< HEAD
+  "greenhouse-console": {
+    "slug": "greenhouse-console",
+    "name": "ARES-HORT Console — Greenhouse B",
+    "category": "Futurist",
+    "description": "A mars greenhouse console: 80-column, 18-row character grid with zones, beams, glass effects, a power toggle, and a live scan monitor with thermal grain.",
+    "tags": [
+      "mars",
+      "greenhouse",
+      "console",
+      "sci-fi",
+      "monitor",
+      "agriculture"
+    ],
+    "preview": {
+      "bg": "#0A0600",
+      "surface": "#151000",
+      "ink": "#FFB000",
+      "muted": "#808080",
+      "accent": "#FF6A00",
+      "accent2": "#E5B062",
+      "display": "Menlo, Consolas, Courier New",
+      "body": "Menlo, Consolas, Courier New"
+    },
+    "cardBorder": "1px solid #FFB00022",
+    "cardShadow": "0 0 20px #FF6A0055",
+    "cardRadius": "0px",
+    "btnRadius": "0px",
+    "badgeRadius": "0px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "ARES-HORT Console — Greenhouse B",
+    "subhead": "A mars greenhouse console: 80-column, 18-row character grid with zones, beams, glass effects, a power toggle, and a live scan monitor with thermal grain.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+=======
+>>>>>>> origin/main
   "hacker-aesthetic": {
     "slug": "hacker-aesthetic",
     "name": "Hacker Aesthetic",
@@ -3498,7 +4445,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#050505",
       "surface": "#0D0F0D",
       "ink": "#00FF41",
+<<<<<<< HEAD
+      "muted": "#818181",
+=======
       "muted": "#4E8865",
+>>>>>>> origin/main
       "accent": "#00FF41",
       "accent2": "#FF003C",
       "display": "Share Tech Mono, JetBrains Mono, monospace",
@@ -3543,7 +4494,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#F5F0E6",
       "surface": "#FFFFFF",
       "ink": "#141414",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#6E675C",
+>>>>>>> origin/main
       "accent": "#E30613",
       "accent2": "#0B3D91",
       "display": "Archivo Black, Anton, sans-serif",
@@ -3578,17 +4533,29 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
     "slug": "hand-drawn",
     "name": "Hand-Drawn",
     "category": "Handmade & Texture",
+<<<<<<< HEAD
+    "description": "Wobbly human lines: marker strokes, doodles and imperfect warmth.",
+    "tags": [
+      "hand-drawn",
+      "doodle",
+      "human"
+=======
     "description": "Whiteboard-style interface annotations use marker arrows, circles, and wobbly frames.",
     "tags": [
       "hand-drawn",
       "annotation",
       "whiteboard"
+>>>>>>> origin/main
     ],
     "preview": {
       "bg": "#FFFDF5",
       "surface": "#FFFFFF",
       "ink": "#2E2A26",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#7C736B",
+>>>>>>> origin/main
       "accent": "#E4572E",
       "accent2": "#1F6B8A",
       "display": "Caveat, Kalam, Comic Sans MS, sans-serif",
@@ -3602,7 +4569,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
     "signatureType": "bento",
     "eyebrow": "01 / SPECIMEN",
     "headline": "Hand-Drawn",
+<<<<<<< HEAD
+    "subhead": "Wobbly human lines: marker strokes, doodles and imperfect warmth.",
+=======
     "subhead": "Whiteboard-style interface annotations use marker arrows, circles, and wobbly frames.",
+>>>>>>> origin/main
     "navCta": "Get Started",
     "primaryCta": "Explore Specimen",
     "secondaryCta": "Read Spec",
@@ -3635,7 +4606,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#0B1E15",
       "surface": "#122C20",
       "ink": "#F5F2EA",
+<<<<<<< HEAD
+      "muted": "#808080",
+=======
       "muted": "#9FB3A6",
+>>>>>>> origin/main
       "accent": "#C5A869",
       "accent2": "#E2D1A6",
       "display": "Cinzel, Cormorant Garamond, Georgia, serif",
@@ -3680,7 +4655,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#0D0D14",
       "surface": "#15151F",
       "ink": "#F2F0FF",
+<<<<<<< HEAD
+      "muted": "#818181",
+=======
       "muted": "#8E8AB0",
+>>>>>>> origin/main
       "accent": "#7DF9FF",
       "accent2": "#FF7AD9",
       "display": "Unbounded, Outfit, sans-serif",
@@ -3711,6 +4690,56 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+<<<<<<< HEAD
+  "ice-core": {
+    "slug": "ice-core",
+    "name": "Ice Core",
+    "category": "Data",
+    "description": "A glacial science sheet built around one continuous ice core: procedural firn and ice with interbeds, field logs pinned by leader lines, and a polar animator.",
+    "tags": [
+      "ice",
+      "science",
+      "layers",
+      "geology",
+      "animation"
+    ],
+    "preview": {
+      "bg": "#F7FBFD",
+      "surface": "#FFFFFF",
+      "ink": "#17324A",
+      "muted": "#838383",
+      "accent": "#E4572E",
+      "accent2": "#9DBBD0",
+      "display": "Helvetica Neue, Arial, sans-serif",
+      "body": "Menlo, Courier New, monospace"
+    },
+    "cardBorder": "1px solid #17324A22",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "8px",
+    "btnRadius": "6px",
+    "badgeRadius": "6px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Ice Core",
+    "subhead": "A glacial science sheet built around one continuous ice core: procedural firn and ice with interbeds, field logs pinned by leader lines, and a polar animator.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+=======
+>>>>>>> origin/main
   "illustration-led": {
     "slug": "illustration-led",
     "name": "Illustration-Led",
@@ -3725,7 +4754,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#FFF9F0",
       "surface": "#FFFFFF",
       "ink": "#2B2620",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#7A726A",
+>>>>>>> origin/main
       "accent": "#E4572E",
       "accent2": "#2E86AB",
       "display": "Fraunces, Georgia, serif",
@@ -3756,6 +4789,58 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+<<<<<<< HEAD
+  "imaginary-moths": {
+    "slug": "imaginary-moths",
+    "name": "Drawer 31 — Moths That Were Never Caught",
+    "category": "Heritage Luxury",
+    "description": "A museum drawer of 24 never-caught species, each a procedurally drawn moth, in walnut wood and brass drawer with parchment shells, two-pointer row spin.",
+    "tags": [
+      "moths",
+      "collection",
+      "drawer",
+      "specimen",
+      "museum",
+      "pin",
+      "legacy"
+    ],
+    "preview": {
+      "bg": "#EFE8D8",
+      "surface": "#FBF7EC",
+      "ink": "#2B2118",
+      "muted": "#838383",
+      "accent": "#B9985A",
+      "accent2": "#EDDDAE",
+      "display": "Baskerville, Georgia, Courier New",
+      "body": "Courier New, monospace"
+    },
+    "cardBorder": "1px solid #2B21181a",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "8px",
+    "btnRadius": "6px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Drawer 31 — Moths That Were Never Caught",
+    "subhead": "A museum drawer of 24 never-caught species, each a procedurally drawn moth, in walnut wood and brass drawer with parchment shells, two-pointer row spin.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+=======
+>>>>>>> origin/main
   "immersive": {
     "slug": "immersive",
     "name": "Immersive",
@@ -3770,7 +4855,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#060606",
       "surface": "#101010",
       "ink": "#F5F3EC",
+<<<<<<< HEAD
+      "muted": "#7f7f7f",
+=======
       "muted": "#8A877E",
+>>>>>>> origin/main
       "accent": "#E8FF47",
       "accent2": "#FF5C00",
       "display": "Anton, Archivo Black, sans-serif",
@@ -3801,6 +4890,56 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+<<<<<<< HEAD
+  "impossible-minerals": {
+    "slug": "impossible-minerals",
+    "name": "Cabinet of Impossible Minerals",
+    "category": "Atmosphere & Gradient",
+    "description": "A seven-specimen mineral cabinet of raymarched crystals in near-black velvet: turn by drag, 1/7 case navigation, and a brass lamp with ultraviolet on/off.",
+    "tags": [
+      "minerals",
+      "crystals",
+      "cabinet",
+      "science",
+      "raymarch"
+    ],
+    "preview": {
+      "bg": "#0E0B10",
+      "surface": "#2A1E2E",
+      "ink": "#E8E2D6",
+      "muted": "#818181",
+      "accent": "#C9A45C",
+      "accent2": "#5FD08A",
+      "display": "Didot, Baskerville, serif",
+      "body": "Gill Sans, Garamond, sans-serif"
+    },
+    "cardBorder": "2px solid #E8E2D6",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "0px",
+    "btnRadius": "0px",
+    "badgeRadius": "0px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Cabinet of Impossible Minerals",
+    "subhead": "A seven-specimen mineral cabinet of raymarched crystals in near-black velvet: turn by drag, 1/7 case navigation, and a brass lamp with ultraviolet on/off.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+=======
+>>>>>>> origin/main
   "industrial-brutalism": {
     "slug": "industrial-brutalism",
     "name": "Industrial Brutalism",
@@ -3815,7 +4954,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#2B2B2B",
       "surface": "#3A3A3A",
       "ink": "#F2F0EA",
+<<<<<<< HEAD
+      "muted": "#808080",
+=======
       "muted": "#A8A49A",
+>>>>>>> origin/main
       "accent": "#FFD802",
       "accent2": "#FF5A1F",
       "display": "Anton, Oswald, Arial Narrow, sans-serif",
@@ -3846,6 +4989,41 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+<<<<<<< HEAD
+  "instant-film": {
+    "slug": "instant-film",
+    "name": "Instant Film",
+    "category": "Playful",
+    "description": "A sunlit blush tabletop with a toy-like instant camera called the dawdle; each tap fires a white flash, the camera kicks, and a square print develops in 12 seconds.",
+    "tags": [
+      "instant",
+      "film",
+      "camera",
+      "print",
+      "development",
+      "animation",
+      "toy"
+    ],
+    "preview": {
+      "bg": "#F7D6D0",
+      "surface": "#FDF6EC",
+      "ink": "#2D2A32",
+      "muted": "#828282",
+      "accent": "#F4A259",
+      "accent2": "#F9E2A6",
+      "display": "Arial Rounded MT Bold, Bradley Hand, system-ui",
+      "body": "Quicksand, Bradley Hand"
+    },
+    "cardBorder": "1px solid #2D2A321a",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "8px",
+    "btnRadius": "6px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Instant Film",
+    "subhead": "A sunlit blush tabletop with a toy-like instant camera called the dawdle; each tap fires a white flash, the camera kicks, and a square print develops in 12 seconds.",
+=======
   "ink-stippling": {
     "slug": "ink-stippling",
     "name": "Ink Stippling",
@@ -3875,6 +5053,7 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
     "eyebrow": "01 / SPECIMEN",
     "headline": "Ink Stippling",
     "subhead": "Hand-placed dot density builds shape and tone.",
+>>>>>>> origin/main
     "navCta": "Get Started",
     "primaryCta": "Explore Specimen",
     "secondaryCta": "Read Spec",
@@ -3891,6 +5070,40 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+<<<<<<< HEAD
+  "iron-filings": {
+    "slug": "iron-filings",
+    "name": "Iron Filings",
+    "category": "Data",
+    "description": "A classroom demonstration of magnetic field lines: two red-and-blue bar magnets glide into place over a tray of 14,000 loose iron filings, which comb into textbook patterns.",
+    "tags": [
+      "physics",
+      "magnetism",
+      "classroom",
+      "demo",
+      "science",
+      "interactive"
+    ],
+    "preview": {
+      "bg": "#ECEBE6",
+      "surface": "#F8F7F3",
+      "ink": "#1A1A1A",
+      "muted": "#828282",
+      "accent": "#D62828",
+      "accent2": "#1D4E89",
+      "display": "American Typewriter, monospace",
+      "body": "Bradley Hand, monospace"
+    },
+    "cardBorder": "1px solid #1A1A1A22",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "8px",
+    "btnRadius": "6px",
+    "badgeRadius": "6px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Iron Filings",
+    "subhead": "A classroom demonstration of magnetic field lines: two red-and-blue bar magnets glide into place over a tray of 14,000 loose iron filings, which comb into textbook patterns.",
+=======
   "isometric-illustration": {
     "slug": "isometric-illustration",
     "name": "Isometric Illustration",
@@ -3920,6 +5133,7 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
     "eyebrow": "01 / SPECIMEN",
     "headline": "Isometric Illustration",
     "subhead": "Parallel 30-degree axes show a small world without perspective convergence.",
+>>>>>>> origin/main
     "navCta": "Get Started",
     "primaryCta": "Explore Specimen",
     "secondaryCta": "Read Spec",
@@ -3950,7 +5164,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#F5F1E9",
       "surface": "#FFFDF8",
       "ink": "#33302A",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#6B655A",
+>>>>>>> origin/main
       "accent": "#8C5A2B",
       "accent2": "#4A5D4E",
       "display": "Cormorant Garamond, Inter Tight, serif",
@@ -3995,7 +5213,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#F7F4EE",
       "surface": "#FFFDF8",
       "ink": "#2B2B28",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#736F67",
+>>>>>>> origin/main
       "accent": "#9C2B2E",
       "accent2": "#4A5D4E",
       "display": "Hiragino Mincho ProN, Yu Mincho, Georgia, serif",
@@ -4026,6 +5248,56 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+<<<<<<< HEAD
+  "jelly-alphabet": {
+    "slug": "jelly-alphabet",
+    "name": "Jelly Alphabet",
+    "category": "Playful",
+    "description": "Typed letters drop onto a plate of plasticine and jiggle like gelatine — wobble physics, squish and bloop sounds, alphabet play for kids.",
+    "tags": [
+      "jelly",
+      "alphabet",
+      "kids",
+      "physics",
+      "playful"
+    ],
+    "preview": {
+      "bg": "#FFF5FA",
+      "surface": "#FFFFFF",
+      "ink": "#5C2D52",
+      "muted": "#838383",
+      "accent": "#FF6FB5",
+      "accent2": "#7ED6FF",
+      "display": "Baloo 2, Quicksand, Bradley Hand",
+      "body": "Quicksand, Bradley Hand"
+    },
+    "cardBorder": "1px solid #5C2D5222",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "0px",
+    "btnRadius": "0px",
+    "badgeRadius": "0px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Jelly Alphabet",
+    "subhead": "Typed letters drop onto a plate of plasticine and jiggle like gelatine — wobble physics, squish and bloop sounds, alphabet play for kids.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+=======
+>>>>>>> origin/main
   "kawaii-pop": {
     "slug": "kawaii-pop",
     "name": "Kawaii Pop",
@@ -4040,7 +5312,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#FFF5FA",
       "surface": "#FFFFFF",
       "ink": "#5C2D52",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#946186",
+>>>>>>> origin/main
       "accent": "#DF006C",
       "accent2": "#7ED6FF",
       "display": "Baloo 2, Quicksand, Helvetica Neue, sans-serif",
@@ -4071,6 +5347,106 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+<<<<<<< HEAD
+  "kelp-forest-collatz": {
+    "slug": "kelp-forest-collatz",
+    "name": "The Kelp Forest of 3n + 1",
+    "category": "Data",
+    "description": "A sunlit aquarium tank where the Collatz conjecture is a living kelp forest: the reverse tree of every path from 1 to 9,000 grows through water currents, fish and bubbles.",
+    "tags": [
+      "collatz",
+      "kelp",
+      "collatz-tree",
+      "math",
+      "biology",
+      "aquarium",
+      "3n+1"
+    ],
+    "preview": {
+      "bg": "#041122",
+      "surface": "#0B1C3A",
+      "ink": "#E8F0FF",
+      "muted": "#808080",
+      "accent": "#00E5A0",
+      "accent2": "#F2A65A",
+      "display": "Space Grotesk, Inter, sans-serif",
+      "body": "Inter, sans-serif"
+    },
+    "cardBorder": "1px solid #E8F0FF1a",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "8px",
+    "btnRadius": "6px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "The Kelp Forest of 3n + 1",
+    "subhead": "A sunlit aquarium tank where the Collatz conjecture is a living kelp forest: the reverse tree of every path from 1 to 9,000 grows through water currents, fish and bubbles.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+  "kestrel-framework": {
+    "slug": "kestrel-framework",
+    "name": "Kestrel Bicycle Frames",
+    "category": "Historical",
+    "description": "Cyanotype drawings of lugged steel bikes and forks from a measure sheet; scale rules rewrite real frame geometry in place.",
+    "tags": [
+      "bike",
+      "frame",
+      "cyanotype",
+      "drawing",
+      "geometry",
+      "sheet"
+    ],
+    "preview": {
+      "bg": "#F2F6FA",
+      "surface": "#FFFFFF",
+      "ink": "#0E2F66",
+      "muted": "#838383",
+      "accent": "#1B4F9C",
+      "accent2": "#FFD23F",
+      "display": "Arial Narrow, DejaVu Sans Mono, Georgia, Times New Roman",
+      "body": "DIN Alternate, Roboto Mono"
+    },
+    "cardBorder": "1px solid #0E2F6622",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "0px",
+    "btnRadius": "0px",
+    "badgeRadius": "0px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Kestrel Bicycle Frames",
+    "subhead": "Cyanotype drawings of lugged steel bikes and forks from a measure sheet; scale rules rewrite real frame geometry in place.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+=======
+>>>>>>> origin/main
   "kinetic-typography": {
     "slug": "kinetic-typography",
     "name": "Kinetic Typography",
@@ -4085,7 +5461,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#0E0E0E",
       "surface": "#161616",
       "ink": "#F4F1EA",
+<<<<<<< HEAD
+      "muted": "#818181",
+=======
       "muted": "#8F8B82",
+>>>>>>> origin/main
       "accent": "#D6FF3F",
       "accent2": "#FF5C00",
       "display": "Archivo Black, Anton, sans-serif",
@@ -4116,6 +5496,41 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+<<<<<<< HEAD
+  "lava-lamp-1971": {
+    "slug": "lava-lamp-1971",
+    "name": "Lava Lamp, 1971",
+    "category": "Atmosphere & Gradient",
+    "description": "A flat tangerine wall with a supergraphic of seven concentric stripes and a squat wax-capped lava lamp; hold to heat, drag to tilt, bubbles rise through four colours, rattle the cap.",
+    "tags": [
+      "lava",
+      "lamp",
+      "bubbles",
+      "retro",
+      "supergraphic",
+      "moody",
+      "game"
+    ],
+    "preview": {
+      "bg": "#C02A1F",
+      "surface": "#FFFFFF",
+      "ink": "#FFFFFF",
+      "muted": "#838383",
+      "accent": "#FFB000",
+      "accent2": "#D91E63",
+      "display": "Cooper Black, Cooper Std, Rockwell, Georgia, Times New Roman",
+      "body": "Karla, Arial, sans-serif"
+    },
+    "cardBorder": "1px solid #FFFFFF1a",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "8px",
+    "btnRadius": "6px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Lava Lamp, 1971",
+    "subhead": "A flat tangerine wall with a supergraphic of seven concentric stripes and a squat wax-capped lava lamp; hold to heat, drag to tilt, bubbles rise through four colours, rattle the cap.",
+=======
   "kirigami-pop-up": {
     "slug": "kirigami-pop-up",
     "name": "Kirigami Pop-Up",
@@ -4190,6 +5605,7 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
     "eyebrow": "01 / SPECIMEN",
     "headline": "Letterpress",
     "subhead": "Type and simple ornaments print with pressure and imperfect ink.",
+>>>>>>> origin/main
     "navCta": "Get Started",
     "primaryCta": "Explore Specimen",
     "secondaryCta": "Read Spec",
@@ -4220,7 +5636,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#D8D5CC",
       "surface": "#E4E1D8",
       "ink": "#2B2B2B",
+<<<<<<< HEAD
+      "muted": "#818181",
+=======
       "muted": "#605C55",
+>>>>>>> origin/main
       "accent": "#C81E1E",
       "accent2": "#0F4C81",
       "display": "Arial, Helvetica, sans-serif",
@@ -4265,7 +5685,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#08090A",
       "surface": "#101214",
       "ink": "#F7F8F8",
+<<<<<<< HEAD
+      "muted": "#7f7f7f",
+=======
       "muted": "#8A8F98",
+>>>>>>> origin/main
       "accent": "#5E6AD2",
       "accent2": "#8E8AFF",
       "display": "Inter, SF Pro Display, sans-serif",
@@ -4296,6 +5720,8 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Cycle roadmaps & issue tracking"
     ]
   },
+<<<<<<< HEAD
+=======
   "linocut-print": {
     "slug": "linocut-print",
     "name": "Linocut Print",
@@ -4341,6 +5767,7 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+>>>>>>> origin/main
   "liquid-chrome": {
     "slug": "liquid-chrome",
     "name": "Liquid Chrome",
@@ -4355,7 +5782,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#0A0A0F",
       "surface": "#121218",
       "ink": "#F2F2F5",
+<<<<<<< HEAD
+      "muted": "#808080",
+=======
       "muted": "#8E8E99",
+>>>>>>> origin/main
       "accent": "#C0C0C8",
       "accent2": "#7DF9FF",
       "display": "Unbounded, Michroma, sans-serif",
@@ -4386,6 +5817,41 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+<<<<<<< HEAD
+  "lumen-town-grid": {
+    "slug": "lumen-town-grid",
+    "name": "Lumen — Municipal Power Board",
+    "category": "Data",
+    "description": "A model-railway power board: isometric pastel town of 30+ buildings on a steel-blue plinth, with wind ridge, battery barn, and a wired network to the mainland.",
+    "tags": [
+      "lumen",
+      "power",
+      "town",
+      "model",
+      "isometric",
+      "grid",
+      "city"
+    ],
+    "preview": {
+      "bg": "#F2F2F0",
+      "surface": "#FFFFFF",
+      "ink": "#1C1A18",
+      "muted": "#838383",
+      "accent": "#0078D4",
+      "accent2": "#E3B23C",
+      "display": "IBM Plex Sans, Inter, sans-serif",
+      "body": "Inter, sans-serif"
+    },
+    "cardBorder": "1px solid #1C1A1822",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "8px",
+    "btnRadius": "6px",
+    "badgeRadius": "6px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Lumen — Municipal Power Board",
+    "subhead": "A model-railway power board: isometric pastel town of 30+ buildings on a steel-blue plinth, with wind ridge, battery barn, and a wired network to the mainland.",
+=======
   "low-poly-facets": {
     "slug": "low-poly-facets",
     "name": "Low-Poly Facets",
@@ -4415,6 +5881,7 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
     "eyebrow": "01 / SPECIMEN",
     "headline": "Low-Poly Facets",
     "subhead": "Large flat-shaded triangles model a faceted object.",
+>>>>>>> origin/main
     "navCta": "Get Started",
     "primaryCta": "Explore Specimen",
     "secondaryCta": "Read Spec",
@@ -4445,7 +5912,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#100C08",
       "surface": "#1C1510",
       "ink": "#EFE3C8",
+<<<<<<< HEAD
+      "muted": "#808080",
+=======
       "muted": "#9A8B6F",
+>>>>>>> origin/main
       "accent": "#D4AF37",
       "accent2": "#7A1E2B",
       "display": "Cormorant Garamond, Playfair Display, serif",
@@ -4490,7 +5961,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#0E0D0B",
       "surface": "#161411",
       "ink": "#EDE6D6",
+<<<<<<< HEAD
+      "muted": "#818181",
+=======
       "muted": "#8E8574",
+>>>>>>> origin/main
       "accent": "#C6A15B",
       "accent2": "#E8D5A3",
       "display": "Didot, Bodoni Moda, Cormorant Garamond, serif",
@@ -4535,7 +6010,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#E8E6DF",
       "surface": "#F2F0EB",
       "ink": "#2B2B2B",
+<<<<<<< HEAD
+      "muted": "#818181",
+=======
       "muted": "#5F5B54",
+>>>>>>> origin/main
       "accent": "#0B5FFF",
       "accent2": "#FF9F00",
       "display": "Charcoal, Chicago, Geneva, sans-serif",
@@ -4566,6 +6045,8 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Aqua drop reflection"
     ]
   },
+<<<<<<< HEAD
+=======
   "marquetry": {
     "slug": "marquetry",
     "name": "Marquetry",
@@ -4611,6 +6092,7 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+>>>>>>> origin/main
   "material-expressive": {
     "slug": "material-expressive",
     "name": "Material Expressive",
@@ -4625,7 +6107,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#FEF7FF",
       "surface": "#F3EDF7",
       "ink": "#1D1B20",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#49454F",
+>>>>>>> origin/main
       "accent": "#6750A4",
       "accent2": "#EFB8C8",
       "display": "Google Sans, Roboto, Helvetica Neue, sans-serif",
@@ -4670,7 +6156,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#1E1B2E",
       "surface": "#2A2540",
       "ink": "#F5EFE0",
+<<<<<<< HEAD
+      "muted": "#818181",
+=======
       "muted": "#A89FC0",
+>>>>>>> origin/main
       "accent": "#FF4FA3",
       "accent2": "#FFD802",
       "display": "Playfair Display, Georgia, serif",
@@ -4715,7 +6205,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#FFF0F6",
       "surface": "#FFFFFF",
       "ink": "#57102E",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#9D5A7B",
+>>>>>>> origin/main
       "accent": "#DB006A",
       "accent2": "#FFD700",
       "display": "Didot, Bodoni MT, Playfair Display, Georgia, serif",
@@ -4760,7 +6254,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#FFF9F0",
       "surface": "#FFFFFF",
       "ink": "#222222",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#797269",
+>>>>>>> origin/main
       "accent": "#008080",
       "accent2": "#FF4FA3",
       "display": "Archivo Black, Poppins, sans-serif",
@@ -4805,7 +6303,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#F5F1E8",
       "surface": "#FFFFFF",
       "ink": "#2B2B2B",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#716E66",
+>>>>>>> origin/main
       "accent": "#C5401A",
       "accent2": "#287696",
       "display": "Futura, Century Gothic, sans-serif",
@@ -4850,7 +6352,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#FAFAF8",
       "surface": "#FFFFFF",
       "ink": "#101010",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#73736F",
+>>>>>>> origin/main
       "accent": "#101010",
       "accent2": "#4D4DFF",
       "display": "Helvetica Neue, Inter, Arial, sans-serif",
@@ -4895,7 +6401,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#FAFAF9",
       "surface": "#FFFFFF",
       "ink": "#1A1A1A",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#737373",
+>>>>>>> origin/main
       "accent": "#1A1A1A",
       "accent2": "#2F66FE",
       "display": "Inter, Helvetica Neue, Arial, sans-serif",
@@ -4940,7 +6450,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#FFFFFF",
       "surface": "#F5F5F5",
       "ink": "#0A0A0A",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#707070",
+>>>>>>> origin/main
       "accent": "#0A0A0A",
       "accent2": "#525252",
       "display": "Inter, Helvetica Neue, Arial, sans-serif",
@@ -4971,6 +6485,129 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+<<<<<<< HEAD
+  "moon-tonight": {
+    "slug": "moon-tonight",
+    "name": "The Moon Tonight",
+    "category": "Data",
+    "description": "A mean-month lunar instrument: drag the days or play a month or skip to one day or six hours, flip N/SH, and read the height of the Sun above the lit ground.",
+    "tags": [
+      "moon",
+      "lunar",
+      "instrument",
+      "astronomy",
+      "phase",
+      "light"
+    ],
+    "preview": {
+      "bg": "#0B1D32",
+      "surface": "#121F36",
+      "ink": "#F2F5FF",
+      "muted": "#808080",
+      "accent": "#FFD17A",
+      "accent2": "#7CB9E8",
+      "display": "Playfair Display, Georgia, serif",
+      "body": "Inter, sans-serif"
+    },
+    "cardBorder": "1px solid #F2F5FF22",
+    "cardShadow": "0 0 20px #FFD17A55",
+    "cardRadius": "8px",
+    "btnRadius": "6px",
+    "badgeRadius": "6px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "The Moon Tonight",
+    "subhead": "A mean-month lunar instrument: drag the days or play a month or skip to one day or six hours, flip N/SH, and read the height of the Sun above the lit ground.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+  "murmuration-at-dusk": {
+    "slug": "murmuration-at-dusk",
+    "name": "Murmuration at Dusk",
+    "category": "Organic & Calm",
+    "description": "A wide marsh sky at dusk with a starling murmuration: a peregrine moves the flock, click to stoop and start the dive.",
+    "tags": [
+      "birds",
+      "flock",
+      "dusk",
+      "sky",
+      "nature",
+      "motion"
+    ],
+    "preview": {
+      "bg": "#2A2438",
+      "surface": "#4A4460",
+      "ink": "#F6C9A8",
+      "muted": "#808080",
+      "accent": "#E58F7B",
+      "accent2": "#F6E7D3",
+      "display": "Georgia, serif",
+      "body": "Georgia, serif"
+    },
+    "cardBorder": "none",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "0px",
+    "btnRadius": "0px",
+    "badgeRadius": "0px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Murmuration at Dusk",
+    "subhead": "A wide marsh sky at dusk with a starling murmuration: a peregrine moves the flock, click to stoop and start the dive.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+  "museum-of-obsolete-sounds": {
+    "slug": "museum-of-obsolete-sounds",
+    "name": "The Museum of Obsolete Sounds — Gallery 2",
+    "category": "Historical",
+    "description": "A white-cube gallery where nine dead instruments run again by touch: a round blue button, an oscilloscope, and a small spectrogram that show the sound actually being made.",
+    "tags": [
+      "museum",
+      "obsolete",
+      "sounds",
+      "audio",
+      "gallery",
+      "dead-tech",
+      "plinths"
+    ],
+    "preview": {
+      "bg": "#FAFAF8",
+      "surface": "#FFFFFF",
+      "ink": "#111111",
+      "muted": "#838383",
+      "accent": "#0047FF",
+      "accent2": "#8C8C8C",
+      "display": "Helvetica, Arial, Menlo, Courier New",
+      "body": "Menlo, Consolas, Courier New, monospace"
+    },
+    "cardBorder": "1px solid #1111111a",
+=======
   "mosaic": {
     "slug": "mosaic",
     "name": "Mosaic",
@@ -4992,14 +6629,20 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "body": "Inter, Arial, sans-serif"
     },
     "cardBorder": "2.5px solid #302D29",
+>>>>>>> origin/main
     "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
     "cardRadius": "8px",
     "btnRadius": "6px",
     "badgeRadius": "9999px",
     "signatureType": "bento",
     "eyebrow": "01 / SPECIMEN",
+<<<<<<< HEAD
+    "headline": "The Museum of Obsolete Sounds — Gallery 2",
+    "subhead": "A white-cube gallery where nine dead instruments run again by touch: a round blue button, an oscilloscope, and a small spectrogram that show the sound actually being made.",
+=======
     "headline": "Mosaic",
     "subhead": "Small irregular tesserae form images through color and grout.",
+>>>>>>> origin/main
     "navCta": "Get Started",
     "primaryCta": "Explore Specimen",
     "secondaryCta": "Read Spec",
@@ -5030,7 +6673,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#FFF6E5",
       "surface": "#FFFFFF",
       "ink": "#111111",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#6B6257",
+>>>>>>> origin/main
       "accent": "#FF5C00",
       "accent2": "#2B4EFF",
       "display": "Archivo Black, Arial Black, sans-serif",
@@ -5075,7 +6722,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#E0E5EC",
       "surface": "#E0E5EC",
       "ink": "#4A5568",
+<<<<<<< HEAD
+      "muted": "#7f7f7f",
+=======
       "muted": "#5D6674",
+>>>>>>> origin/main
       "accent": "#4D7CFE",
       "accent2": "#FF6B9D",
       "display": "Inter, Nunito, sans-serif",
@@ -5120,7 +6771,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#F7F4EC",
       "surface": "#FFFFFF",
       "ink": "#1A1A1A",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#6E6A61",
+>>>>>>> origin/main
       "accent": "#A6192E",
       "accent2": "#1A1A1A",
       "display": "Times New Roman, Times, serif",
@@ -5151,6 +6806,57 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+<<<<<<< HEAD
+  "night-diner": {
+    "slug": "night-diner",
+    "name": "The Comet Diner",
+    "category": "Playful",
+    "description": "A tiny diorama of the Route 9 night diner: OPEN 24 HRS, coffee, pie, advice free; the raydiner's bill stays buzzed since Truman and the M still needs three tries.",
+    "tags": [
+      "diner",
+      "retro",
+      "animatronics",
+      "arcade",
+      "3d",
+      "cookie"
+    ],
+    "preview": {
+      "bg": "#161210",
+      "surface": "#1E1A16",
+      "ink": "#FFE9C7",
+      "muted": "#818181",
+      "accent": "#E05030",
+      "accent2": "#F5D9B3",
+      "display": "Helvetica Neue, Arial, sans-serif",
+      "body": "Helvetica Neue, Arial, sans-serif"
+    },
+    "cardBorder": "1px solid #FFE9C722",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "0px",
+    "btnRadius": "0px",
+    "badgeRadius": "0px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "The Comet Diner",
+    "subhead": "A tiny diorama of the Route 9 night diner: OPEN 24 HRS, coffee, pie, advice free; the raydiner's bill stays buzzed since Truman and the M still needs three tries.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+=======
+>>>>>>> origin/main
   "notion-inspired": {
     "slug": "notion-inspired",
     "name": "Notion-Inspired",
@@ -5165,7 +6871,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#FFFFFF",
       "surface": "#F7F7F5",
       "ink": "#37352F",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#73716D",
+>>>>>>> origin/main
       "accent": "#2383E2",
       "accent2": "#D9730D",
       "display": "Georgia, Lyon Text, serif",
@@ -5196,6 +6906,8 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Clean database table grids"
     ]
   },
+<<<<<<< HEAD
+=======
   "op-art": {
     "slug": "op-art",
     "name": "Op Art",
@@ -5241,6 +6953,7 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+>>>>>>> origin/main
   "organic-biophilic": {
     "slug": "organic-biophilic",
     "name": "Organic / Biophilic",
@@ -5255,7 +6968,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#F6F4EC",
       "surface": "#FFFFFF",
       "ink": "#2E3A2F",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#5F7261",
+>>>>>>> origin/main
       "accent": "#3E7C4F",
       "accent2": "#C2703D",
       "display": "Fraunces, Georgia, serif",
@@ -5286,6 +7003,8 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+<<<<<<< HEAD
+=======
   "origami-geometry": {
     "slug": "origami-geometry",
     "name": "Origami Geometry",
@@ -5331,6 +7050,7 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+>>>>>>> origin/main
   "oversized-typography": {
     "slug": "oversized-typography",
     "name": "Oversized Typography",
@@ -5345,7 +7065,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#111111",
       "surface": "#1A1A1A",
       "ink": "#F5F2EA",
+<<<<<<< HEAD
+      "muted": "#808080",
+=======
       "muted": "#8A877E",
+>>>>>>> origin/main
       "accent": "#FF4D00",
       "accent2": "#F5F2EA",
       "display": "Anton, Archivo Black, Impact, sans-serif",
@@ -5376,6 +7100,8 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+<<<<<<< HEAD
+=======
   "paper-cut-diorama": {
     "slug": "paper-cut-diorama",
     "name": "Paper Cut Diorama",
@@ -5511,11 +7237,16 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+>>>>>>> origin/main
   "papercut": {
     "slug": "papercut",
     "name": "Papercut",
     "category": "Handmade & Texture",
+<<<<<<< HEAD
+    "description": "Dimensional physical paper craft: stacked textured cardstock silhouettes with soft cast drop shadows.",
+=======
     "description": "Layered cardstock contours and cut silhouettes create tactile depth across an interface.",
+>>>>>>> origin/main
     "tags": [
       "paper",
       "craft",
@@ -5527,7 +7258,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#F7F3EB",
       "surface": "#FFFFFF",
       "ink": "#2D2823",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#766D64",
+>>>>>>> origin/main
       "accent": "#D96B43",
       "accent2": "#4E6E58",
       "display": "Recoleta, Playfair Display, serif",
@@ -5541,7 +7276,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
     "signatureType": "claymorphism",
     "eyebrow": "01 / SPECIMEN",
     "headline": "Papercut",
+<<<<<<< HEAD
+    "subhead": "Dimensional physical paper craft: stacked textured cardstock silhouettes with soft cast drop shadows.",
+=======
     "subhead": "Layered cardstock contours and cut silhouettes create tactile depth across an interface.",
+>>>>>>> origin/main
     "navCta": "Get Started",
     "primaryCta": "Explore Specimen",
     "secondaryCta": "Read Spec",
@@ -5572,7 +7311,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#0E1A2B",
       "surface": "#16273D",
       "ink": "#F0F6FF",
+<<<<<<< HEAD
+      "muted": "#818181",
+=======
       "muted": "#7E96B3",
+>>>>>>> origin/main
       "accent": "#FFC24B",
       "accent2": "#4DD8FF",
       "display": "Sora, Outfit, sans-serif",
@@ -5603,6 +7346,138 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+<<<<<<< HEAD
+  "parish-census": {
+    "slug": "parish-census",
+    "name": "Parish Census No. 1887 — Everyone in Ostrava-under-Hill",
+    "category": "Data",
+    "description": "A cream paper census for a fictional village: 300+ invented residents as paper scratches; the headline counts to its new value as dots rain in.",
+    "tags": [
+      "census",
+      "data",
+      "village",
+      "map",
+      "dots",
+      "algorithms",
+      "fingerprint"
+    ],
+    "preview": {
+      "bg": "#F6F0E4",
+      "surface": "#FFFFFF",
+      "ink": "#2F2F2F",
+      "muted": "#838383",
+      "accent": "#EF767A",
+      "accent2": "#49BEAA",
+      "display": "Georgia, Palatino, Gill Sans, Trebuchet MS, Segoe UI",
+      "body": "Georgia, Arial, sans-serif"
+    },
+    "cardBorder": "1px solid #2F2F2F1a",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "8px",
+    "btnRadius": "6px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Parish Census No. 1887 — Everyone in Ostrava-under-Hill",
+    "subhead": "A cream paper census for a fictional village: 300+ invented residents as paper scratches; the headline counts to its new value as dots rain in.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+  "pendulum-wave": {
+    "slug": "pendulum-wave",
+    "name": "Pendulum Wave",
+    "category": "Historical",
+    "description": "Fifteen brass-bob pendulums of increasing length; release and watch them fall out of phase, tangling, then settle back into one line after one minute.",
+    "tags": [
+      "physics",
+      "mechanical",
+      "clockwork",
+      "wave",
+      "brass",
+      "instrument"
+    ],
+    "preview": {
+      "bg": "#F2ECDF",
+      "surface": "#FFFFFF",
+      "ink": "#3A352B",
+      "muted": "#838383",
+      "accent": "#C49A6C",
+      "accent2": "#5D5D57",
+      "display": "Georgia, Times New Roman, serif",
+      "body": "Georgia, serif"
+    },
+    "cardBorder": "1px solid #3A352B22",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "8px",
+    "btnRadius": "6px",
+    "badgeRadius": "6px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Pendulum Wave",
+    "subhead": "Fifteen brass-bob pendulums of increasing length; release and watch them fall out of phase, tangling, then settle back into one line after one minute.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+  "pinscreen": {
+    "slug": "pinscreen",
+    "name": "Pinscreen",
+    "category": "Playful",
+    "description": "Impression panel P-86: 10,000 steel hexagonal pin-heads against a black lacquered background; press from behind to imprint a hand; drag to draw with subsiding trails.",
+    "tags": [
+      "impression",
+      "panel",
+      "steel",
+      "lacquer",
+      "silhouette",
+      "artifact",
+      "plate"
+    ],
+    "preview": {
+      "bg": "#16181C",
+      "surface": "#0C0C0C",
+      "ink": "#E8E8E8",
+      "muted": "#808080",
+      "accent": "#E84924",
+      "accent2": "#2B2B2B",
+      "display": "Space Grotesk, Inter, sans-serif",
+      "body": "Space Grotesk, Inter, sans-serif"
+    },
+    "cardBorder": "1px solid #E8E8E822",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "8px",
+    "btnRadius": "6px",
+    "badgeRadius": "6px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Pinscreen",
+    "subhead": "Impression panel P-86: 10,000 steel hexagonal pin-heads against a black lacquered background; press from behind to imprint a hand; drag to draw with subsiding trails.",
+=======
   "pencil-sketch": {
     "slug": "pencil-sketch",
     "name": "Pencil Sketch",
@@ -5632,6 +7507,7 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
     "eyebrow": "01 / SPECIMEN",
     "headline": "Pencil Sketch",
     "subhead": "Graphite outlines reveal construction, hatching, and erased light.",
+>>>>>>> origin/main
     "navCta": "Get Started",
     "primaryCta": "Explore Specimen",
     "secondaryCta": "Read Spec",
@@ -5662,7 +7538,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#0F0F1B",
       "surface": "#1B1B2E",
       "ink": "#F2F0FF",
+<<<<<<< HEAD
+      "muted": "#818181",
+=======
       "muted": "#8E8AB0",
+>>>>>>> origin/main
       "accent": "#7DF9FF",
       "accent2": "#FFD802",
       "display": "Press Start 2P, VT323, monospace",
@@ -5709,7 +7589,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#F3EFE6",
       "surface": "#FFFFFF",
       "ink": "#2D2B28",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#706C64",
+>>>>>>> origin/main
       "accent": "#FF5E3A",
       "accent2": "#38B6FF",
       "display": "Fredoka, Nunito, -apple-system, sans-serif",
@@ -5754,7 +7638,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#FFF9F0",
       "surface": "#FFFFFF",
       "ink": "#222222",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#797269",
+>>>>>>> origin/main
       "accent": "#FF4FA3",
       "accent2": "#00B3FF",
       "display": "Baloo 2, Fredoka, Arial Rounded MT Bold, sans-serif",
@@ -5799,7 +7687,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#FFF3E4",
       "surface": "#FFFFFF",
       "ink": "#232323",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#6E665D",
+>>>>>>> origin/main
       "accent": "#FF4FA3",
       "accent2": "#00C2FF",
       "display": "Fredoka, Baloo 2, Comic Sans MS, sans-serif",
@@ -5830,6 +7722,58 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+<<<<<<< HEAD
+  "pluvia-and-sons-umbrellas": {
+    "slug": "pluvia-and-sons-umbrellas",
+    "name": "Pluvia and Sons — Umbrella Makers",
+    "category": "Playful",
+    "description": "A grey, overcast landing page where it is actually raining: drops fall in layers; the yellow umbrella replaces the cursor and soaks reads.",
+    "tags": [
+      "umbrella",
+      "rain",
+      "pluvia",
+      "mizzle",
+      "gaming-like",
+      "dry-humor",
+      "employment"
+    ],
+    "preview": {
+      "bg": "#F0F2F5",
+      "surface": "#FFFFFF",
+      "ink": "#2D3238",
+      "muted": "#838383",
+      "accent": "#3B506C",
+      "accent2": "#F0E68C",
+      "display": "Playfair Display, Georgia, serif",
+      "body": "Karla, Arial, sans-serif"
+    },
+    "cardBorder": "1px solid #2D32381a",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "8px",
+    "btnRadius": "6px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Pluvia and Sons — Umbrella Makers",
+    "subhead": "A grey, overcast landing page where it is actually raining: drops fall in layers; the yellow umbrella replaces the cursor and soaks reads.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+=======
+>>>>>>> origin/main
   "polaris-commerce": {
     "slug": "polaris-commerce",
     "name": "Polaris Commerce",
@@ -5844,7 +7788,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#FFFFFF",
       "surface": "#F6F6F7",
       "ink": "#202223",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#6D7175",
+>>>>>>> origin/main
       "accent": "#008060",
       "accent2": "#FFC453",
       "display": "Shopify Sans, Inter, Helvetica Neue, sans-serif",
@@ -5889,7 +7837,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#F5F3EF",
       "surface": "#FFFFFF",
       "ink": "#1B1B1B",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#736F68",
+>>>>>>> origin/main
       "accent": "#2B4EFF",
       "accent2": "#FF5C00",
       "display": "Neue Haas Grotesk, Inter Tight, Helvetica Neue, sans-serif",
@@ -5934,7 +7886,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#F0303A",
       "surface": "#FFFFFF",
       "ink": "#111111",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#181412",
+>>>>>>> origin/main
       "accent": "#111111",
       "accent2": "#FFD802",
       "display": "Anton, Archivo Black, Impact, sans-serif",
@@ -5965,6 +7921,58 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+<<<<<<< HEAD
+  "pottery-wheel": {
+    "slug": "pottery-wheel",
+    "name": "The Wheel — Throw a Pot",
+    "category": "Historical",
+    "description": "A quiet potter's studio on one screen: lump wobbling into centre and ghost fingers making the first pull; then the viewer pulls the wall taller and thinner with their hands.",
+    "tags": [
+      "pottery",
+      "wheel",
+      "clay",
+      "throw",
+      "tool",
+      "craft",
+      "studio"
+    ],
+    "preview": {
+      "bg": "#E7DCCB",
+      "surface": "#FFFFFF",
+      "ink": "#2E2A26",
+      "muted": "#838383",
+      "accent": "#B5653A",
+      "accent2": "#D99A6C",
+      "display": "Gill Sans, Optima, Baskerville, Hoefler Text",
+      "body": "Candara, Hoefler Text, sans-serif"
+    },
+    "cardBorder": "1px solid #2E2A261a",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "8px",
+    "btnRadius": "6px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "The Wheel — Throw a Pot",
+    "subhead": "A quiet potter's studio on one screen: lump wobbling into centre and ghost fingers making the first pull; then the viewer pulls the wall taller and thinner with their hands.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+=======
+>>>>>>> origin/main
   "product-minimalism": {
     "slug": "product-minimalism",
     "name": "Product Minimalism",
@@ -5979,7 +7987,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#F7F8FA",
       "surface": "#FFFFFF",
       "ink": "#23272F",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#6B7280",
+>>>>>>> origin/main
       "accent": "#2962FE",
       "accent2": "#7C5CFF",
       "display": "Inter, SF Pro Text, Helvetica Neue, sans-serif",
@@ -6024,7 +8036,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#12041F",
       "surface": "#1E0B33",
       "ink": "#F7ECFF",
+<<<<<<< HEAD
+      "muted": "#818181",
+=======
       "muted": "#A98FC7",
+>>>>>>> origin/main
       "accent": "#FF4FD8",
       "accent2": "#00E5CC",
       "display": "Shrikhand, Bungee, Impact, sans-serif",
@@ -6069,7 +8085,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#F7F5F0",
       "surface": "#FFFFFF",
       "ink": "#2B2926",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#6F695F",
+>>>>>>> origin/main
       "accent": "#2B2926",
       "accent2": "#8C6E3F",
       "display": "Cormorant Garamond, EB Garamond, serif",
@@ -6100,6 +8120,8 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+<<<<<<< HEAD
+=======
   "quilted-patchwork": {
     "slug": "quilted-patchwork",
     "name": "Quilted Patchwork",
@@ -6145,6 +8167,7 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+>>>>>>> origin/main
   "racing-telemetry": {
     "slug": "racing-telemetry",
     "name": "Racing Telemetry",
@@ -6161,7 +8184,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#0A0B0E",
       "surface": "#13161C",
       "ink": "#F1F3F7",
+<<<<<<< HEAD
+      "muted": "#808080",
+=======
       "muted": "#848E9D",
+>>>>>>> origin/main
       "accent": "#FF1801",
       "accent2": "#FFD32A",
       "display": "Chakra Petch, Rajdhani, -apple-system, sans-serif",
@@ -6208,7 +8235,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#FFFFFF",
       "surface": "#F0F0F0",
       "ink": "#000000",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#555555",
+>>>>>>> origin/main
       "accent": "#0000EE",
       "accent2": "#551A8B",
       "display": "Times New Roman, Times, serif",
@@ -6254,7 +8285,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#0B0D0E",
       "surface": "#16191B",
       "ink": "#EDEDED",
+<<<<<<< HEAD
+      "muted": "#808080",
+=======
       "muted": "#8B949E",
+>>>>>>> origin/main
       "accent": "#FF6363",
       "accent2": "#FF9F43",
       "display": "Inter, SF Pro Display, -apple-system, sans-serif",
@@ -6299,7 +8334,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#FFF8DC",
       "surface": "#FFFFFF",
       "ink": "#222222",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#77705F",
+>>>>>>> origin/main
       "accent": "#0000EE",
       "accent2": "#FF0000",
       "display": "Times New Roman, Georgia, serif",
@@ -6330,6 +8369,57 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+<<<<<<< HEAD
+  "ripple-tank": {
+    "slug": "ripple-tank",
+    "name": "Ripple Tank",
+    "category": "Data",
+    "description": "A clinical physics lab manual page built around a living ripple tank: drag apparatus into the tank, run 7 textbook experiments, probe the surface with strobe and ruler.",
+    "tags": [
+      "physics",
+      "lab",
+      "ripple",
+      "interference",
+      "teaching",
+      "interactive"
+    ],
+    "preview": {
+      "bg": "#FFFFFF",
+      "surface": "#F5F5F2",
+      "ink": "#1A1A1A",
+      "muted": "#838383",
+      "accent": "#2B5A8F",
+      "accent2": "#D62828",
+      "display": "Helvetica Neue, Arial, sans-serif",
+      "body": "Helvetica Neue, Arial, sans-serif"
+    },
+    "cardBorder": "1px solid #1A1A1A1a",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "8px",
+    "btnRadius": "6px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Ripple Tank",
+    "subhead": "A clinical physics lab manual page built around a living ripple tank: drag apparatus into the tank, run 7 textbook experiments, probe the surface with strobe and ruler.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+=======
+>>>>>>> origin/main
   "risograph": {
     "slug": "risograph",
     "name": "Risograph",
@@ -6344,7 +8434,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#F4F1EA",
       "surface": "#FFFFFF",
       "ink": "#232323",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#716E66",
+>>>>>>> origin/main
       "accent": "#FF6655",
       "accent2": "#0078BF",
       "display": "Archivo Black, Space Grotesk, sans-serif",
@@ -6375,6 +8469,104 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+<<<<<<< HEAD
+  "river-at-las-panorama": {
+    "slug": "river-at-las-panorama",
+    "name": "The Aldwyn, Source to Sea",
+    "category": "Heritage Luxury",
+    "description": "A sideways river panorama for grown-ups: a578km journey with 45 stations, a live altitude/flow readout, and a routing ribbon at the bottom.",
+    "tags": [
+      "river",
+      "panorama",
+      "children",
+      "atlas",
+      "scroll",
+      "navigation",
+      "colour"
+    ],
+    "preview": {
+      "bg": "#F9F5E9",
+      "surface": "#FFFFFF",
+      "ink": "#2F2A22",
+      "muted": "#838383",
+      "accent": "#0F6E78",
+      "accent2": "#8B6F2E",
+      "display": "Playfair Display, Georgia, serif",
+      "body": "Georgia, serif"
+    },
+    "cardBorder": "1px solid #2F2A221a",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "8px",
+    "btnRadius": "6px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "The Aldwyn, Source to Sea",
+    "subhead": "A sideways river panorama for grown-ups: a578km journey with 45 stations, a live altitude/flow readout, and a routing ribbon at the bottom.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+  "rose-window": {
+    "slug": "rose-window",
+    "name": "Rose Window",
+    "category": "Heritage Luxury",
+    "description": "A hushed stone nave seen from the floor: ashlar blocks, pointed arches, carved tracery, and a procedural Gothic rose window with visible lead lines.",
+    "tags": [
+      "gothic",
+      "rose-window",
+      "tracery",
+      "holloway-and-vollmer"
+    ],
+    "preview": {
+      "bg": "#08070A",
+      "surface": "#24222A",
+      "ink": "#E0A100",
+      "muted": "#7f7f7f",
+      "accent": "#E9E2CF",
+      "accent2": "#E8B3A4",
+      "display": "Georgia, Times New Roman, serif",
+      "body": "Gill Sans Light, system-ui"
+    },
+    "cardBorder": "1px solid #E0A10022",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "0px",
+    "btnRadius": "0px",
+    "badgeRadius": "0px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Rose Window",
+    "subhead": "A hushed stone nave seen from the floor: ashlar blocks, pointed arches, carved tracery, and a procedural Gothic rose window with visible lead lines.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+=======
+>>>>>>> origin/main
   "scandinavian": {
     "slug": "scandinavian",
     "name": "Scandinavian",
@@ -6389,7 +8581,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#F9F7F3",
       "surface": "#FFFFFF",
       "ink": "#2E2C29",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#76716A",
+>>>>>>> origin/main
       "accent": "#A35E33",
       "accent2": "#577866",
       "display": "Inter, Avenir, Nunito Sans, sans-serif",
@@ -6434,7 +8630,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#04070D",
       "surface": "#0A1220",
       "ink": "#D7E6FF",
+<<<<<<< HEAD
+      "muted": "#808080",
+=======
       "muted": "#667F9E",
+>>>>>>> origin/main
       "accent": "#4DD8FF",
       "accent2": "#FFB300",
       "display": "Michroma, Orbitron, sans-serif",
@@ -6479,7 +8679,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#F3EDE2",
       "surface": "#FFFDF6",
       "ink": "#3B362E",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#6F675E",
+>>>>>>> origin/main
       "accent": "#B3541E",
       "accent2": "#5B7E6B",
       "display": "Caveat, Georgia, serif",
@@ -6524,7 +8728,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#FAFAF8",
       "surface": "#FFFFFF",
       "ink": "#1A1A1A",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#6E6A61",
+>>>>>>> origin/main
       "accent": "#2B4EFF",
       "accent2": "#FF5C00",
       "display": "Inter Tight, Helvetica Neue, sans-serif",
@@ -6555,6 +8763,152 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+<<<<<<< HEAD
+  "seismograph-drum": {
+    "slug": "seismograph-drum",
+    "name": "Kettlewick Observatory — Seismograph No. 2",
+    "category": "Historical",
+    "description": "A working 19th-century observatory seismograph whose recording drum is 6x faster than real time, with a damped pen that writes real traces.",
+    "tags": [
+      "seismograph",
+      "observatory",
+      "1894",
+      "drum",
+      "working",
+      "physics"
+    ],
+    "preview": {
+      "bg": "#12100B",
+      "surface": "#1A1610",
+      "ink": "#D9C8A8",
+      "muted": "#808080",
+      "accent": "#4E6A8F",
+      "accent2": "#6B4B2D",
+      "display": "Georgia, Times New Roman, serif",
+      "body": "Georgia, serif"
+    },
+    "cardBorder": "2px solid #D9C8A8",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "0px",
+    "btnRadius": "0px",
+    "badgeRadius": "0px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Kettlewick Observatory — Seismograph No. 2",
+    "subhead": "A working 19th-century observatory seismograph whose recording drum is 6x faster than real time, with a damped pen that writes real traces.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+  "semaphore": {
+    "slug": "semaphore",
+    "name": "Semaphore — Say It with Flags",
+    "category": "Playful",
+    "description": "Type a message and watch the signaller spell it across the water: flags swing across an eight-point clock with realistic mechanical physics.",
+    "tags": [
+      "semaphore",
+      "flags",
+      "nautical",
+      "instrument",
+      "interactive",
+      "alphabet"
+    ],
+    "preview": {
+      "bg": "#E6E2D4",
+      "surface": "#FFFFFF",
+      "ink": "#1A1812",
+      "muted": "#838383",
+      "accent": "#D62828",
+      "accent2": "#FFD700",
+      "display": "Helvetica Neue, Arial, sans-serif",
+      "body": "Arial, Helvetica, sans-serif"
+    },
+    "cardBorder": "1px solid #1A18121a",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "8px",
+    "btnRadius": "6px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Semaphore — Say It with Flags",
+    "subhead": "Type a message and watch the signaller spell it across the water: flags swing across an eight-point clock with realistic mechanical physics.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+  "skerry-weather-station": {
+    "slug": "skerry-weather-station",
+    "name": "Holm Skerry Weather Station",
+    "category": "Historical",
+    "description": "A Victorian-era observation station where every value is a needle, a mercury column, or an ink line: barometer, wind rose, psychrometer, rain gauge, barograph, sunshine recorder.",
+    "tags": [
+      "instrument",
+      "barometer",
+      "weather",
+      " Victorian",
+      "analog"
+    ],
+    "preview": {
+      "bg": "#EDE4CF",
+      "surface": "#FFFFFF",
+      "ink": "#3B2A20",
+      "muted": "#838383",
+      "accent": "#A33B2B",
+      "accent2": "#6E5620",
+      "display": "Georgia, Times New Roman, serif",
+      "body": "Georgia, serif"
+    },
+    "cardBorder": "1px solid #3B2A2022",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "0px",
+    "btnRadius": "0px",
+    "badgeRadius": "0px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Holm Skerry Weather Station",
+    "subhead": "A Victorian-era observation station where every value is a needle, a mercury column, or an ink line: barometer, wind rose, psychrometer, rain gauge, barograph, sunshine recorder.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+=======
+>>>>>>> origin/main
   "skeuomorphism": {
     "slug": "skeuomorphism",
     "name": "Skeuomorphism",
@@ -6569,7 +8923,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#E8E4DC",
       "surface": "#F5F1E8",
       "ink": "#2B2B2B",
+<<<<<<< HEAD
+      "muted": "#818181",
+=======
       "muted": "#68665E",
+>>>>>>> origin/main
       "accent": "#0B5FFF",
       "accent2": "#C8A951",
       "display": "Helvetica Neue, Georgia, serif",
@@ -6614,7 +8972,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#F2F7E9",
       "surface": "#FFFFFF",
       "ink": "#1E3A24",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#5A7261",
+>>>>>>> origin/main
       "accent": "#327E40",
       "accent2": "#F2B705",
       "display": "Fraunces, Georgia, serif",
@@ -6645,6 +9007,55 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+<<<<<<< HEAD
+  "sore-rock-lighthouse": {
+    "slug": "sore-rock-lighthouse",
+    "name": "Sorrow Rock Lighthouse",
+    "category": "Historical",
+    "description": "A red-banded lighthouse on its rock: a night sea in ink strokes and one heavy, warm beam that follows the cursor.",
+    "tags": [
+      "lighthouse",
+      "night",
+      "sea",
+      "fog"
+    ],
+    "preview": {
+      "bg": "#07131F",
+      "surface": "#0E2A3A",
+      "ink": "#F6E7A8",
+      "muted": "#818181",
+      "accent": "#E2543C",
+      "accent2": "#7FA7A6",
+      "display": "Didot, Georgia, serif",
+      "body": "Georgia, serif"
+    },
+    "cardBorder": "1px solid #F6E7A822",
+    "cardShadow": "0 0 20px #E2543C55",
+    "cardRadius": "0px",
+    "btnRadius": "0px",
+    "badgeRadius": "0px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Sorrow Rock Lighthouse",
+    "subhead": "A red-banded lighthouse on its rock: a night sea in ink strokes and one heavy, warm beam that follows the cursor.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+=======
+>>>>>>> origin/main
   "spatial-computing": {
     "slug": "spatial-computing",
     "name": "Spatial Computing",
@@ -6660,7 +9071,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#0B0E14",
       "surface": "#1C2331",
       "ink": "#F8FAFC",
+<<<<<<< HEAD
+      "muted": "#808080",
+=======
       "muted": "#94A3B8",
+>>>>>>> origin/main
       "accent": "#38BDF8",
       "accent2": "#818CF8",
       "display": "SF Pro Display, Inter, system-ui, sans-serif",
@@ -6691,6 +9106,8 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+<<<<<<< HEAD
+=======
   "stained-glass": {
     "slug": "stained-glass",
     "name": "Stained Glass",
@@ -6736,6 +9153,7 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+>>>>>>> origin/main
   "steampunk": {
     "slug": "steampunk",
     "name": "Steampunk",
@@ -6752,7 +9170,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#1C1510",
       "surface": "#2A2018",
       "ink": "#F5E8D3",
+<<<<<<< HEAD
+      "muted": "#808080",
+=======
       "muted": "#A89582",
+>>>>>>> origin/main
       "accent": "#D4A017",
       "accent2": "#C86D3B",
       "display": "Playfair Display, Georgia, serif",
@@ -6783,6 +9205,57 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+<<<<<<< HEAD
+  "strange-attractors": {
+    "slug": "strange-attractors",
+    "name": "Strange Attractors — Plate I",
+    "category": "Data",
+    "description": "A wire-style viridian vitrine holding one attractor at a time, built from up to 480,000 points of gold dust, with live draggable constants.",
+    "tags": [
+      "attractors",
+      "chaos",
+      "fractal",
+      "math",
+      "interactive",
+      "physical"
+    ],
+    "preview": {
+      "bg": "#1F2733",
+      "surface": "#2A323E",
+      "ink": "#E6E9EF",
+      "muted": "#818181",
+      "accent": "#00F5D4",
+      "accent2": "#FFB300",
+      "display": "Space Grotesk, Inter, sans-serif",
+      "body": "Inter, sans-serif"
+    },
+    "cardBorder": "1px solid #E6E9EF1a",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "8px",
+    "btnRadius": "6px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Strange Attractors — Plate I",
+    "subhead": "A wire-style viridian vitrine holding one attractor at a time, built from up to 480,000 points of gold dust, with live draggable constants.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+=======
+>>>>>>> origin/main
   "stripe-inspired": {
     "slug": "stripe-inspired",
     "name": "Stripe-Inspired",
@@ -6797,7 +9270,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#FFFFFF",
       "surface": "#F6F9FC",
       "ink": "#0A2540",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#62748A",
+>>>>>>> origin/main
       "accent": "#635BFF",
       "accent2": "#00D4FF",
       "display": "Sohne, Inter, Helvetica Neue, sans-serif",
@@ -6828,6 +9305,8 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+<<<<<<< HEAD
+=======
   "sumi-e-ink-wash": {
     "slug": "sumi-e-ink-wash",
     "name": "Sumi-e Ink Wash",
@@ -6873,6 +9352,7 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+>>>>>>> origin/main
   "surrealism": {
     "slug": "surrealism",
     "name": "Surrealism",
@@ -6887,7 +9367,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#EDE6D8",
       "surface": "#F7F2E7",
       "ink": "#2B2620",
+<<<<<<< HEAD
+      "muted": "#828282",
+=======
       "muted": "#6C675C",
+>>>>>>> origin/main
       "accent": "#0F4C81",
       "accent2": "#C81E1E",
       "display": "Cormorant Garamond, Georgia, serif",
@@ -6932,7 +9416,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#F4F2ED",
       "surface": "#FFFFFF",
       "ink": "#111111",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#6E6A61",
+>>>>>>> origin/main
       "accent": "#E30613",
       "accent2": "#0B3D91",
       "display": "Helvetica Neue, Helvetica, Arial, sans-serif",
@@ -6977,7 +9465,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#F2EFE9",
       "surface": "#FFFFFF",
       "ink": "#111111",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#6E6A61",
+>>>>>>> origin/main
       "accent": "#E30613",
       "accent2": "#0B3D91",
       "display": "Helvetica Neue, Helvetica, Arial, sans-serif",
@@ -7022,7 +9514,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#0A0118",
       "surface": "#150826",
       "ink": "#F5EDFF",
+<<<<<<< HEAD
+      "muted": "#808080",
+=======
       "muted": "#9A86C7",
+>>>>>>> origin/main
       "accent": "#FF2E88",
       "accent2": "#FFD319",
       "display": "Orbitron, Monoton, sans-serif",
@@ -7053,6 +9549,58 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+<<<<<<< HEAD
+  "tangram-menagerie": {
+    "slug": "tangram-menagerie",
+    "name": "Tangram Menagerie",
+    "category": "Playful",
+    "description": "A bright, paper-coloured tangram table: title letter-by-letter in chunky geometric strokes; seven flat-coloured wooden pieces become a zoo.",
+    "tags": [
+      "tangram",
+      "menagerie",
+      "paper",
+      "zoo",
+      "drag",
+      "puzzle",
+      "wood"
+    ],
+    "preview": {
+      "bg": "#F7F3E8",
+      "surface": "#FFFFFF",
+      "ink": "#2E282A",
+      "muted": "#838383",
+      "accent": "#E4572E",
+      "accent2": "#17BEBB",
+      "display": "Futura, Century Gothic, Trebuchet MS, Avenir Next, Bradley Hand",
+      "body": "Bradley Hand, Georgia, serif"
+    },
+    "cardBorder": "1px solid #2E282A1a",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "8px",
+    "btnRadius": "6px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Tangram Menagerie",
+    "subhead": "A bright, paper-coloured tangram table: title letter-by-letter in chunky geometric strokes; seven flat-coloured wooden pieces become a zoo.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+=======
+>>>>>>> origin/main
   "terminal": {
     "slug": "terminal",
     "name": "Terminal",
@@ -7067,7 +9615,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#0C0C0C",
       "surface": "#141414",
       "ink": "#33FF66",
+<<<<<<< HEAD
+      "muted": "#808080",
+=======
       "muted": "#6A9955",
+>>>>>>> origin/main
       "accent": "#4DD8FF",
       "accent2": "#FFB000",
       "display": "JetBrains Mono, SF Mono, Menlo, monospace",
@@ -7112,7 +9664,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#FDFCF9",
       "surface": "#FFFFFF",
       "ink": "#1B1A17",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#74706A",
+>>>>>>> origin/main
       "accent": "#1B1A17",
       "accent2": "#2B4EFF",
       "display": "Newsreader, Georgia, serif",
@@ -7157,7 +9713,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#0F0F0F",
       "surface": "#161616",
       "ink": "#F4F1EA",
+<<<<<<< HEAD
+      "muted": "#818181",
+=======
       "muted": "#8F8B82",
+>>>>>>> origin/main
       "accent": "#FF4D00",
       "accent2": "#F4F1EA",
       "display": "Anton, Archivo Black, Impact, sans-serif",
@@ -7188,6 +9748,40 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+<<<<<<< HEAD
+  "ulam-spiral": {
+    "slug": "ulam-spiral",
+    "name": "Ulam Prime Spiral",
+    "category": "Data",
+    "description": "Where the primes fall — a 4,000-scale square spiral instrument (Ulam, square spiral, square spiral, square spiral... with overlays, four arrangements, and tapable hexagon tiles.",
+    "tags": [
+      "primes",
+      "math",
+      "spiral",
+      "instrument",
+      "geometry",
+      "education"
+    ],
+    "preview": {
+      "bg": "#FAFAF7",
+      "surface": "#FFFFFF",
+      "ink": "#111111",
+      "muted": "#838383",
+      "accent": "#FF3B00",
+      "accent2": "#D8D8D2",
+      "display": "Helvetica Neue, Arial, sans-serif",
+      "body": "Menlo, Courier New, monospace"
+    },
+    "cardBorder": "1px solid #11111122",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "8px",
+    "btnRadius": "6px",
+    "badgeRadius": "6px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Ulam Prime Spiral",
+    "subhead": "Where the primes fall — a 4,000-scale square spiral instrument (Ulam, square spiral, square spiral, square spiral... with overlays, four arrangements, and tapable hexagon tiles.",
+=======
   "ukiyo-e-woodblock": {
     "slug": "ukiyo-e-woodblock",
     "name": "Ukiyo-e Woodblock",
@@ -7217,6 +9811,7 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
     "eyebrow": "01 / SPECIMEN",
     "headline": "Ukiyo-e Woodblock",
     "subhead": "Flat color blocks and a dark keyline form an asymmetric print scene.",
+>>>>>>> origin/main
     "navCta": "Get Started",
     "primaryCta": "Explore Specimen",
     "secondaryCta": "Read Spec",
@@ -7247,7 +9842,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#FFFFFF",
       "surface": "#FFFFFF",
       "ink": "#111111",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#767676",
+>>>>>>> origin/main
       "accent": "#111111",
       "accent2": "#0000EE",
       "display": "Helvetica Neue, Inter, Arial, sans-serif",
@@ -7292,7 +9891,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#17102E",
       "surface": "#241545",
       "ink": "#F5EDFF",
+<<<<<<< HEAD
+      "muted": "#7f7f7f",
+=======
       "muted": "#B3A1D6",
+>>>>>>> origin/main
       "accent": "#FF71CE",
       "accent2": "#7DF9FF",
       "display": "Times New Roman, serif",
@@ -7337,7 +9940,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#F4F2ED",
       "surface": "#FFFFFF",
       "ink": "#141414",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#6E6A61",
+>>>>>>> origin/main
       "accent": "#E30613",
       "accent2": "#1D4ED8",
       "display": "Inter Variable, Fraunces Variable, sans-serif",
@@ -7382,7 +9989,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#EFE9DD",
       "surface": "#F7F3E9",
       "ink": "#3A352C",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#6E6860",
+>>>>>>> origin/main
       "accent": "#9C2B2E",
       "accent2": "#4A5D4E",
       "display": "Cormorant Garamond, Yu Mincho, serif",
@@ -7413,6 +10024,8 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+<<<<<<< HEAD
+=======
   "watercolor-wash": {
     "slug": "watercolor-wash",
     "name": "Watercolor Wash",
@@ -7503,6 +10116,7 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+>>>>>>> origin/main
   "web3-crypto": {
     "slug": "web3-crypto",
     "name": "Web3 Crypto",
@@ -7517,7 +10131,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#060A14",
       "surface": "#0D1424",
       "ink": "#F2F5FF",
+<<<<<<< HEAD
+      "muted": "#818181",
+=======
       "muted": "#8B94AD",
+>>>>>>> origin/main
       "accent": "#00E5A0",
       "accent2": "#6C5CFF",
       "display": "Space Grotesk, Inter, Helvetica Neue, sans-serif",
@@ -7562,7 +10180,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#C0C0C0",
       "surface": "#FFFFFF",
       "ink": "#000000",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#4F4F4F",
+>>>>>>> origin/main
       "accent": "#0000EE",
       "accent2": "#008080",
       "display": "Times New Roman, serif",
@@ -7593,6 +10215,58 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Commercial License"
     ]
   },
+<<<<<<< HEAD
+  "wheat-before-rain": {
+    "slug": "wheat-before-rain",
+    "name": "Wheat, Before Rain",
+    "category": "Organic & Calm",
+    "description": "Still air; wheat sways slightly; draw a hand through it and a squall rolls to the horizon; tap for a lark",
+    "tags": [
+      "wheat",
+      "field",
+      "wind",
+      "squall",
+      "lark",
+      "agricultural",
+      "wind"
+    ],
+    "preview": {
+      "bg": "#F7F4EA",
+      "surface": "#FFFFFF",
+      "ink": "#2F2A22",
+      "muted": "#838383",
+      "accent": "#5F7F86",
+      "accent2": "#8B5F38",
+      "display": "Playfair Display, Georgia, serif",
+      "body": "Karla, Arial, sans-serif"
+    },
+    "cardBorder": "1px solid #2F2A221a",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "8px",
+    "btnRadius": "6px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Wheat, Before Rain",
+    "subhead": "Still air; wheat sways slightly; draw a hand through it and a squall rolls to the horizon; tap for a lark",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+=======
+>>>>>>> origin/main
   "windows-95": {
     "slug": "windows-95",
     "name": "Windows 95",
@@ -7607,7 +10281,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#0A8F8F",
       "surface": "#C3C7CB",
       "ink": "#000000",
+<<<<<<< HEAD
+      "muted": "#808080",
+=======
       "muted": "#111919",
+>>>>>>> origin/main
       "accent": "#000080",
       "accent2": "#FF0000",
       "display": "Pixelated MS Sans Serif, Tahoma, sans-serif",
@@ -7638,6 +10316,58 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Dotted active focus rings"
     ]
   },
+<<<<<<< HEAD
+  "wood-type": {
+    "slug": "wood-type",
+    "name": "Wood Type",
+    "category": "Historical",
+    "description": "Wood type drying line, wet proofs, hands off; faces and bodies from cold-metal typecasting; save, shake, print-again, shop for supply orders.",
+    "tags": [
+      "wood",
+      "type",
+      "letterpress",
+      "print",
+      "typography",
+      "history",
+      "legacy"
+    ],
+    "preview": {
+      "bg": "#E6E0D2",
+      "surface": "#FFFFFF",
+      "ink": "#3E3528",
+      "muted": "#838383",
+      "accent": "#8B2B20",
+      "accent2": "#0B4D6B",
+      "display": "Archivo Black, Arial Black, sans-serif",
+      "body": "Helvetica Neue, Arial, sans-serif"
+    },
+    "cardBorder": "1px solid #3E35281a",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "8px",
+    "btnRadius": "6px",
+    "badgeRadius": "9999px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Wood Type",
+    "subhead": "Wood type drying line, wet proofs, hands off; faces and bodies from cold-metal typecasting; save, shake, print-again, shop for supply orders.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+  },
+=======
+>>>>>>> origin/main
   "y2k": {
     "slug": "y2k",
     "name": "Y2K",
@@ -7652,7 +10382,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#0A0A1F",
       "surface": "#141432",
       "ink": "#F2F0FF",
+<<<<<<< HEAD
+      "muted": "#808080",
+=======
       "muted": "#8E8AB0",
+>>>>>>> origin/main
       "accent": "#00E5FF",
       "accent2": "#FF7AD9",
       "display": "Orbitron, Michroma, Impact, sans-serif",
@@ -7697,7 +10431,11 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "bg": "#F2F0EB",
       "surface": "#FFFFFF",
       "ink": "#111111",
+<<<<<<< HEAD
+      "muted": "#838383",
+=======
       "muted": "#5C5A55",
+>>>>>>> origin/main
       "accent": "#D92300",
       "accent2": "#FFEB00",
       "display": "Impact, Arial Black, sans-serif",
@@ -7727,6 +10465,57 @@ export const STYLE_DEFINITIONS: Record<string, StyleDefinition> = {
       "Full Component Tokens",
       "Commercial License"
     ]
+<<<<<<< HEAD
+  },
+  "zoetrope": {
+    "slug": "zoetrope",
+    "name": "Zoetrope",
+    "category": "Playful",
+    "description": "The wheel of life: turn the drum briskly and watch horses gallop through the slits. Draw your own strips with twelve frames each.",
+    "tags": [
+      "zoetrope",
+      "animation",
+      "phenakisticope",
+      "th nineteen-fifties",
+      "old-fashioned",
+      "railroad"
+    ],
+    "preview": {
+      "bg": "#2B2419",
+      "surface": "#4A4030",
+      "ink": "#F8F3E6",
+      "muted": "#808080",
+      "accent": "#E63946",
+      "accent2": "#D4B14D",
+      "display": "Helvetica Neue, Arial, sans-serif",
+      "body": "Helvetica Neue, Arial, sans-serif"
+    },
+    "cardBorder": "1px solid #F8F3E622",
+    "cardShadow": "0 2px 8px rgba(0,0,0,0.05)",
+    "cardRadius": "8px",
+    "btnRadius": "6px",
+    "badgeRadius": "6px",
+    "signatureType": "bento",
+    "eyebrow": "01 / SPECIMEN",
+    "headline": "Zoetrope",
+    "subhead": "The wheel of life: turn the drum briskly and watch horses gallop through the slits. Draw your own strips with twelve frames each.",
+    "navCta": "Get Started",
+    "primaryCta": "Explore Specimen",
+    "secondaryCta": "Read Spec",
+    "featureTitle": "Core Principle",
+    "featureDesc": "Disciplined design tokens executed with deliberate craft.",
+    "metricValue": "100%",
+    "metricLabel": "Style Fidelity",
+    "metricDelta": "▲ Active",
+    "planName": "Pro Edition",
+    "planPrice": "$49",
+    "planFeatures": [
+      "Complete DESIGN.md Spec",
+      "Full Component Tokens",
+      "Commercial License"
+    ]
+=======
+>>>>>>> origin/main
   }
 };
 

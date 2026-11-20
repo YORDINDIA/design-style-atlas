@@ -9,7 +9,11 @@ preview:
   bg: "#F3F2F1"
   surface: "#FFFFFF"
   ink: "#201F1E"
+<<<<<<< HEAD
+  muted: "#686868"
+=======
   muted: "#605E5C"
+>>>>>>> origin/main
   accent: "#0078D4"
   accent2: "#8764B8"
   display: "Segoe UI, Inter, Helvetica Neue, sans-serif"
@@ -114,6 +118,13 @@ Durations: 100–250ms; standard curve cubic-bezier(0.1,0.9,0.2,1). Easings: eas
 
 ## 17. Responsive behavior
 
+<<<<<<< HEAD
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+All interactive elements: 44px minimum tap targets, 44px+ on touch surfaces.
+
+=======
+>>>>>>> origin/main
 - Mobile (360–767px): single column, 16–20px page margins, 44px+ tap targets, sticky bottom CTA where conversion matters.
 - Tablet (768–1099px): 2-column grids, condensed nav, preserved section order.
 - Desktop (1100px+): full grid expression, max-width per Layout section; type scale per §2 Typography.

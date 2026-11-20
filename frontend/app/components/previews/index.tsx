@@ -161,6 +161,8 @@ import {
   RacingTelemetryPreview,
   BotanicalHerbariumPreview,
 } from "./batch9-iconic-styles";
+<<<<<<< HEAD
+=======
 import {
   PaperCutDioramaPreview,
   OrigamiGeometryPreview,
@@ -193,6 +195,7 @@ import {
   ArchitecturalSketchbookPreview,
   InkStipplingPreview,
 } from "./batch10-researched";
+>>>>>>> origin/main
 import { StyleLandingPage } from "./StyleLandingPage";
 import { StyleComponentKit } from "./StyleComponentKit";
 import { Frame, Meta } from "./frame";
@@ -342,6 +345,8 @@ const previews: Record<string, ComponentType<{ meta: StyleMeta; large?: boolean 
   "raw-html": RawHtmlPreview,
   "racing-telemetry": RacingTelemetryPreview,
   "botanical-herbarium": BotanicalHerbariumPreview,
+<<<<<<< HEAD
+=======
   "paper-cut-diorama": PaperCutDioramaPreview,
   "origami-geometry": OrigamiGeometryPreview,
   "kirigami-pop-up": KirigamiPopUpPreview,
@@ -372,6 +377,7 @@ const previews: Record<string, ComponentType<{ meta: StyleMeta; large?: boolean 
   "continuous-line": ContinuousLinePreview,
   "architectural-sketchbook": ArchitecturalSketchbookPreview,
   "ink-stippling": InkStipplingPreview,
+>>>>>>> origin/main
 };
 
 export function hasBespoke(slug: string): boolean {
